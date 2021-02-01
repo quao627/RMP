@@ -1,5 +1,5 @@
 # RMP
-This is a scraper that scrapes information about all the professors and reviews on RateMyProfessor given a school.
+This is a scraper that scrapes information about all the professors and reviews of a given school on RateMyProfessor.
 
 It can be easily implemented by following these steps:
 1. Search your school on RateMyProfessor website. 
