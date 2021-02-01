@@ -1,0 +1,1909 @@
+,tDept,tSid,institution_name,tFname,tMiddlename,tLname,tid,tNumRatings,rating_class,contentType,categoryType,overall_rating
+0,Computer Science,4002,Vanderbilt University,Waseem,,Abbas,2522286,19,good,TEACHER,PROFESSOR,4.6
+1,Biology,4002,Vanderbilt University,Patrick,,Abbot,576773,32,good,TEACHER,PROFESSOR,4.3
+2,Languages,4002,Vanderbilt University,Jacob,,Abell,2185295,3,good,TEACHER,PROFESSOR,5.0
+3,Languages,4002,Vanderbilt University,Trozenski,,Abigail,2569568,0,zero,TEACHER,PROFESSOR,N/A
+4,Engineering,4002,Vanderbilt University,Mark,,Abkowitz,689793,2,good,TEACHER,PROFESSOR,4.8
+5,Engineering,4002,Vanderbilt University,Ghina,,Absi,2645434,1,good,TEACHER,PROFESSOR,5.0
+6,English,4002,Vanderbilt University,Chad,,Abushanab,1634237,3,good,TEACHER,PROFESSOR,4.0
+7,Mathematics,4002,Vanderbilt University,Roza,,Aceska,1783873,6,poor,TEACHER,PROFESSOR,2.0
+8,Women's Studies,4002,Vanderbilt University,Brooke,,Ackerley,2561593,0,zero,TEACHER,PROFESSOR,N/A
+9,Political Science,4002,Vanderbilt University,Brooke,,Ackerly,392888,48,average,TEACHER,PROFESSOR,2.7
+10,Chemistry,4002,Vanderbilt University,Dorothy,,Ackerman,2128061,1,good,TEACHER,PROFESSOR,4.0
+11,Jewish Studies,4002,Vanderbilt University,Phillip,I,Ackerman-Lieberman,1880032,7,average,TEACHER,PROFESSOR,3.1
+12,Music,4002,Vanderbilt University,Billy,,Adair,1808083,1,good,TEACHER,PROFESSOR,5.0
+13,Computer Science,4002,Vanderbilt University,Julie,,Adams,326023,8,average,TEACHER,PROFESSOR,2.9
+14,Engineering,4002,Vanderbilt University,Douglas,,Adams,2191106,10,good,TEACHER,PROFESSOR,4.6
+15,Philosophy,4002,Vanderbilt University,Geoffrey,,Adelsberg,2002173,2,good,TEACHER,PROFESSOR,3.5
+16,Women's Studies,4002,Vanderbilt University,Melanie,,Adley,2057849,1,good,TEACHER,PROFESSOR,5.0
+17,Chemistry,4002,Vanderbilt University,Peter,Harry,Adrid,2613742,3,good,TEACHER,PROFESSOR,4.0
+18,Human Development,4002,Vanderbilt University,Saydolimkhon,,Agzamkhodjaev,2583994,2,good,TEACHER,PROFESSOR,5.0
+19,Philosophy,4002,Vanderbilt University,Patrick,,Ahern,779323,12,average,TEACHER,PROFESSOR,3.3
+20,Music Performance,4002,Vanderbilt University,Okyerema,,Ahima,2271980,0,zero,TEACHER,PROFESSOR,N/A
+21,Music,4002,Vanderbilt University,Gyane,K.,Ahima,2582405,1,good,TEACHER,PROFESSOR,5.0
+22,Philosophy,4002,Vanderbilt University,Sabeen,,Ahmed,2165837,4,good,TEACHER,PROFESSOR,5.0
+23,Mathematics,4002,Vanderbilt University,John,,Ahner,135194,52,average,TEACHER,PROFESSOR,3.1
+24,Mathematics,4002,Vanderbilt University,Valeriano,,Aiello,2346831,7,good,TEACHER,PROFESSOR,3.5
+25,Philosophy,4002,Vanderbilt University,Scott,,Aikin,772978,33,good,TEACHER,PROFESSOR,4.8
+26,Film,4002,Vanderbilt University,William,,Akers,264177,14,good,TEACHER,PROFESSOR,4.5
+27,Accounting,4002,Vanderbilt University,Serkan,,Akguc,1236964,16,good,TEACHER,PROFESSOR,4.1
+28,Languages,4002,Vanderbilt University,Fahad,,Al-Shehri,1488562,3,good,TEACHER,PROFESSOR,3.7
+29,Business,4002,Vanderbilt University,Yasin,,Alan,2136859,0,zero,TEACHER,PROFESSOR,N/A
+30,Science,4002,Vanderbilt University,Royal,,Albridge,69299,48,poor,TEACHER,PROFESSOR,2.3
+31,Management,4002,Vanderbilt University,Tawn,,Albright,1889748,5,good,TEACHER,PROFESSOR,4.8
+32,Mathematics,4002,Vanderbilt University,Akram,,Aldroubi,95983,38,good,TEACHER,PROFESSOR,4.2
+33,Philosophy,4002,Vanderbilt University,Alexandra,,Alekseyeva,2071176,6,good,TEACHER,PROFESSOR,3.8
+34,Political Science,4002,Vanderbilt University,Klint,,Alexander,554388,41,good,TEACHER,PROFESSOR,4.1
+35,English,4002,Vanderbilt University,Michael,,Alijewicz,1350993,9,good,TEACHER,PROFESSOR,3.7
+36,Philosophy,4002,Vanderbilt University,Lana,,Allen,1754142,1,poor,TEACHER,PROFESSOR,1.0
+37,Engineering,4002,Vanderbilt University,Michael,,Alles,1138504,2,good,TEACHER,PROFESSOR,3.8
+38,Languages,4002,Vanderbilt University,Frances,,Alpren,740246,25,average,TEACHER,PROFESSOR,3.3
+39,Languages,4002,Vanderbilt University,Alana,,Alvarez,1733135,3,good,TEACHER,PROFESSOR,4.8
+40,Languages,4002,Vanderbilt University,Carlos,J,Amado,2130555,2,good,TEACHER,PROFESSOR,4.5
+41,Computer Science,4002,Vanderbilt University,Shilo,,Anders,2582826,0,zero,TEACHER,PROFESSOR,N/A
+42,Economics,4002,Vanderbilt University,Kathryn,,Anderson,743789,18,average,TEACHER,PROFESSOR,2.8
+43,Computer Science,4002,Vanderbilt University,Clifford,B,Anderson,2454695,2,average,TEACHER,PROFESSOR,3.0
+44,Economics,4002,Vanderbilt University,Ana,,Andrade,397790,39,average,TEACHER,PROFESSOR,3.0
+45,Mathematics,4002,Vanderbilt University,Simon,,Andre,2584814,6,good,TEACHER,PROFESSOR,4.2
+46,Health Science,4002,Vanderbilt University,Lindsey,,Andrews,1841987,3,good,TEACHER,PROFESSOR,4.0
+47,Nursing,4002,Vanderbilt University,Susan,,Andrews,2362968,2,average,TEACHER,PROFESSOR,3.0
+48,Engineering,4002,Vanderbilt University,Amrutur,,Anilkumar,1470765,9,average,TEACHER,PROFESSOR,3.1
+49,Political Science,4002,Vanderbilt University,Allison,,Anoll,2170405,6,good,TEACHER,PROFESSOR,4.8
+50,Mathematics,4002,Vanderbilt University,Yago,,Antolin Pichel,1892618,14,average,TEACHER,PROFESSOR,3.4
+51,Philosophy,4002,Vanderbilt University,Alejandro,,Arango Vargas,1781346,6,poor,TEACHER,PROFESSOR,1.5
+52,Computer Science,4002,Vanderbilt University,Daniel,,Arena,2197326,116,good,TEACHER,PROFESSOR,4.9
+53,Languages,4002,Vanderbilt University,Patricia,,Armstrong,604890,8,good,TEACHER,PROFESSOR,4.7
+54,Mathematics,4002,Vanderbilt University,Jonathan,,Ashbrock,2442343,2,good,TEACHER,PROFESSOR,3.5
+55,Languages,4002,Vanderbilt University,Alexandra,,Astier,2248581,1,good,TEACHER,PROFESSOR,5.0
+56,Economics,4002,Vanderbilt University,Jeremy,,Atack,377917,26,average,TEACHER,PROFESSOR,2.9
+57,Political Science,4002,Vanderbilt University,Carol,,Atkinson,1306536,13,average,TEACHER,PROFESSOR,3.3
+58,Mathematics,4002,Vanderbilt University,Scott,,Atkinson,2180354,10,good,TEACHER,PROFESSOR,4.2
+59,Ethnic Studies,4002,Vanderbilt University,James,,Auer,354532,11,good,TEACHER,PROFESSOR,4.3
+60,English,4002,Vanderbilt University,Pavneet,,Aulakh,1957804,19,good,TEACHER,PROFESSOR,4.3
+61,Not Specified,4002,Vanderbilt University,Michael,,Aurbach,353509,6,good,TEACHER,PROFESSOR,4.4
+62,Sociology,4002,Vanderbilt University,Noel,,Austin,742399,5,good,TEACHER,PROFESSOR,3.9
+63,English,4002,Vanderbilt University,Thea,,Autry,2419726,1,good,TEACHER,PROFESSOR,5.0
+64,Geology,4002,Vanderbilt University,John,,Ayers,612571,7,good,TEACHER,PROFESSOR,4.0
+65,Languages,4002,Vanderbilt University,Jose,,Aznar,1106974,46,good,TEACHER,PROFESSOR,4.3
+66,Religion,4002,Vanderbilt University,Annalisa,,Azzoni,1085575,9,good,TEACHER,PROFESSOR,3.8
+67,Engineering,4002,Vanderbilt University,Justin,,Baba,2360072,4,good,TEACHER,PROFESSOR,3.5
+68,English,4002,Vanderbilt University,Beau,,Baca,952463,8,good,TEACHER,PROFESSOR,4.3
+69,English,4002,Vanderbilt University,Beth Anne,,Bachmann,483882,17,good,TEACHER,PROFESSOR,4.4
+70,Chemistry,4002,Vanderbilt University,Brian,,Bachmann,519590,15,good,TEACHER,PROFESSOR,3.5
+71,Human Development,4002,Vanderbilt University,John,,Bachmann,838609,16,good,TEACHER,PROFESSOR,3.8
+72,Psychology,4002,Vanderbilt University,Jo-Anne,,Bachorowski,353179,33,average,TEACHER,PROFESSOR,3.3
+73,Biology,4002,Vanderbilt University,Hemant,,Badgandi,2366308,18,average,TEACHER,PROFESSOR,2.8
+74,Languages,4002,Vanderbilt University,Marcio,,Bahia,1424588,14,good,TEACHER,PROFESSOR,4.9
+75,Management,4002,Vanderbilt University,John,,Bailey,1454368,1,good,TEACHER,PROFESSOR,4.5
+76,Management,4002,Vanderbilt University,Jack,,Bailey,1454371,2,good,TEACHER,PROFESSOR,5.0
+77,Languages,4002,Vanderbilt University,Cara,J.,Bailey,2391934,0,zero,TEACHER,PROFESSOR,N/A
+78,English,4002,Vanderbilt University,Houston,,Baker,996636,10,average,TEACHER,PROFESSOR,3.2
+79,Religion,4002,Vanderbilt University,Kat,,Baker,1306113,3,good,TEACHER,PROFESSOR,4.5
+80,Economics,4002,Vanderbilt University,Richard,,Baker,1931314,7,poor,TEACHER,PROFESSOR,1.5
+81,Psychology,4002,Vanderbilt University,Pooja,,Balaram,1812841,0,zero,TEACHER,PROFESSOR,N/A
+82,Computer Science,4002,Vanderbilt University,Daniel,,Balasubramanian,2359916,7,good,TEACHER,PROFESSOR,4.7
+83,Mathematics,4002,Vanderbilt University,Sahana,,Balasubramanya,2091050,7,good,TEACHER,PROFESSOR,3.9
+84,Human Development,4002,Vanderbilt University,Ryan,,Balch,2042453,3,good,TEACHER,PROFESSOR,5.0
+85,Religion,4002,Vanderbilt University,Lewis,,Baldwin,425918,13,good,TEACHER,PROFESSOR,4.4
+86,Chemistry,4002,Vanderbilt University,Andrzej,,Balinski,1646480,2,average,TEACHER,PROFESSOR,2.8
+87,Business,4002,Vanderbilt University,Clifford,,Ball,1118577,1,poor,TEACHER,PROFESSOR,1.0
+88,Social Science,4002,Vanderbilt University,Dale,,Ballou,545314,12,poor,TEACHER,PROFESSOR,2.2
+89,Sociology,4002,Vanderbilt University,Joe,,Bandy,2583791,1,good,TEACHER,PROFESSOR,5.0
+90,Sociology,4002,Vanderbilt University,Pallavi ,,Banerjee ,1933660,3,average,TEACHER,PROFESSOR,3.2
+91,Languages,4002,Vanderbilt University,Kaleigh,,Bangor,2057274,6,good,TEACHER,PROFESSOR,4.8
+92,Engineering,4002,Vanderbilt University,Rizia,,Bardhan,2355834,2,good,TEACHER,PROFESSOR,5.0
+93,African-American Studies,4002,Vanderbilt University,Brother,,Bari,2628667,1,good,TEACHER,PROFESSOR,5.0
+94,Engineering,4002,Vanderbilt University,Abhijit,,Barman,1431782,1,good,TEACHER,PROFESSOR,5.0
+95,Human Development,4002,Vanderbilt University,Sandra,,Barnes,1720845,13,poor,TEACHER,PROFESSOR,2.3
+96,Engineering,4002,Vanderbilt University,Joel,,Barnett,325651,28,good,TEACHER,PROFESSOR,3.7
+97,Engineering,4002,Vanderbilt University,Hiba,,Baroud,2652206,1,good,TEACHER,PROFESSOR,5.0
+98,Languages,4002,Vanderbilt University,Tracy,,Barrett,140793,17,good,TEACHER,PROFESSOR,4.2
+99,Languages,4002,Vanderbilt University,Belkis,,Barrios,1712730,6,good,TEACHER,PROFESSOR,4.3
+100,Management,4002,Vanderbilt University,Bruce,,Barry,1122797,1,average,TEACHER,PROFESSOR,3.0
+101,Business,4002,Vanderbilt University,Bruce,,Barry,2136857,0,zero,TEACHER,PROFESSOR,N/A
+102,English,4002,Vanderbilt University,Robert,,Barsky,558815,16,good,TEACHER,PROFESSOR,4.6
+103,Political Science,4002,Vanderbilt University,Larry,,Bartels,2449872,1,poor,TEACHER,PROFESSOR,1.0
+104,Women's Studies,4002,Vanderbilt University,Faith,,Barter,2189365,5,good,TEACHER,PROFESSOR,4.6
+105,Mechanical Engineering,4002,Vanderbilt University,Eric,,Barth,2532174,1,poor,TEACHER,PROFESSOR,2.0
+106,Education,4002,Vanderbilt University,Erin,,Barton,2397664,0,zero,TEACHER,PROFESSOR,N/A
+107,Music,4002,Vanderbilt University,Greg,,Barz,503849,35,good,TEACHER,PROFESSOR,3.8
+108,Human Development,4002,Vanderbilt University,Ur,,Barzel,2618291,1,good,TEACHER,PROFESSOR,5.0
+109,Human Development,4002,Vanderbilt University,Rosario,,Basay,1262653,6,good,TEACHER,PROFESSOR,3.7
+110,Biology,4002,Vanderbilt University,Steven,,Baskauf,457342,60,good,TEACHER,PROFESSOR,3.9
+111,Engineering,4002,Vanderbilt University,Prodyot,,Basu,277142,16,average,TEACHER,PROFESSOR,2.7
+112,Economics,4002,Vanderbilt University,Patrick,,Bateman,654104,5,good,TEACHER,PROFESSOR,4.4
+113,Engineering,4002,Vanderbilt University,Carlos,A. Silvera,Batista,2290050,4,good,TEACHER,PROFESSOR,3.5
+114,Engineering,4002,Vanderbilt University,Franz,,Baudenbacher,2029238,6,average,TEACHER,PROFESSOR,2.5
+115,Education,4002,Vanderbilt University,Steve,,Baum,1061347,21,good,TEACHER,PROFESSOR,4.4
+116,English,4002,Vanderbilt University,Max,,Baumkel,2083756,2,poor,TEACHER,PROFESSOR,1.2
+117,Economics,4002,Vanderbilt University,Siraj,,Bawa,2125503,0,zero,TEACHER,PROFESSOR,N/A
+118,Economics,4002,Vanderbilt University,Brian,,Beach,2587311,3,good,TEACHER,PROFESSOR,4.7
+119,English,4002,Vanderbilt University,Joshua,,Beall,1505307,5,good,TEACHER,PROFESSOR,3.6
+120,Languages,4002,Vanderbilt University,Caroline,,Beard,2225060,3,good,TEACHER,PROFESSOR,5.0
+121,Communication,4002,Vanderbilt University,Vanessa,,Beasley,1199927,6,good,TEACHER,PROFESSOR,4.8
+122,Philosophy,4002,Vanderbilt University,Joel,,Beaupre,912290,4,good,TEACHER,PROFESSOR,4.5
+123,Computer Science,4002,Vanderbilt University,John,,Beck,2456715,4,poor,TEACHER,PROFESSOR,2.3
+124,Social Science,4002,Vanderbilt University,George,,Becker,117939,43,good,TEACHER,PROFESSOR,4.1
+125,Anthropology,4002,Vanderbilt University,Dominique,,Behague,1892039,4,good,TEACHER,PROFESSOR,4.9
+126,English,4002,Vanderbilt University,Vereen,,Bell,197239,24,good,TEACHER,PROFESSOR,3.9
+127,Religion,4002,Vanderbilt University,Dianna,,Bell,2054703,4,good,TEACHER,PROFESSOR,4.4
+128,Engineering,4002,Vanderbilt University,Leon,,Bellan,2191089,11,average,TEACHER,PROFESSOR,2.5
+129,English,4002,Vanderbilt University,Diana,,Bellonby,1170050,8,good,TEACHER,PROFESSOR,4.5
+130,Psychology,4002,Vanderbilt University,Allison,,Bender,2181105,1,good,TEACHER,PROFESSOR,4.0
+131,Anthropology,4002,Vanderbilt University,Jada,,Benn Torres,2251387,8,good,TEACHER,PROFESSOR,3.5
+132,Geology,4002,Vanderbilt University,Ralf,,Bennartz,2213840,1,average,TEACHER,PROFESSOR,3.0
+133,Economics,4002,Vanderbilt University,Christopher,,Bennett,1267861,22,average,TEACHER,PROFESSOR,2.7
+134,Communication,4002,Vanderbilt University,Jeff,,Bennett,2483545,5,good,TEACHER,PROFESSOR,4.6
+135,Psychology,4002,Vanderbilt University,Stephen,,Benning,1114440,6,average,TEACHER,PROFESSOR,3.4
+136,Biology,4002,Vanderbilt University,Amanda,,Benson,773065,45,good,TEACHER,PROFESSOR,3.5
+137,Political Science,4002,Vanderbilt University,Brett,,Benson,911597,40,good,TEACHER,PROFESSOR,3.8
+138,Engineering,4002,Vanderbilt University,David,,Berezov,1083648,13,good,TEACHER,PROFESSOR,3.6
+139,Computer Science,4002,Vanderbilt University,Matthew,,Berger,2411266,3,average,TEACHER,PROFESSOR,3.3
+140,Languages,4002,Vanderbilt University,Francille,,Bergquist,399842,9,good,TEACHER,PROFESSOR,4.2
+141,Languages,4002,Vanderbilt University,Susan,,Berk-Seligson,699558,4,good,TEACHER,PROFESSOR,4.4
+142,Science,4002,Vanderbilt University,Andreas,,Berlind,1568344,3,good,TEACHER,PROFESSOR,4.7
+143,Engineering,4002,Vanderbilt University,John,,Bers,353071,27,good,TEACHER,PROFESSOR,3.7
+144,Mathematics,4002,Vanderbilt University,Nathan,,Bertsch,1536861,1,good,TEACHER,PROFESSOR,4.0
+145,History,4002,Vanderbilt University,Michael,,Bess,137052,66,good,TEACHER,PROFESSOR,4.5
+146,Human Development,4002,Vanderbilt University,Kimberly,,Bess,1036368,24,average,TEACHER,PROFESSOR,2.8
+147,TA,4002,Vanderbilt University,Louis,,Betty,871435,2,average,TEACHER,PROFESSOR,3.2
+148,Nursing,4002,Vanderbilt University,Linda,,Beuscher ,1983019,1,poor,TEACHER,PROFESSOR,1.0
+149,Engineering,4002,Vanderbilt University,Bryan,,Beyer,2191098,1,good,TEACHER,PROFESSOR,5.0
+150,English,4002,Vanderbilt University,Piyali,,Bhattacharya,2216278,6,good,TEACHER,PROFESSOR,5.0
+151,Engineering,4002,Vanderbilt University,Bharat,,Bhuva,133390,61,good,TEACHER,PROFESSOR,3.5
+152,Music Performance,4002,Vanderbilt University,Tucker,,Biddlecombe,1752716,8,good,TEACHER,PROFESSOR,4.0
+153,Music,4002,Vanderbilt University,Emelyne,,Bingham,631396,11,good,TEACHER,PROFESSOR,4.5
+154,Medicine,4002,Vanderbilt University,Awadh,,Binhazim,518168,3,good,TEACHER,PROFESSOR,4.0
+155,Astronomy,4002,Vanderbilt University,Jonathan,,Bird,2662761,1,good,TEACHER,PROFESSOR,5.0
+156,English,4002,Vanderbilt University,Laura,,Birdsall,1955661,8,good,TEACHER,PROFESSOR,4.7
+157,English,4002,Vanderbilt University,Destiny,,Birdsong,2053430,2,good,TEACHER,PROFESSOR,4.8
+158,Engineering,4002,Vanderbilt University,Julie,,Birdsong,2579860,2,good,TEACHER,PROFESSOR,5.0
+159,Mathematics,4002,Vanderbilt University,Marcel,,Bischoff,2005995,1,good,TEACHER,PROFESSOR,4.0
+160,Engineering,4002,Vanderbilt University,Gautam,,Biswas,1040800,5,average,TEACHER,PROFESSOR,2.5
+161,Anthropology,4002,Vanderbilt University,Carwil ,,Bjork-James,2058804,14,good,TEACHER,PROFESSOR,3.8
+162,Anthropology,4002,Vanderbilt University,Sophie,,Bjork-James,2480866,4,good,TEACHER,PROFESSOR,5.0
+163,Engineering,4002,Vanderbilt University,Jeffrey,,Black,1220002,2,good,TEACHER,PROFESSOR,3.5
+164,History,4002,Vanderbilt University,David,,Blackbourn ,1942375,7,good,TEACHER,PROFESSOR,3.8
+165,Business,4002,Vanderbilt University,Joseph,D,Blackburn,2136858,0,zero,TEACHER,PROFESSOR,N/A
+166,History,4002,Vanderbilt University,Richard,,Blackett,377915,5,good,TEACHER,PROFESSOR,4.0
+167,Psychology,4002,Vanderbilt University,Randolph,,Blake,1506569,4,good,TEACHER,PROFESSOR,4.8
+168,Education,4002,Vanderbilt University,Karen,,Blankenship,2198098,1,good,TEACHER,PROFESSOR,5.0
+169,Art,4002,Vanderbilt University,Alexandra,,Blau,2481926,2,good,TEACHER,PROFESSOR,4.5
+170,Business,4002,Vanderbilt University,Jesse,A,Blocher,2136860,1,poor,TEACHER,PROFESSOR,2.0
+171,Art History,4002,Vanderbilt University,Jay,,Bloom,832618,19,good,TEACHER,PROFESSOR,4.6
+172,Science,4002,Vanderbilt University,Jeffrey,,Blume,2644552,0,zero,TEACHER,PROFESSOR,N/A
+173,Mathematics,4002,Vanderbilt University,Nick,,Boatman,1560799,1,poor,TEACHER,PROFESSOR,2.0
+174,Computer Science,4002,Vanderbilt University,Robert,,Bodenheimer,464447,8,poor,TEACHER,PROFESSOR,1.6
+175,Medicine,4002,Vanderbilt University,Frank,,Boehm,414308,6,good,TEACHER,PROFESSOR,4.2
+176,Mathematics,4002,Vanderbilt University,Anna Marie,,Bohmann,2082073,9,good,TEACHER,PROFESSOR,4.7
+177,Communication,4002,Vanderbilt University,Kim,,Bohyeong,2478187,3,good,TEACHER,PROFESSOR,4.3
+178,Finance,4002,Vanderbilt University,Nicolas,P.B.,Bollen,2136862,0,zero,TEACHER,PROFESSOR,N/A
+179,Economics,4002,Vanderbilt University,Eric,,Bond,399433,7,good,TEACHER,PROFESSOR,4.2
+180,Engineering,4002,Vanderbilt University,Ab,,Bonds,396276,20,good,TEACHER,PROFESSOR,3.9
+181,Management,4002,Vanderbilt University,Laura,,Booker,2562789,1,good,TEACHER,PROFESSOR,5.0
+182,Political Science,4002,Vanderbilt University,William,,Booth,574288,37,good,TEACHER,PROFESSOR,4.2
+183,Psychology,4002,Vanderbilt University,Amy,,Booth,2305484,12,good,TEACHER,PROFESSOR,4.1
+184,Biology,4002,Vanderbilt University,Seth,,Bordenstein,1485623,37,good,TEACHER,PROFESSOR,4.3
+185,Languages,4002,Vanderbilt University,Raquelle,,Bostow,2329216,2,good,TEACHER,PROFESSOR,4.5
+186,Languages,4002,Vanderbilt University,Tatiana,,Botero,215546,35,average,TEACHER,PROFESSOR,3.3
+187,Mathematics,4002,Vanderbilt University,Simone,,Bova,1381330,5,good,TEACHER,PROFESSOR,3.5
+188,Biomedical,4002,Vanderbilt University,Audrey,,Bowden,2652217,1,average,TEACHER,PROFESSOR,3.0
+189,Human Development,4002,Vanderbilt University,Corey,,Bower,1667082,1,good,TEACHER,PROFESSOR,4.0
+190,Engineering,4002,Vanderbilt University,Alan,,Bowers,351310,26,good,TEACHER,PROFESSOR,3.6
+191,English,4002,Vanderbilt University,Charles,,Bowie,1678028,1,good,TEACHER,PROFESSOR,4.0
+192,History,4002,Vanderbilt University,Tim,,Boyd,343216,17,good,TEACHER,PROFESSOR,4.7
+193,English,4002,Vanderbilt University,John,,Bradley,1889645,8,good,TEACHER,PROFESSOR,4.3
+194,English,4002,Vanderbilt University,Kira,,Braham,2464803,1,good,TEACHER,PROFESSOR,4.0
+195,Biology,4002,Vanderbilt University,Cynthia,,Brame,1858751,18,good,TEACHER,PROFESSOR,4.5
+196,Mathematics,4002,Vanderbilt University,Michael,,Brandenbursky,1577065,14,average,TEACHER,PROFESSOR,3.1
+197,Engineering,4002,Vanderbilt University,David,J,Braun,2626060,2,good,TEACHER,PROFESSOR,3.5
+198,Human Development,4002,Vanderbilt University,John,,Braxton,762486,7,good,TEACHER,PROFESSOR,4.6
+199,Philosophy,4002,Vanderbilt University,Garrett,,Bredeson,1632757,2,good,TEACHER,PROFESSOR,4.8
+200,Philosophy,4002,Vanderbilt University,Jonathan,,Bremer,1040192,8,good,TEACHER,PROFESSOR,4.2
+201,English,4002,Vanderbilt University,Gabriel,,Briggs,1397356,28,good,TEACHER,PROFESSOR,4.7
+202,Languages,4002,Vanderbilt University,Jerome,,Brillaud,1707335,2,good,TEACHER,PROFESSOR,5.0
+203,History,4002,Vanderbilt University,Brandi,,Brimmer,1010988,14,average,TEACHER,PROFESSOR,2.6
+204,Music,4002,Vanderbilt University,Mat,,Britain,840324,3,good,TEACHER,PROFESSOR,5.0
+205,Biology,4002,Vanderbilt University,Kendal,,Broadie,359640,88,good,TEACHER,PROFESSOR,3.8
+206,Philosophy,4002,Vanderbilt University,Michael,,Brodrick,1494107,2,good,TEACHER,PROFESSOR,5.0
+207,Psychology,4002,Vanderbilt University,Penelope (Penny),,Brooks,1022254,6,average,TEACHER,PROFESSOR,3.1
+208,Mathematics,4002,Vanderbilt University,Arnaud,,Brothier,1922762,5,average,TEACHER,PROFESSOR,2.7
+209,International Studies,4002,Vanderbilt University,Abby,,Broughton,2220862,2,good,TEACHER,PROFESSOR,3.5
+210,Sociology,4002,Vanderbilt University,Tony,,Brown,543004,11,good,TEACHER,PROFESSOR,3.8
+211,Sociology,4002,Vanderbilt University,Tyson,,Brown,1490646,3,good,TEACHER,PROFESSOR,3.8
+212,Health Science,4002,Vanderbilt University,Lauren,,Brown,2558426,0,zero,TEACHER,PROFESSOR,N/A
+213,Languages,4002,Vanderbilt University,Jacob,,Brown,2443832,4,good,TEACHER,PROFESSOR,5.0
+214,Mathematics,4002,Vanderbilt University,Cameron,,Browne,1875747,4,poor,TEACHER,PROFESSOR,1.6
+215,Engineering,4002,Vanderbilt University,Ralph,,Bruce,1774877,2,average,TEACHER,PROFESSOR,2.8
+216,Mathematics,4002,Vanderbilt University,Derek,,Bruff,970074,19,good,TEACHER,PROFESSOR,4.3
+217,Human Development,4002,Vanderbilt University,Rokeisha,,Bryant,2280409,2,good,TEACHER,PROFESSOR,3.5
+218,Classics,4002,Vanderbilt University,Ari,Z,Bryen,2202257,13,good,TEACHER,PROFESSOR,4.8
+219,Chemistry,4002,Vanderbilt University,Lauren,Elizabeth,Buchanan,2331459,7,good,TEACHER,PROFESSOR,4.1
+220,Engineering,4002,Vanderbilt University,Amanda,,Buck,1917535,1,good,TEACHER,PROFESSOR,4.5
+221,Music,4002,Vanderbilt University,Steve,,Buckingham,1892046,3,good,TEACHER,PROFESSOR,4.5
+222,Economics,4002,Vanderbilt University,Stephen,,Buckles,126728,304,average,TEACHER,PROFESSOR,3.4
+223,Nursing,4002,Vanderbilt University,Amy,,Bull,1622043,0,zero,TEACHER,PROFESSOR,N/A
+224,Anthropology,4002,Vanderbilt University,John,,Bunce,1725191,2,good,TEACHER,PROFESSOR,4.8
+225,Philosophy,4002,Vanderbilt University,Adam,,Burgos,2092859,1,good,TEACHER,PROFESSOR,4.0
+226,Mathematics,4002,Vanderbilt University,Richard,,Burstein,1490305,4,poor,TEACHER,PROFESSOR,1.5
+227,Languages,4002,Vanderbilt University,Jamie,,Butler,1628801,5,poor,TEACHER,PROFESSOR,2.1
+228,Communication,4002,Vanderbilt University,Neil,,Butt,1675044,6,average,TEACHER,PROFESSOR,3.3
+229,Engineering,4002,Vanderbilt University,Curtis,,Byers,2251177,2,good,TEACHER,PROFESSOR,5.0
+230,Engineering,4002,Vanderbilt University,Brett,,Byram,2371700,4,good,TEACHER,PROFESSOR,4.8
+231,History,4002,Vanderbilt University,Brandon,,Byrd,2189699,11,average,TEACHER,PROFESSOR,3.4
+232,Mathematics,4002,Vanderbilt University,Julio,,Cáceres Gonzales,2667354,1,good,TEACHER,PROFESSOR,5.0
+233,History,4002,Vanderbilt University,William,,Caferro,141521,43,good,TEACHER,PROFESSOR,4.5
+234,Mechanical Engineering,4002,Vanderbilt University,Joshua,David,Caldwell,2322362,2,good,TEACHER,PROFESSOR,5.0
+235,Mathematics,4002,Vanderbilt University,Matthew,,Calef,1232313,2,good,TEACHER,PROFESSOR,4.8
+236,Biology,4002,Vanderbilt University,Lisa,,Calfee,1767809,1,poor,TEACHER,PROFESSOR,2.0
+237,Music,4002,Vanderbilt University,Joy,,Calico,328424,19,good,TEACHER,PROFESSOR,4.0
+238,Anthropology,4002,Vanderbilt University,Celina,,Callahan-Kapoor,2212356,24,good,TEACHER,PROFESSOR,4.0
+239,Languages,4002,Vanderbilt University,Denise,,Callejas,1394950,5,good,TEACHER,PROFESSOR,4.5
+240,Mathematics,4002,Vanderbilt University,Alexander,,Cameron,2433869,5,good,TEACHER,PROFESSOR,4.8
+241,Engineering,4002,Vanderbilt University,Janey,,Camp,1696890,0,zero,TEACHER,PROFESSOR,N/A
+242,Asian Studies,4002,Vanderbilt University,Rob,,Campany,1884162,10,poor,TEACHER,PROFESSOR,2.1
+243,Religion,4002,Vanderbilt University,Robert,,Campany,2448038,1,good,TEACHER,PROFESSOR,5.0
+244,Sociology,4002,Vanderbilt University,Karen,,Campbell,349809,14,good,TEACHER,PROFESSOR,3.5
+245,Astronomy,4002,Vanderbilt University,Lauren,,Campbell,2242000,3,good,TEACHER,PROFESSOR,4.7
+246,Mathematics,4002,Vanderbilt University,Jonathan,A.,Campbell,2247852,13,good,TEACHER,PROFESSOR,3.9
+247,Art,4002,Vanderbilt University,Maria,Magdalena,Campos-Pons,2482320,0,zero,TEACHER,PROFESSOR,N/A
+248,Economics,4002,Vanderbilt University,Neil,,Canaday,1052121,4,average,TEACHER,PROFESSOR,2.8
+249,Human Development,4002,Vanderbilt University,Christopher,,Candelaria,2354007,2,good,TEACHER,PROFESSOR,4.5
+250,Human Development,4002,Vanderbilt University,Marisa,,Cannata,2464797,0,zero,TEACHER,PROFESSOR,N/A
+251,Human Development,4002,Vanderbilt University,Mark,,Cannon,750350,10,good,TEACHER,PROFESSOR,4.5
+252,Education,4002,Vanderbilt University,Andrea,,Capizzi,1161762,9,good,TEACHER,PROFESSOR,4.8
+253,Biology,4002,Vanderbilt University,John (Tony),A,Capra,2504017,3,good,TEACHER,PROFESSOR,5.0
+254,Languages,4002,Vanderbilt University,Jose,,Cardenas Bunsen,1786450,5,good,TEACHER,PROFESSOR,4.5
+255,Philosophy,4002,Vanderbilt University,Amber,,Carlson,2004907,3,good,TEACHER,PROFESSOR,4.8
+256,History,4002,Vanderbilt University,David,,Carlton,353193,37,average,TEACHER,PROFESSOR,3.3
+257,Sociology,4002,Vanderbilt University,Laura,,Carpenter,555955,12,average,TEACHER,PROFESSOR,3.2
+258,Political Science,4002,Vanderbilt University,Katherine,,Carroll,806043,40,good,TEACHER,PROFESSOR,3.9
+259,Human Development,4002,Vanderbilt University,Ashley,,Carse,2460255,0,zero,TEACHER,PROFESSOR,N/A
+260,Religion,4002,Vanderbilt University,Arthur,,Carter,1802984,4,poor,TEACHER,PROFESSOR,2.1
+261,Film,4002,Vanderbilt University,Madeleine,,Casad,2210230,2,good,TEACHER,PROFESSOR,4.5
+262,Medicine,4002,Vanderbilt University,Jenel,,Cassidy,2362531,3,good,TEACHER,PROFESSOR,5.0
+263,History,4002,Vanderbilt University,Celso,,Castilho,1437165,9,good,TEACHER,PROFESSOR,4.6
+264,Languages,4002,Vanderbilt University,Anna,,Castillo,2365148,7,good,TEACHER,PROFESSOR,4.8
+265,Neuroscience,4002,Vanderbilt University,Elizabeth,,Catania,1634690,11,good,TEACHER,PROFESSOR,3.6
+266,Biology,4002,Vanderbilt University,Ken,,Catania,240655,28,good,TEACHER,PROFESSOR,4.7
+267,Languages,4002,Vanderbilt University,Lorraine,,Catanzaro,1076306,45,good,TEACHER,PROFESSOR,4.8
+268,Biology,4002,Vanderbilt University,Kefyn,,Catley,612573,5,good,TEACHER,PROFESSOR,4.1
+269,English,4002,Vanderbilt University,Gabriel,,Cervantes,1269728,2,good,TEACHER,PROFESSOR,3.5
+270,Mathematics,4002,Vanderbilt University,Henry,,Chan,2519666,16,good,TEACHER,PROFESSOR,3.8
+271,Mathematics,4002,Vanderbilt University,Michael,,Chance,1319660,12,good,TEACHER,PROFESSOR,4.1
+272,Management,4002,Vanderbilt University,Paul,,Chaney,1168264,3,poor,TEACHER,PROFESSOR,2.3
+273,Accounting,4002,Vanderbilt University,Paul,,Chaney,2136863,4,average,TEACHER,PROFESSOR,2.5
+274,English,4002,Vanderbilt University,Rebecca,,Chapman,1494816,17,good,TEACHER,PROFESSOR,4.8
+275,Physics,4002,Vanderbilt University,Forrest,T,Charnock,2216689,8,average,TEACHER,PROFESSOR,3.0
+276,Music,4002,Vanderbilt University,Brittany,,Chase,2278304,29,good,TEACHER,PROFESSOR,3.9
+277,Political Science,4002,Vanderbilt University,J.Tyson,,Chatagnier,2086770,2,good,TEACHER,PROFESSOR,4.0
+278,Nursing,4002,Vanderbilt University,Vera,,Chatman,781771,11,poor,TEACHER,PROFESSOR,1.6
+279,Computer Science,4002,Vanderbilt University,Pushpita,,Chatterje,2279396,2,poor,TEACHER,PROFESSOR,1.0
+280,Computer Science,4002,Vanderbilt University,Pushpita,,Chatterjee,2281979,1,poor,TEACHER,PROFESSOR,2.0
+281,Asian Studies,4002,Vanderbilt University,Divya,,Chaudhry,2533214,3,good,TEACHER,PROFESSOR,5.0
+282,Political Science,4002,Vanderbilt University,Tizoc,,Chavez,2156803,14,good,TEACHER,PROFESSOR,4.5
+283,Mathematics,4002,Vanderbilt University,Xuemei,,Chen,1670515,1,good,TEACHER,PROFESSOR,5.0
+284,Human Development,4002,Vanderbilt University,Li Min,,Chen,2588880,0,zero,TEACHER,PROFESSOR,N/A
+285,Theology,4002,Vanderbilt University,Shai,,Cherry,126070,21,average,TEACHER,PROFESSOR,2.6
+286,English,4002,Vanderbilt University,Nancy,,Chick,1773424,1,good,TEACHER,PROFESSOR,4.5
+287,Mathematics,4002,Vanderbilt University,Ionut,,Chifan,1439664,13,average,TEACHER,PROFESSOR,3.2
+288,Languages,4002,Vanderbilt University,Rachel,,Chiguluri,1079704,28,good,TEACHER,PROFESSOR,4.3
+289,Political Science,4002,Vanderbilt University,Giacomo,,Chiozza,1295666,8,good,TEACHER,PROFESSOR,3.9
+290,Psychology,4002,Vanderbilt University,Sun,,Cho,2032731,0,zero,TEACHER,PROFESSOR,N/A
+291,Psychology,4002,Vanderbilt University,Sun-Joo,,Cho,2276830,3,good,TEACHER,PROFESSOR,5.0
+292,Engineering,4002,Vanderbilt University,Ashok,,Choudhury,1641533,9,good,TEACHER,PROFESSOR,4.3
+293,Nursing,4002,Vanderbilt University,Tom,,Christenbery,817030,6,average,TEACHER,PROFESSOR,2.9
+294,Finance,4002,Vanderbilt University,William,G,Christie,2136864,6,good,TEACHER,PROFESSOR,3.6
+295,Sociology,4002,Vanderbilt University,Andre,,Christie-Mizell,1847688,8,good,TEACHER,PROFESSOR,4.4
+296,Mathematics,4002,Vanderbilt University,Cheng,,Chu,2260571,12,good,TEACHER,PROFESSOR,4.4
+297,English,4002,Vanderbilt University,Alice,,Chuang,880076,6,good,TEACHER,PROFESSOR,3.8
+298,Ethnic Studies,4002,Vanderbilt University,Larry,,Churchill,1358570,2,good,TEACHER,PROFESSOR,4.8
+299,Economics,4002,Vanderbilt University,Brandyn,,Churchill,2419697,1,good,TEACHER,PROFESSOR,5.0
+300,English,4002,Vanderbilt University,TJ,,Cienki,2291068,4,good,TEACHER,PROFESSOR,4.5
+301,Engineering,4002,Vanderbilt University,Peter,,Ciesielski,908845,1,good,TEACHER,PROFESSOR,4.0
+302,Philosophy,4002,Vanderbilt University,Natalie,,Cisneros,1382058,8,average,TEACHER,PROFESSOR,2.9
+303,Geology,4002,Vanderbilt University,Lily,,Claiborne,1748660,38,good,TEACHER,PROFESSOR,3.5
+304,Philosophy,4002,Vanderbilt University,Caleb,,Clanton,335872,17,good,TEACHER,PROFESSOR,4.8
+305,Management,4002,Vanderbilt University,Kevin,,Clark,518709,38,good,TEACHER,PROFESSOR,3.9
+306,Management,4002,Vanderbilt University,Cherrie,,Clark,779567,21,good,TEACHER,PROFESSOR,4.3
+307,Engineering,4002,Vanderbilt University,James,,Clarke,109049,8,good,TEACHER,PROFESSOR,4.3
+308,History,4002,Vanderbilt University,Lauren,,Clay,1272437,13,good,TEACHER,PROFESSOR,4.3
+309,Political Science,4002,Vanderbilt University,Amanda,,Clayton,2126484,12,good,TEACHER,PROFESSOR,4.4
+310,English,4002,Vanderbilt University,Jay,,Clayton,778974,12,good,TEACHER,PROFESSOR,3.8
+311,Management,4002,Vanderbilt University,Corey,,Cleek,1808137,11,good,TEACHER,PROFESSOR,4.5
+312,Chemistry,4002,Vanderbilt University,Katherine,,Clements,2605086,7,good,TEACHER,PROFESSOR,3.5
+313,Biology,4002,Vanderbilt University,Thomas,,Clements,2402845,39,good,TEACHER,PROFESSOR,4.2
+314,Chemistry,4002,Vanderbilt University,David,,Cliffel,1655937,3,poor,TEACHER,PROFESSOR,2.2
+315,Political Science,4002,Vanderbilt University,Joshua,,Clinton,1437800,9,good,TEACHER,PROFESSOR,4.3
+316,Management,4002,Vanderbilt University,Wil,,Clouse,486585,7,average,TEACHER,PROFESSOR,2.9
+317,Nursing,4002,Vanderbilt University,Charles,,Cobb,837918,23,good,TEACHER,PROFESSOR,4.5
+318,Political Science,4002,Vanderbilt University,Andrew,,Coe,2453954,6,good,TEACHER,PROFESSOR,4.3
+319,History,4002,Vanderbilt University,Julia,,Cohen,1383639,10,good,TEACHER,PROFESSOR,4.3
+320,Mathematics,4002,Vanderbilt University,David,,Cole,2027815,7,good,TEACHER,PROFESSOR,4.0
+321,Nursing,4002,Vanderbilt University,Shannon,,Cole,2466373,0,zero,TEACHER,PROFESSOR,N/A
+322,Engineering,4002,Vanderbilt University,Walter,,Collett,2156948,4,good,TEACHER,PROFESSOR,4.5
+323,Economics,4002,Vanderbilt University,Bill,,Collins,605275,16,good,TEACHER,PROFESSOR,4.2
+324,Education,4002,Vanderbilt University,Molly,,Collins,2085277,2,average,TEACHER,PROFESSOR,2.8
+325,Languages,4002,Vanderbilt University,Caroline,,Colquhoun,2363618,3,good,TEACHER,PROFESSOR,5.0
+326,Mechanical Engineering,4002,Vanderbilt University,David,,Comber,2212902,1,average,TEACHER,PROFESSOR,3.0
+327,English,4002,Vanderbilt University,Lee,,Conell,2314548,4,good,TEACHER,PROFESSOR,5.0
+328,Philosophy,4002,Vanderbilt University,Matthew,,Congdon,1942661,13,good,TEACHER,PROFESSOR,4.5
+329,Mathematics,4002,Vanderbilt University,Chris,,Conidis,1834317,1,good,TEACHER,PROFESSOR,4.5
+330,Anthropology,4002,Vanderbilt University,Beth,,Conklin,346964,22,good,TEACHER,PROFESSOR,3.7
+331,Film,4002,Vanderbilt University,Kathy,,Conkwright,1093999,4,poor,TEACHER,PROFESSOR,2.0
+332,Economics,4002,Vanderbilt University,John,,Conley,352630,43,average,TEACHER,PROFESSOR,2.8
+333,History,4002,Vanderbilt University,Sarah,,Cook,2267184,0,zero,TEACHER,PROFESSOR,N/A
+334,Music,4002,Vanderbilt University,Peter,,Cooper,1084771,49,good,TEACHER,PROFESSOR,4.3
+335,Sociology,4002,Vanderbilt University,Amy,,Cooter,2581137,5,average,TEACHER,PROFESSOR,2.8
+336,Education,4002,Vanderbilt University,Sean,,Corcoran,2561946,1,good,TEACHER,PROFESSOR,5.0
+337,Political Science,4002,Vanderbilt University,Pamela,,Corley,868333,10,average,TEACHER,PROFESSOR,3.5
+338,Sociology,4002,Vanderbilt University,Daniel,,Cornfield,1565203,18,good,TEACHER,PROFESSOR,4.5
+339,Business,4002,Vanderbilt University,Ryan,,Corser,2461539,5,poor,TEACHER,PROFESSOR,1.8
+340,Mathematics,4002,Vanderbilt University,Sam,,Corson,2087846,3,good,TEACHER,PROFESSOR,4.0
+341,Film,4002,Vanderbilt University,Iggy,,Cortez,2557429,3,good,TEACHER,PROFESSOR,4.0
+342,English,4002,Vanderbilt University,Kenion,,Cosner,146430,35,good,TEACHER,PROFESSOR,4.0
+343,Human Development,4002,Vanderbilt University,Jose,,Cossa,2175785,6,poor,TEACHER,PROFESSOR,2.0
+344,Mathematics,4002,Vanderbilt University,Remi,,Coulon,1705637,17,good,TEACHER,PROFESSOR,4.0
+345,English,4002,Vanderbilt University,Elizabeth,,Covington,1628034,30,good,TEACHER,PROFESSOR,4.8
+346,History,4002,Vanderbilt University,Jefferson,,Cowie,2219943,13,good,TEACHER,PROFESSOR,4.4
+347,Music,4002,Vanderbilt University,Alan,,Cox,223856,4,poor,TEACHER,PROFESSOR,2.4
+348,History,4002,Vanderbilt University,Katherine,,Crawford,337596,26,good,TEACHER,PROFESSOR,4.7
+349,Biology,4002,Vanderbilt University,Nicole,,Creanza,2291027,2,good,TEACHER,PROFESSOR,4.0
+350,Medicine,4002,Vanderbilt University,Clarence,,Creech,942841,0,zero,TEACHER,PROFESSOR,N/A
+351,Mathematics,4002,Vanderbilt University,Darren,,Creutz,1658499,10,good,TEACHER,PROFESSOR,4.6
+352,Mathematics,4002,Vanderbilt University,.,,Crooke,448606,13,average,TEACHER,PROFESSOR,2.8
+353,Jewish Studies,4002,Vanderbilt University,Yifat,,Crouvi,2203352,1,good,TEACHER,PROFESSOR,5.0
+354,Psychology,4002,Vanderbilt University,Robert,,Crowson,283307,9,good,TEACHER,PROFESSOR,3.8
+355,Economics,4002,Vanderbilt University,Mario,J,Crucini,2239035,2,poor,TEACHER,PROFESSOR,1.5
+356,Physics,4002,Vanderbilt University,Steven,,Csorna,767704,32,poor,TEACHER,PROFESSOR,2.2
+357,Computer Science,4002,Vanderbilt University,YI,,Cui,839991,7,average,TEACHER,PROFESSOR,3.5
+358,English,4002,Vanderbilt University,Joanna,,Currey,2576413,3,good,TEACHER,PROFESSOR,5.0
+359,African-American Studies,4002,Vanderbilt University,Anastasia,,Curwood,829547,9,good,TEACHER,PROFESSOR,3.8
+360,Fine Arts,4002,Vanderbilt University,Farrar,,Cusomato,1848589,5,good,TEACHER,PROFESSOR,4.6
+361,Music,4002,Vanderbilt University,Cynthia,,Cyrus,353220,9,average,TEACHER,PROFESSOR,3.3
+362,Languages,4002,Vanderbilt University,Daniela,,D'Eugenio,2364984,6,good,TEACHER,PROFESSOR,5.0
+363,Education,4002,Vanderbilt University,Alexandra,,Da Fonte,2635309,1,poor,TEACHER,PROFESSOR,1.0
+364,Philosophy,4002,Vanderbilt University,Thomas,,Dabay,1863239,9,good,TEACHER,PROFESSOR,3.8
+365,Education,4002,Vanderbilt University,Alex,,Dafonte,1363276,11,good,TEACHER,PROFESSOR,3.5
+366,Management,4002,Vanderbilt University,Terra,,Dailey,1434051,0,zero,TEACHER,PROFESSOR,N/A
+367,History,4002,Vanderbilt University,Mark,,Dalhouse,535543,25,good,TEACHER,PROFESSOR,4.7
+368,Finance,4002,Vanderbilt University,William,,Damon,527045,23,good,TEACHER,PROFESSOR,4.2
+369,Biology,4002,Vanderbilt University,Aaron,,Daniel,2604574,0,zero,TEACHER,PROFESSOR,N/A
+370,Chemistry,4002,Vanderbilt University,Aaron,,Daniel,2495595,6,good,TEACHER,PROFESSOR,4.8
+371,English,4002,Vanderbilt University,Kate,,Daniels,354539,16,average,TEACHER,PROFESSOR,2.5
+372,Geology,4002,Vanderbilt University,Simon,,Darroch,2309854,3,good,TEACHER,PROFESSOR,5.0
+373,Religion,4002,Vanderbilt University,Bradley,,Daugherty,2518874,1,good,TEACHER,PROFESSOR,5.0
+374,Economics,4002,Vanderbilt University,Andrew,,Daughety,1515415,0,zero,TEACHER,PROFESSOR,N/A
+375,History,4002,Vanderbilt University,Kathryn,,David,2650719,1,good,TEACHER,PROFESSOR,5.0
+376,Languages,4002,Vanderbilt University,Karin,,Davidovich,1785976,3,good,TEACHER,PROFESSOR,5.0
+377,Philosophy,4002,Vanderbilt University,Christopher,,Davies,1484765,15,good,TEACHER,PROFESSOR,5.0
+378,Engineering,4002,Vanderbilt University,Phil,,Davis,293103,13,good,TEACHER,PROFESSOR,4.8
+379,Philosophy,4002,Vanderbilt University,Kevin,,Davis,609452,11,good,TEACHER,PROFESSOR,4.0
+380,Mathematics,4002,Vanderbilt University,Tara,,Davis,1195787,5,good,TEACHER,PROFESSOR,4.2
+381,Economics,4002,Vanderbilt University,Scott,,Davis,1343655,7,average,TEACHER,PROFESSOR,2.9
+382,Human Development,4002,Vanderbilt University,Vicki,,Davis,1450087,4,average,TEACHER,PROFESSOR,2.8
+383,Chemistry,4002,Vanderbilt University,Robert,,Davis,2065001,0,zero,TEACHER,PROFESSOR,N/A
+384,Engineering,4002,Vanderbilt University,Benoit,,Dawant,109782,8,average,TEACHER,PROFESSOR,3.2
+385,Languages,4002,Vanderbilt University,Edward,,Dawson,1898563,3,good,TEACHER,PROFESSOR,5.0
+386,English,4002,Vanderbilt University,Joan,,Dayan,981320,15,average,TEACHER,PROFESSOR,3.3
+387,Languages,4002,Vanderbilt University,Karen,,de Melo,2665653,1,poor,TEACHER,PROFESSOR,2.0
+388,Languages,4002,Vanderbilt University,Cassio,,de Oliveira ,2081010,7,good,TEACHER,PROFESSOR,4.1
+389,Music,4002,Vanderbilt University,Paul,,Deakin,409316,20,good,TEACHER,PROFESSOR,3.6
+390,Languages,4002,Vanderbilt University,Elena,,Deanda,934867,4,average,TEACHER,PROFESSOR,3.2
+391,Engineering,4002,Vanderbilt University,Ken,,Debelak,1377882,5,poor,TEACHER,PROFESSOR,2.4
+392,Languages,4002,Vanderbilt University,Nathalie,,Debrauwere-Miller,433540,10,good,TEACHER,PROFESSOR,4.3
+393,Fine Arts,4002,Vanderbilt University,Patrick,,DeGuira,2192737,4,good,TEACHER,PROFESSOR,5.0
+394,English,4002,Vanderbilt University,Kathleen,,DeGuzman,2131712,1,good,TEACHER,PROFESSOR,5.0
+395,Languages,4002,Vanderbilt University,Camila,,Delaney,1617543,1,good,TEACHER,PROFESSOR,4.0
+396,Languages,4002,Vanderbilt University,Sarah,,Delassus,140948,26,good,TEACHER,PROFESSOR,4.0
+397,Philosophy,4002,Vanderbilt University,Cory,,DeLone,2532989,0,zero,TEACHER,PROFESSOR,N/A
+398,Anthropology,4002,Vanderbilt University,Arthur,,Demarest,595943,17,average,TEACHER,PROFESSOR,3.2
+399,Art,4002,Vanderbilt University,Susan,,Demay,613916,12,good,TEACHER,PROFESSOR,4.6
+400,Computer Science,4002,Vanderbilt University,Bowang,,Deng,2308939,7,good,TEACHER,PROFESSOR,5.0
+401,International Studies,4002,Vanderbilt University,Irina,,Denischenko,2447315,3,good,TEACHER,PROFESSOR,4.3
+402,Geomorphology  Geochronology,4002,Vanderbilt University,Larisa,,DeSantis,2007141,7,good,TEACHER,PROFESSOR,4.3
+403,Languages,4002,Vanderbilt University,Eva,,Dessein,783940,9,good,TEACHER,PROFESSOR,4.2
+404,English,4002,Vanderbilt University,Cydnee,,Devereaux,2547404,4,good,TEACHER,PROFESSOR,4.3
+405,English,4002,Vanderbilt University,Carla,,Diaz,2557554,2,good,TEACHER,PROFESSOR,5.0
+406,Languages,4002,Vanderbilt University,Sahai,,Diaz,2585190,0,zero,TEACHER,PROFESSOR,N/A
+407,Women's Studies,4002,Vanderbilt University,R,,Dicker,462003,22,average,TEACHER,PROFESSOR,3.2
+408,Physics,4002,Vanderbilt University,James,,Dickerson,753694,6,poor,TEACHER,PROFESSOR,1.6
+409,History,4002,Vanderbilt University,Dennis,,Dickerson,178751,20,average,TEACHER,PROFESSOR,3.4
+410,Education,4002,Vanderbilt University,David,,Dickinson,937176,4,average,TEACHER,PROFESSOR,2.5
+411,Business,4002,Vanderbilt University,David,,Diehl,2094012,7,good,TEACHER,PROFESSOR,4.4
+412,Mathematics,4002,Vanderbilt University,Matthew,,Dietrich,2557937,2,good,TEACHER,PROFESSOR,5.0
+413,Anthropology,4002,Vanderbilt University,Tom,,Dillehay,1761056,4,poor,TEACHER,PROFESSOR,2.2
+414,Management,4002,Vanderbilt University,Jason,,Dinger,395083,6,good,TEACHER,PROFESSOR,4.8
+415,Mathematics,4002,Vanderbilt University,Marcelo,,Disconzi,1746376,24,good,TEACHER,PROFESSOR,4.3
+416,Psychology,4002,Vanderbilt University,Anita,,Disney,2079008,6,good,TEACHER,PROFESSOR,4.9
+417,Medicine,4002,Vanderbilt University,Robert,,Dittus,810767,0,zero,TEACHER,PROFESSOR,N/A
+418,Languages,4002,Vanderbilt University,Nathan,,Dize,2187912,2,good,TEACHER,PROFESSOR,5.0
+419,Engineering,4002,Vanderbilt University,James,,Dobbins,751320,11,average,TEACHER,PROFESSOR,3.3
+420,Philosophy,4002,Vanderbilt University,Idit,,Dobbs-Weinstein,371766,18,average,TEACHER,PROFESSOR,2.5
+421,Engineering,4002,Vanderbilt University,Mark,,Does,780958,3,average,TEACHER,PROFESSOR,3.0
+422,Psychology,4002,Vanderbilt University,Paul,,Dokecki,1306586,2,good,TEACHER,PROFESSOR,4.0
+423,Economics,4002,Vanderbilt University,Kent,,Dolezal,2212687,22,good,TEACHER,PROFESSOR,4.3
+424,Mathematics,4002,Vanderbilt University,Dylan,,Domel-White,2652044,3,good,TEACHER,PROFESSOR,4.3
+425,History,4002,Vanderbilt University,Freddy,,Dominguez,1736579,1,good,TEACHER,PROFESSOR,5.0
+426,History,4002,Vanderbilt University,Rebecca,,Donaldson,1627464,3,good,TEACHER,PROFESSOR,5.0
+427,American Studies,4002,Vanderbilt University,Rachel,,Donaldson,1669143,6,good,TEACHER,PROFESSOR,4.8
+428,Sociology,4002,Vanderbilt University,Katherine,,Donato,1432068,1,good,TEACHER,PROFESSOR,4.5
+429,Art,4002,Vanderbilt University,John,,Donovan,2603647,0,zero,TEACHER,PROFESSOR,N/A
+430,Humanities,4002,Vanderbilt University,Lisa,,Dordal,1639178,17,good,TEACHER,PROFESSOR,4.8
+431,Music Performance,4002,Vanderbilt University,Amy,,Dorfman,2489061,0,zero,TEACHER,PROFESSOR,N/A
+432,Languages,4002,Vanderbilt University,Danielle,,Dorvil,2582042,1,good,TEACHER,PROFESSOR,5.0
+433,English,4002,Vanderbilt University,Alex,,Doublet,2162288,0,zero,TEACHER,PROFESSOR,N/A
+434,Human Development,4002,Vanderbilt University,Shaun,,Dougherty,2506431,1,good,TEACHER,PROFESSOR,5.0
+435,Psychology,4002,Vanderbilt University,Susan,,Douglas,2181104,1,good,TEACHER,PROFESSOR,4.0
+436,Communication,4002,Vanderbilt University,Bonnie,,Dow,1158236,15,good,TEACHER,PROFESSOR,3.5
+437,Mathematics,4002,Vanderbilt University,Spencer,D,Dowdall,2314933,14,poor,TEACHER,PROFESSOR,2.4
+438,Computer Science,4002,Vanderbilt University,Larry,,Dowdy,326024,16,good,TEACHER,PROFESSOR,4.3
+439,Education,4002,Vanderbilt University,Will,,Doyle,813552,10,good,TEACHER,PROFESSOR,4.7
+440,Human Development,4002,Vanderbilt University,Corbette,,Doyle,1223230,5,average,TEACHER,PROFESSOR,2.8
+441,Humanities,4002,Vanderbilt University,Robert,,Drews,148210,17,good,TEACHER,PROFESSOR,3.6
+442,Economics,4002,Vanderbilt University,Robert,,Driskill,451461,44,poor,TEACHER,PROFESSOR,2.4
+443,Computer Science,4002,Vanderbilt University,Abhishek,,Dubey,2134444,1,good,TEACHER,PROFESSOR,4.5
+444,Political Science,4002,Vanderbilt University,Alex,,Dubilet,2223973,9,good,TEACHER,PROFESSOR,4.2
+445,Engineering,4002,Vanderbilt University,Ravindra,,Duddu,2213483,4,good,TEACHER,PROFESSOR,4.0
+446,Science,4002,Vanderbilt University,Denise,,Due,140954,50,average,TEACHER,PROFESSOR,3.4
+447,Psychology,4002,Vanderbilt University,Jennifer,E,Dunbar,2178806,9,good,TEACHER,PROFESSOR,4.9
+448,Nursing,4002,Vanderbilt University,Travis,,Dunlap,942840,3,good,TEACHER,PROFESSOR,4.2
+449,Education,4002,Vanderbilt University,Teresa,Kathleen,Dunleavy,2481585,1,average,TEACHER,PROFESSOR,3.0
+450,Engineering,4002,Vanderbilt University,Russell,,Dunn,1897479,2,good,TEACHER,PROFESSOR,4.5
+451,Mathematics,4002,Vanderbilt University,Blake,,Dunshee,2442342,8,good,TEACHER,PROFESSOR,4.6
+452,Psychology,4002,Vanderbilt University,Kelley,,Durkin,2440710,2,good,TEACHER,PROFESSOR,5.0
+453,Economics,4002,Vanderbilt University,Andrew,,Dustan,2175023,5,good,TEACHER,PROFESSOR,4.4
+454,Physics,4002,Vanderbilt University,Sourish,,Dutta,1734867,74,good,TEACHER,PROFESSOR,4.3
+455,Engineering,4002,Vanderbilt University,Craig,,Duvall,1722496,8,poor,TEACHER,PROFESSOR,2.4
+456,Education,4002,Vanderbilt University,Elisabeth,,Dykens,2587121,5,good,TEACHER,PROFESSOR,4.8
+457,Psychology,4002,Vanderbilt University,Elizabeth,,Dykens,1081689,4,good,TEACHER,PROFESSOR,4.5
+458,History,4002,Vanderbilt University,Marshall C.,,Eakin,377913,22,good,TEACHER,PROFESSOR,4.3
+459,English,4002,Vanderbilt University,Tony,,Earley,346833,15,average,TEACHER,PROFESSOR,2.8
+460,Languages,4002,Vanderbilt University,Rachel,,Early,1402501,4,good,TEACHER,PROFESSOR,3.8
+461,Finance,4002,Vanderbilt University,William,,Easley,2145281,3,average,TEACHER,PROFESSOR,3.1
+462,English,4002,Vanderbilt University,Matthew,,Eatough,1280480,4,good,TEACHER,PROFESSOR,4.9
+463,Anthropology,4002,Vanderbilt University,Markus,,Eberl,1624616,25,good,TEACHER,PROFESSOR,3.7
+464,Psychology,4002,Vanderbilt University,Ford,,Ebner,800817,6,good,TEACHER,PROFESSOR,3.8
+465,Human Development,4002,Vanderbilt University,Sara,M,Eccleston,2320115,0,zero,TEACHER,PROFESSOR,N/A
+466,Engineering,4002,Vanderbilt University,Jon,,Edd,1407398,6,poor,TEACHER,PROFESSOR,1.2
+467,Economics,4002,Vanderbilt University,Ben,,Eden,1815026,2,poor,TEACHER,PROFESSOR,1.0
+468,Philosophy,4002,Vanderbilt University,Elizabeth,,Edenberg,1395066,3,good,TEACHER,PROFESSOR,4.7
+469,Mathematics,4002,Vanderbilt University,Cain,,Edie-Michell,2419639,11,good,TEACHER,PROFESSOR,4.2
+470,Philosophy,4002,Vanderbilt University,Jeff,,Edmonds,979689,8,good,TEACHER,PROFESSOR,4.3
+471,Management,4002,Vanderbilt University,Doug,,Edwards,2057851,11,good,TEACHER,PROFESSOR,4.0
+472,Management,4002,Vanderbilt University,Douglas,,Edwards,2185192,10,good,TEACHER,PROFESSOR,3.7
+473,Medicine,4002,Vanderbilt University,Jesse,,Ehrenfeld,1614103,0,zero,TEACHER,PROFESSOR,N/A
+474,Biology,4002,Vanderbilt University,Brandt,,Eichman,820878,11,good,TEACHER,PROFESSOR,4.2
+475,Languages,4002,Vanderbilt University,Issam,,Eido,2126951,7,good,TEACHER,PROFESSOR,4.8
+476,Languages,4002,Vanderbilt University,Sara,,Eigen-Figal,498068,6,good,TEACHER,PROFESSOR,4.4
+477,Mathematics,4002,Vanderbilt University,Mark,,Ellingham,1895203,9,good,TEACHER,PROFESSOR,4.6
+478,History,4002,Vanderbilt University,Dyan,,Elliott,788003,4,average,TEACHER,PROFESSOR,3.0
+479,Education,4002,Vanderbilt University,Emma,,Elliott,2615505,0,zero,TEACHER,PROFESSOR,N/A
+480,Nursing,4002,Vanderbilt University,Bettina,,Engh,1241100,0,zero,TEACHER,PROFESSOR,N/A
+481,Communication,4002,Vanderbilt University,John,,English,195549,49,good,TEACHER,PROFESSOR,4.1
+482,English,4002,Vanderbilt University,Lynn,,Enterline,393864,39,good,TEACHER,PROFESSOR,3.9
+483,Human Development,4002,Vanderbilt University,Karen,,Enyedy,2580813,8,good,TEACHER,PROFESSOR,3.7
+484,English,4002,Vanderbilt University,Josh,,Epstein,503826,7,average,TEACHER,PROFESSOR,3.2
+485,History,4002,Vanderbilt University,James,,Epstein,562081,7,good,TEACHER,PROFESSOR,4.2
+486,Jewish Studies,4002,Vanderbilt University,Rebecca,,Epstein-Levi,2582898,4,good,TEACHER,PROFESSOR,5.0
+487,Psychology,4002,Vanderbilt University,Aysu,,Erdemir,2190045,2,average,TEACHER,PROFESSOR,2.5
+488,History,4002,Vanderbilt University,Miriam,,Erickson,2229755,2,good,TEACHER,PROFESSOR,3.5
+489,Physics,4002,Vanderbilt University,David,,Ernst,2469314,1,good,TEACHER,PROFESSOR,5.0
+490,Sociology,4002,Vanderbilt University,Christy,,Erving,2480382,7,good,TEACHER,PROFESSOR,5.0
+491,Theater,4002,Vanderbilt University,Elizabeth,,Essin,1605248,15,good,TEACHER,PROFESSOR,4.5
+492,Finance,4002,Vanderbilt University,Joseph,,Estes,2256538,3,good,TEACHER,PROFESSOR,4.3
+493,Anthropology,4002,Vanderbilt University,Francisco,,Estrada-Belli,316546,25,good,TEACHER,PROFESSOR,3.6
+494,Economics,4002,Vanderbilt University,Brent,,Evans,2106000,3,good,TEACHER,PROFESSOR,4.2
+495,Engineering,4002,Vanderbilt University,William,Todd,Evans,2412424,6,poor,TEACHER,PROFESSOR,1.3
+496,History,4002,Vanderbilt University,Adam,,Ewing,1851329,2,good,TEACHER,PROFESSOR,4.5
+497,Human Development,4002,Vanderbilt University,Janet,,Eyler,1094439,2,good,TEACHER,PROFESSOR,4.8
+498,Sociology,4002,Vanderbilt University,Mike,,Ezell,278457,27,average,TEACHER,PROFESSOR,3.1
+499,Philosophy,4002,Vanderbilt University,Kenneth,,Faber,981355,8,good,TEACHER,PROFESSOR,4.6
+500,Economics,4002,Vanderbilt University,Yariv,,Fadlon,1627514,8,good,TEACHER,PROFESSOR,4.2
+501,Sociology,4002,Vanderbilt University,Amy,,Faeder,1839404,36,average,TEACHER,PROFESSOR,3.3
+502,Languages,4002,Vanderbilt University,Heraldo,,Falconi,1093733,26,good,TEACHER,PROFESSOR,4.4
+503,Mathematics,4002,Vanderbilt University,Victor,,Falgas,1971354,3,average,TEACHER,PROFESSOR,2.8
+504,Mathematics,4002,Vanderbilt University,Victor,,Falgas-Ravry,1997985,10,average,TEACHER,PROFESSOR,3.1
+505,English,4002,Vanderbilt University,Dan,,Fang,1711124,4,good,TEACHER,PROFESSOR,3.9
+506,Biology,4002,Vanderbilt University,Ellen,,Fanning,1307133,0,zero,TEACHER,PROFESSOR,N/A
+507,Medicine,4002,Vanderbilt University,Joseph,,Fanning,2409225,1,good,TEACHER,PROFESSOR,4.0
+508,Law,4002,Vanderbilt University,Nita,,Farahany,968096,6,good,TEACHER,PROFESSOR,4.3
+509,Political Science,4002,Vanderbilt University,Florence,,Faucher-King,709412,17,poor,TEACHER,PROFESSOR,2.5
+510,Mathematics,4002,Vanderbilt University,Mitchell,,Faulk,2541031,11,average,TEACHER,PROFESSOR,2.9
+511,Film,4002,Vanderbilt University,Jennifer,,Fay,1762503,4,good,TEACHER,PROFESSOR,4.4
+512,Psychology,4002,Vanderbilt University,Lisa,,Fazio,1935790,9,good,TEACHER,PROFESSOR,4.3
+513,Human Development,4002,Vanderbilt University,Heather,,Fedesco,2481907,1,good,TEACHER,PROFESSOR,5.0
+514,Human Development,4002,Vanderbilt University,Kelley,Frances,Fenelon,2453188,1,good,TEACHER,PROFESSOR,5.0
+515,Mathematics,4002,Vanderbilt University,Timothy,,Ferguson,1720098,4,average,TEACHER,PROFESSOR,3.4
+516,Engineering,4002,Vanderbilt University,Lori,,Ferranti,2579847,1,good,TEACHER,PROFESSOR,5.0
+517,Humanities,4002,Vanderbilt University,Julia,,Fesmire,353471,37,good,TEACHER,PROFESSOR,3.8
+518,History,4002,Vanderbilt University,Gerald,,Figal,354515,19,good,TEACHER,PROFESSOR,4.3
+519,Philosophy,4002,Vanderbilt University,Jeff,,Figwell,1892108,1,good,TEACHER,PROFESSOR,4.5
+520,Languages,4002,Vanderbilt University,Elsa,,Filosa,1073027,23,good,TEACHER,PROFESSOR,4.3
+521,Literature,4002,Vanderbilt University,Keegan,Cook,Finberg,2065118,4,good,TEACHER,PROFESSOR,4.5
+522,Human Development,4002,Vanderbilt University,Andrew,,Finch,931007,3,good,TEACHER,PROFESSOR,4.7
+523,Engineering,4002,Vanderbilt University,Pierce,Stephen,Finley,2364110,2,good,TEACHER,PROFESSOR,4.5
+524,Anthropology,4002,Vanderbilt University,Edward,,Fischer,197743,24,good,TEACHER,PROFESSOR,4.4
+525,Medicine,4002,Vanderbilt University,Jill,,Fisher,1491238,2,average,TEACHER,PROFESSOR,3.0
+526,Languages,4002,Vanderbilt University,Clara,Jean,Fisher,2371240,1,average,TEACHER,PROFESSOR,3.0
+527,Computer Science,4002,Vanderbilt University,Douglas,,Fisher,197194,24,average,TEACHER,PROFESSOR,2.5
+528,Languages,4002,Vanderbilt University,Earl,,Fitz,2582033,2,good,TEACHER,PROFESSOR,4.5
+529,Computer Science,4002,Vanderbilt University,Michael,,Fitzpatrick,105135,44,average,TEACHER,PROFESSOR,3.0
+530,Mathematics,4002,Vanderbilt University,Justin,,Fitzpatrick,928975,22,good,TEACHER,PROFESSOR,4.9
+531,Engineering,4002,Vanderbilt University,Dan,,Fleetwood,777825,16,good,TEACHER,PROFESSOR,4.5
+532,Biology,4002,Vanderbilt University,sidney,,fleischer,2025037,0,zero,TEACHER,PROFESSOR,N/A
+533,Social Science,4002,Vanderbilt University,Stella,,Flores,1437440,3,average,TEACHER,PROFESSOR,3.2
+534,Religion,4002,Vanderbilt University,Stacey,M.,Floyd-Thomas,2009232,0,zero,TEACHER,PROFESSOR,N/A
+535,Languages,4002,Vanderbilt University,Sarah,,Fluker,2620000,2,good,TEACHER,PROFESSOR,5.0
+536,Music,4002,Vanderbilt University,Jim,,Foglesong,858569,6,good,TEACHER,PROFESSOR,4.6
+537,Mathematics,4002,Vanderbilt University,Juraj,,Foldes,1348819,12,good,TEACHER,PROFESSOR,4.3
+538,Art History,4002,Vanderbilt University,Leonard,,Folgarait,140093,85,good,TEACHER,PROFESSOR,5.0
+539,Human Development,4002,Vanderbilt University,Anjali,,Forber-Pratt,2063888,10,poor,TEACHER,PROFESSOR,1.1
+540,Philosophy,4002,Vanderbilt University,Andrew,,Forcehimes,1559391,10,good,TEACHER,PROFESSOR,4.5
+541,Philosophy,4002,Vanderbilt University,Joan,,Forry,1235320,9,good,TEACHER,PROFESSOR,4.0
+542,Mathematics,4002,Vanderbilt University,Alex,B,Fortuna,800193,0,zero,TEACHER,PROFESSOR,N/A
+543,Economics,4002,Vanderbilt University,James,,Foster,973519,7,average,TEACHER,PROFESSOR,2.9
+544,Management,4002,Vanderbilt University,Irene,,Foster,1056005,8,good,TEACHER,PROFESSOR,4.2
+545,Languages,4002,Vanderbilt University,Timothy,,Foster,1971635,4,good,TEACHER,PROFESSOR,5.0
+546,Music,4002,Vanderbilt University,Robin,,Fountain,2525229,0,zero,TEACHER,PROFESSOR,N/A
+547,Anthropology,4002,Vanderbilt University,William,,Fowler,821487,24,average,TEACHER,PROFESSOR,3.4
+548,Psychology,4002,Vanderbilt University,Bob,,Fox,149213,20,average,TEACHER,PROFESSOR,2.6
+549,Marketing,4002,Vanderbilt University,Brian,,Fox,1746519,7,good,TEACHER,PROFESSOR,4.9
+550,Engineering,4002,Vanderbilt University,Ken,,Frampton,525842,21,good,TEACHER,PROFESSOR,4.0
+551,Theater,4002,Vanderbilt University,Phillip,,Franck,784949,17,good,TEACHER,PROFESSOR,4.3
+552,Religious Studies,4002,Vanderbilt University,William,,Franke,353506,8,good,TEACHER,PROFESSOR,3.6
+553,Management,4002,Vanderbilt University,David,,Franklin,979671,5,average,TEACHER,PROFESSOR,3.0
+554,Human Development,4002,Vanderbilt University,Shannon,,Franklin,2009258,0,zero,TEACHER,PROFESSOR,N/A
+555,Human Development,4002,Vanderbilt University,James,,Fraser,1631377,10,good,TEACHER,PROFESSOR,4.0
+556,Social Science,4002,Vanderbilt University,Jens,,Frederiksen,570232,5,good,TEACHER,PROFESSOR,4.7
+557,Economics,4002,Vanderbilt University,Andrew,,Fredrickson,2152293,0,zero,TEACHER,PROFESSOR,N/A
+558,Sociology,4002,Vanderbilt University,Alexandre,,Frenette,2556410,4,good,TEACHER,PROFESSOR,5.0
+559,Languages,4002,Vanderbilt University,Edward,,Friedman,390414,14,good,TEACHER,PROFESSOR,5.0
+560,Philosophy,4002,Vanderbilt University,Marilyn,,Friedman,1443889,3,good,TEACHER,PROFESSOR,4.3
+561,Human Development,4002,Vanderbilt University,Susan,,Friedman,1454605,8,good,TEACHER,PROFESSOR,4.6
+562,Biology,4002,Vanderbilt University,Katherine,,Friedman,439749,37,good,TEACHER,PROFESSOR,4.0
+563,Economics,4002,Vanderbilt University,Kathryn,,Fritzdixon,1835596,1,good,TEACHER,PROFESSOR,4.5
+564,Economics,4002,Vanderbilt University,Luke,,Froeb,1396980,1,good,TEACHER,PROFESSOR,5.0
+565,Languages,4002,Vanderbilt University,Marc,,Froment-Meurice,311742,7,poor,TEACHER,PROFESSOR,2.1
+566,Music,4002,Vanderbilt University,Robert,,Fry,589349,68,good,TEACHER,PROFESSOR,4.3
+567,Art History,4002,Vanderbilt University,Vivien,,Fryd,774532,34,average,TEACHER,PROFESSOR,2.9
+568,Mathematics,4002,Vanderbilt University,GO,,Fujita,1195789,0,zero,TEACHER,PROFESSOR,N/A
+569,Biology,4002,Vanderbilt University,Dan,,Funk,699684,8,good,TEACHER,PROFESSOR,4.0
+570,Geomorphology & Geochronology,4002,Vanderbilt University,David,,Furbish,1696939,2,average,TEACHER,PROFESSOR,3.0
+571,Business,4002,Vanderbilt University,David,,Furse,395080,11,average,TEACHER,PROFESSOR,3.0
+572,Languages,4002,Vanderbilt University,Chie,,Furukawa,1559728,2,good,TEACHER,PROFESSOR,5.0
+573,English,4002,Vanderbilt University,Katherine,,Fusco,873638,25,average,TEACHER,PROFESSOR,3.3
+574,Philosophy,4002,Vanderbilt University,Shannon,,Fyfe,2092641,3,good,TEACHER,PROFESSOR,5.0
+575,Classics,4002,Vanderbilt University,Kathy,,Gaca,127218,20,average,TEACHER,PROFESSOR,3.2
+576,Economics,4002,Vanderbilt University,Lillian,,Gaeto,2605384,0,zero,TEACHER,PROFESSOR,N/A
+577,Classics,4002,Vanderbilt University,George,,Gaffney,1966863,14,good,TEACHER,PROFESSOR,3.6
+578,Political Science,4002,Vanderbilt University,Megan,,Gallagher,2297485,5,good,TEACHER,PROFESSOR,3.8
+579,Engineering,4002,Vanderbilt University,Bob,,Galloway,778333,2,good,TEACHER,PROFESSOR,5.0
+580,Engineering,4002,Vanderbilt University,Kenneth,,Galloway,2212938,1,good,TEACHER,PROFESSOR,5.0
+581,Mechanical Engineering,4002,Vanderbilt University,Kevin,,Galloway,2657257,0,zero,TEACHER,PROFESSOR,N/A
+582,Economics,4002,Vanderbilt University,Aaron,,Gamino,1912743,4,good,TEACHER,PROFESSOR,3.8
+583,Education,4002,Vanderbilt University,Kathy,,Ganske,1550562,4,average,TEACHER,PROFESSOR,2.5
+584,Psychology,4002,Vanderbilt University,Judy,,Garber,547523,3,good,TEACHER,PROFESSOR,3.7
+585,Accounting,4002,Vanderbilt University,Stuart,,Garber,1665319,28,good,TEACHER,PROFESSOR,4.0
+586,Languages,4002,Vanderbilt University,Alicia,Lorenzo,Garcia,490565,25,average,TEACHER,PROFESSOR,3.1
+587,English,4002,Vanderbilt University,Humberto,,Garcia,1196793,9,good,TEACHER,PROFESSOR,4.2
+588,Business,4002,Vanderbilt University,Tim,,Gardner,1022021,0,zero,TEACHER,PROFESSOR,N/A
+589,Languages,4002,Vanderbilt University,Victoria,,Gardner,914339,38,good,TEACHER,PROFESSOR,4.3
+590,Nursing,4002,Vanderbilt University,Sarah,,Gast,2608977,0,zero,TEACHER,PROFESSOR,N/A
+591,Psychology,4002,Vanderbilt University,Isabel,,Gauthier,463262,78,average,TEACHER,PROFESSOR,2.7
+592,Religion,4002,Vanderbilt University,Volney,,Gay,814434,2,good,TEACHER,PROFESSOR,3.8
+593,Medicine,4002,Vanderbilt University,Lauren,M,Gaydosh,2478226,5,good,TEACHER,PROFESSOR,4.0
+594,Human Development,4002,Vanderbilt University,Constance,,Gee,1275398,3,poor,TEACHER,PROFESSOR,2.3
+595,Political Science,4002,Vanderbilt University,John,,Geer,177514,56,good,TEACHER,PROFESSOR,3.8
+596,Religion,4002,Vanderbilt University,Jay,,Geller,794605,7,average,TEACHER,PROFESSOR,3.3
+597,History,4002,Vanderbilt University,Gary,,Gerstle,1337123,7,good,TEACHER,PROFESSOR,4.7
+598,Economics,4002,Vanderbilt University,Malcolm,,Getz,331606,48,average,TEACHER,PROFESSOR,3.1
+599,Languages,4002,Vanderbilt University,Charlie,,Geyer,2254870,7,good,TEACHER,PROFESSOR,4.7
+600,Economics,4002,Vanderbilt University,Hojat,,Ghandi,2070266,18,average,TEACHER,PROFESSOR,3.2
+601,Economics,4002,Vanderbilt University,Hojjatallah,,Ghandi,2058521,63,good,TEACHER,PROFESSOR,3.5
+602,Mechanical Engineering,4002,Vanderbilt University,Dominic,,Ghilardi,2045017,0,zero,TEACHER,PROFESSOR,N/A
+603,Mathematics,4002,Vanderbilt University,Shamindra,,Ghosh,934698,12,average,TEACHER,PROFESSOR,2.8
+604,Computer Science,4002,Vanderbilt University,Uttam,,Ghosh,2363308,17,good,TEACHER,PROFESSOR,4.5
+605,Mathematics,4002,Vanderbilt University,Jose,,Gil-Ferez,1935780,25,average,TEACHER,PROFESSOR,3.4
+606,Human Development,4002,Vanderbilt University,Leigh,,Gilchrist,904819,39,good,TEACHER,PROFESSOR,4.3
+607,Anthropology,4002,Vanderbilt University,Lesley,,Gill,1543230,8,good,TEACHER,PROFESSOR,3.5
+608,Geology,4002,Vanderbilt University,Jonathan,,Gilligan,415821,33,good,TEACHER,PROFESSOR,4.4
+609,Philosophy,4002,Vanderbilt University,Lara,,Giordano,1998909,1,good,TEACHER,PROFESSOR,4.5
+610,Engineering,4002,Vanderbilt University,Todd,,Giorgio,2657928,0,zero,TEACHER,PROFESSOR,N/A
+611,Film,4002,Vanderbilt University,Sam,,Girgus,340185,27,good,TEACHER,PROFESSOR,3.5
+612,Economics,4002,Vanderbilt University,Phillip,,Glandon,1558013,7,good,TEACHER,PROFESSOR,4.6
+613,Political Science,4002,Vanderbilt University,Suzanne,,Globetti,1494097,25,good,TEACHER,PROFESSOR,4.8
+614,Sociology,4002,Vanderbilt University,Sarah,,Glynn,1454640,0,zero,TEACHER,PROFESSOR,N/A
+615,English,4002,Vanderbilt University,Teresa,,Goddu,329053,26,good,TEACHER,PROFESSOR,4.1
+616,Mathematics,4002,Vanderbilt University,Michael,,Goff,1706292,5,poor,TEACHER,PROFESSOR,1.9
+617,Engineering,4002,Vanderbilt University,Sanjiv,,Gokhale,153446,25,good,TEACHER,PROFESSOR,4.6
+618,Computer Science,4002,Vanderbilt University,Aniruddha,,Gokhale,938344,10,average,TEACHER,PROFESSOR,3.3
+619,Mathematics,4002,Vanderbilt University,Gili,,Golan,2235477,9,average,TEACHER,PROFESSOR,2.9
+620,Human Development,4002,Vanderbilt University,Joanne,,Golann,2478320,0,zero,TEACHER,PROFESSOR,N/A
+621,Engineering,4002,Vanderbilt University,Michael,,Goldfarb,656717,2,good,TEACHER,PROFESSOR,3.5
+622,Classics,4002,Vanderbilt University,Max,,Goldman,1492406,14,good,TEACHER,PROFESSOR,4.2
+623,Education,4002,Vanderbilt University,Ellen,,Goldring,1735638,1,poor,TEACHER,PROFESSOR,1.0
+624,Computer Science,4002,Vanderbilt University,John,,Goldstein,1552826,0,zero,TEACHER,PROFESSOR,N/A
+625,Engineering,4002,Vanderbilt University,Jesus,,Gomez-Velez,2407064,0,zero,TEACHER,PROFESSOR,N/A
+626,Health Science,4002,Vanderbilt University,Gilbert,,Gonzales,2586653,3,good,TEACHER,PROFESSOR,5.0
+627,Geology,4002,Vanderbilt University,Steve,,Goodbred,754327,41,good,TEACHER,PROFESSOR,4.3
+628,Women's Studies,4002,Vanderbilt University,Lenn,E.,Goodman,1017764,18,poor,TEACHER,PROFESSOR,2.3
+629,Political Science,4002,Vanderbilt University,Gary,,Goodman,2164953,0,zero,TEACHER,PROFESSOR,N/A
+630,Economics,4002,Vanderbilt University,Andrew,,Goodman-Bacon,2329734,3,good,TEACHER,PROFESSOR,3.7
+631,Economics,4002,Vanderbilt University,Alice,,Goodyear,1199640,33,good,TEACHER,PROFESSOR,4.5
+632,Physics,4002,Vanderbilt University,John,,Gore,655330,14,good,TEACHER,PROFESSOR,4.1
+633,American Studies,4002,Vanderbilt University,Sarah,M,Gorman,2591005,1,good,TEACHER,PROFESSOR,4.0
+634,Languages,4002,Vanderbilt University,Bradley,,Gorski,2445499,2,good,TEACHER,PROFESSOR,5.0
+635,English,4002,Vanderbilt University,Roy,,Gottfried,595440,30,good,TEACHER,PROFESSOR,4.6
+636,Mathematics,4002,Vanderbilt University,.,,Gould,486745,12,poor,TEACHER,PROFESSOR,2.3
+637,English,4002,Vanderbilt University,Rachel,,Gould,2092662,10,average,TEACHER,PROFESSOR,2.9
+638,Languages,4002,Vanderbilt University,Braden,,Goveia,2373436,7,good,TEACHER,PROFESSOR,5.0
+639,Mathematics,4002,Vanderbilt University,Kevin,,Grace,2655508,2,poor,TEACHER,PROFESSOR,1.5
+640,Philosophy,4002,Vanderbilt University,James,,Grady,939251,9,good,TEACHER,PROFESSOR,4.3
+641,Biology,4002,Vanderbilt University,Todd,,Graham,467248,37,good,TEACHER,PROFESSOR,4.1
+642,Philosophy,4002,Vanderbilt University,David,,Gray,1471736,1,good,TEACHER,PROFESSOR,5.0
+643,English,4002,Vanderbilt University,Ben,,Graydon,493637,8,good,TEACHER,PROFESSOR,4.6
+644,History,4002,Vanderbilt University,Emily,,Greble,2352233,10,good,TEACHER,PROFESSOR,5.0
+645,Physics,4002,Vanderbilt University,Victoria,,Greene,198514,14,good,TEACHER,PROFESSOR,3.6
+646,Languages,4002,Vanderbilt University,Jessica,,Greenfield,2051155,7,good,TEACHER,PROFESSOR,4.3
+647,Social Science,4002,Vanderbilt University,Patrick,,Greiner,2416551,8,good,TEACHER,PROFESSOR,4.3
+648,Languages,4002,Vanderbilt University,Heidi,,Grek,2564039,1,good,TEACHER,PROFESSOR,4.0
+649,English,4002,Vanderbilt University,Adam,,Grener,1621822,10,good,TEACHER,PROFESSOR,4.8
+650,Education,4002,Vanderbilt University,Melissa,S.,Gresalfi,2120893,0,zero,TEACHER,PROFESSOR,N/A
+651,Languages,4002,Vanderbilt University,Bonnie,M,Griffin,2210235,3,good,TEACHER,PROFESSOR,4.0
+652,Psychology,4002,Vanderbilt University,Brian,,Griffith,184748,66,good,TEACHER,PROFESSOR,4.0
+653,Human Development,4002,Vanderbilt University,Terry,,Griffith,1487193,0,zero,TEACHER,PROFESSOR,N/A
+654,Human Development,4002,Vanderbilt University,Brian,,Griffith,2128070,0,zero,TEACHER,PROFESSOR,N/A
+655,Medicine,4002,Vanderbilt University,Derek,,Griffith,2451417,5,good,TEACHER,PROFESSOR,4.8
+656,Theater,4002,Vanderbilt University,Diana,M.,Grisanti,2176024,2,good,TEACHER,PROFESSOR,5.0
+657,Engineering,4002,Vanderbilt University,William,,Grissom,2029242,0,zero,TEACHER,PROFESSOR,N/A
+658,Human Development,4002,Vanderbilt University,Jason,,Grissom,2217379,2,good,TEACHER,PROFESSOR,3.5
+659,Political Science,4002,Vanderbilt University,Christian,,Grose,738496,16,good,TEACHER,PROFESSOR,4.0
+660,History,4002,Vanderbilt University,Matthew,,Growhoski,2176013,1,average,TEACHER,PROFESSOR,3.0
+661,Psychology,4002,Vanderbilt University,Meredith,,Gruhn,2337878,4,good,TEACHER,PROFESSOR,5.0
+662,Physics & Astronomy,4002,Vanderbilt University,Erika,D,Grundstrom,1898507,41,average,TEACHER,PROFESSOR,2.8
+663,History,4002,Vanderbilt University,Henning,,Grunwald,933352,8,good,TEACHER,PROFESSOR,4.2
+664,Geology,4002,Vanderbilt University,Guilherme,,Gualda,1240657,2,average,TEACHER,PROFESSOR,2.8
+665,Engineering,4002,Vanderbilt University,Scott,,Guelcher,1496764,6,average,TEACHER,PROFESSOR,3.1
+666,Anthropology,4002,Vanderbilt University,Anna,,Guengerich,2292631,3,average,TEACHER,PROFESSOR,3.0
+667,Biomedical,4002,Vanderbilt University,Valerie,,Guenst,1880403,5,good,TEACHER,PROFESSOR,4.3
+668,Philosophy,4002,Vanderbilt University,Lisa,,Guenther,1663802,6,good,TEACHER,PROFESSOR,4.5
+669,Finance,4002,Vanderbilt University,Paul,,Guidone,1567778,1,average,TEACHER,PROFESSOR,3.0
+670,Music,4002,Vanderbilt University,Jennifer,,Gunderman,527693,50,good,TEACHER,PROFESSOR,4.5
+671,Business,4002,Vanderbilt University,Rita,,Gunn,2322144,7,good,TEACHER,PROFESSOR,4.6
+672,Accounting,4002,Vanderbilt University,Rita,Nevada,Gunn,2327719,1,good,TEACHER,PROFESSOR,5.0
+673,Philosophy,4002,Vanderbilt University,Hanna,,Gunn,2417560,1,good,TEACHER,PROFESSOR,5.0
+674,Languages,4002,Vanderbilt University,Yinghui,,Guo,2437516,0,zero,TEACHER,PROFESSOR,N/A
+675,Asian Studies,4002,Vanderbilt University,Yinghui,,Guo,1677824,10,good,TEACHER,PROFESSOR,4.6
+676,Languages,4002,Vanderbilt University,Abdulkadir,,Gure,1809251,3,good,TEACHER,PROFESSOR,3.7
+677,Mathematics,4002,Vanderbilt University,Basak,,Gurel,1514380,4,good,TEACHER,PROFESSOR,3.8
+678,Physics,4002,Vanderbilt University,Alfredo,,Gurrola,2293501,9,good,TEACHER,PROFESSOR,4.6
+679,Languages,4002,Vanderbilt University,Tugba,,Gursel Sevin,1336740,3,average,TEACHER,PROFESSOR,3.0
+680,Economics,4002,Vanderbilt University,Federico,,Gutierrez,1961795,11,average,TEACHER,PROFESSOR,3.2
+681,Psychology,4002,Vanderbilt University,Alexandria,,Hadd,2301029,3,good,TEACHER,PROFESSOR,5.0
+682,Mathematics,4002,Vanderbilt University,Thomas,,Hagelbroek,1476983,1,poor,TEACHER,PROFESSOR,2.0
+683,Physics,4002,Vanderbilt University,Richard,,Haglund,2654958,0,zero,TEACHER,PROFESSOR,N/A
+684,English,4002,Vanderbilt University,Charlotte,,Hagood,1468586,0,zero,TEACHER,PROFESSOR,N/A
+685,Jewish Studies,4002,Vanderbilt University,Mazalit,,Haim,2603495,3,good,TEACHER,PROFESSOR,5.0
+686,Languages,4002,Vanderbilt University,Miriam,,Halachmi,400121,8,good,TEACHER,PROFESSOR,4.5
+687,Sociology,4002,Vanderbilt University,William,,Hale,2237709,13,average,TEACHER,PROFESSOR,3.3
+688,History,4002,Vanderbilt University,Leor,,Halevi,1353401,18,good,TEACHER,PROFESSOR,4.2
+689,Philosophy,4002,Vanderbilt University,Joshua,,Hall,1410728,11,average,TEACHER,PROFESSOR,2.7
+690,Theater,4002,Vanderbilt University,Terryl,,Hallquist,759335,7,good,TEACHER,PROFESSOR,4.7
+691,Theater,4002,Vanderbilt University,Jon,,Hallquist,767814,14,good,TEACHER,PROFESSOR,4.0
+692,Religion,4002,Vanderbilt University,Bushra,,Hamad,974371,10,good,TEACHER,PROFESSOR,4.4
+693,Physics,4002,Vanderbilt University,Joe,,Hamilton,528328,11,poor,TEACHER,PROFESSOR,1.9
+694,Computer Science,4002,Vanderbilt University,Larry,,Hamm,1622124,5,poor,TEACHER,PROFESSOR,1.9
+695,Mathematics,4002,Vanderbilt University,Keaton,,Hamm,2054409,15,good,TEACHER,PROFESSOR,4.0
+696,Women's Studies,4002,Vanderbilt University,Karen,,Hammer,2319010,4,good,TEACHER,PROFESSOR,4.8
+697,Economics,4002,Vanderbilt University,Bob,,Hammond,931434,2,good,TEACHER,PROFESSOR,3.5
+698,Health Science,4002,Vanderbilt University,Mozhdeh,A,Hamraie,1892033,2,good,TEACHER,PROFESSOR,4.5
+699,Anthropology,4002,Vanderbilt University,Aimi,,Hamraie,2461115,1,good,TEACHER,PROFESSOR,5.0
+700,Political Science,4002,Vanderbilt University,Donald,,Hancock,264182,27,average,TEACHER,PROFESSOR,3.5
+701,Culinary Arts,4002,Vanderbilt University,Charlotte,,Hansen,800165,0,zero,TEACHER,PROFESSOR,N/A
+702,Philosophy,4002,Vanderbilt University,Susan,,Hansen,1484761,0,zero,TEACHER,PROFESSOR,N/A
+703,Chemistry,4002,Vanderbilt University,Timothy,,Hanusa,154893,39,good,TEACHER,PROFESSOR,3.9
+704,Music,4002,Vanderbilt University,Charlene,,Harb,895889,2,good,TEACHER,PROFESSOR,4.8
+705,Mathematics,4002,Vanderbilt University,Doug,,Hardin,130149,32,good,TEACHER,PROFESSOR,3.7
+706,Chemistry,4002,Vanderbilt University,Alissa,,Hare,2051312,71,good,TEACHER,PROFESSOR,4.6
+707,Fine Arts,4002,Vanderbilt University,Jana,,Harper,2089049,6,good,TEACHER,PROFESSOR,4.5
+708,History,4002,Vanderbilt University,Joel,,Harrington,346962,15,good,TEACHER,PROFESSOR,4.3
+709,Education,4002,Vanderbilt University,Alene,,Harris,280329,6,good,TEACHER,PROFESSOR,4.6
+710,English,4002,Vanderbilt University,David,,Harris,1048043,0,zero,TEACHER,PROFESSOR,N/A
+711,Mathematics,4002,Vanderbilt University,Jeffrey,,Harris,1319661,0,zero,TEACHER,PROFESSOR,N/A
+712,Classics,4002,Vanderbilt University,Jason,R.,Harris,2440748,7,good,TEACHER,PROFESSOR,4.8
+713,Psychology,4002,Vanderbilt University,Vicki,,Harris,346832,18,good,TEACHER,PROFESSOR,4.3
+714,Chemistry,4002,Vanderbilt University,Eva Marie,,Harth,815930,22,good,TEACHER,PROFESSOR,3.8
+715,Education,4002,Vanderbilt University,Lacey,,Hartigan,2616942,0,zero,TEACHER,PROFESSOR,N/A
+716,Anthropology,4002,Vanderbilt University,T.S.,,Harvey,2285637,6,good,TEACHER,PROFESSOR,4.8
+717,Computer Science,4002,Vanderbilt University,Md Kamrul,,Hasan,2667309,0,zero,TEACHER,PROFESSOR,N/A
+718,Engineering,4002,Vanderbilt University,Fredrick,,Haselton,1017428,2,average,TEACHER,PROFESSOR,3.0
+719,Business,4002,Vanderbilt University,Peter,,Haslag,2322506,10,good,TEACHER,PROFESSOR,4.3
+720,Finance,4002,Vanderbilt University,Peter,,Haslag,2333001,0,zero,TEACHER,PROFESSOR,N/A
+721,English,4002,Vanderbilt University,Mark,,Haslam,2251096,2,good,TEACHER,PROFESSOR,5.0
+722,Mathematics,4002,Vanderbilt University,James,,Hateley,2553422,7,average,TEACHER,PROFESSOR,3.2
+723,Education,4002,Vanderbilt University,Deborah,D,Hatton,1777635,2,poor,TEACHER,PROFESSOR,1.0
+724,Mechanical Engineering,4002,Vanderbilt University,Kelsey,,Hatzell,2341481,8,good,TEACHER,PROFESSOR,3.9
+725,Mathematics,4002,Vanderbilt University,Matthew,,Haulmark,2374524,11,good,TEACHER,PROFESSOR,3.5
+726,Marketing,4002,Vanderbilt University,Kelly,,Haws,2361343,1,good,TEACHER,PROFESSOR,5.0
+727,Mathematics,4002,Vanderbilt University,Ben,,Hayes,1930654,21,poor,TEACHER,PROFESSOR,1.9
+728,Education,4002,Vanderbilt University,Lynn,,Hayes,2647720,1,good,TEACHER,PROFESSOR,5.0
+729,English,4002,Vanderbilt University,Justin,,Haynes,1084978,6,good,TEACHER,PROFESSOR,3.9
+730,English,4002,Vanderbilt University,Andrea,,Hearn,931397,21,good,TEACHER,PROFESSOR,4.4
+731,Biomedical,4002,Vanderbilt University,Elizabeth,,Heitman,1089171,3,good,TEACHER,PROFESSOR,5.0
+732,Philosophy,4002,Vanderbilt University,Margaret,,Hejtmancik,1435028,0,zero,TEACHER,PROFESSOR,N/A
+733,Languages,4002,Vanderbilt University,Chalene,,Helmuth,319129,31,good,TEACHER,PROFESSOR,4.3
+734,Engineering,4002,Vanderbilt University,Graham,,Hemingway,1857506,36,good,TEACHER,PROFESSOR,4.2
+735,Languages,4002,Vanderbilt University,Clint,,Hendrix,954024,34,good,TEACHER,PROFESSOR,4.6
+736,Philosophy,4002,Vanderbilt University,Fiacha,,Heneghan,2478225,0,zero,TEACHER,PROFESSOR,N/A
+737,Philosophy,4002,Vanderbilt University,Diana,,Heney,2632432,3,good,TEACHER,PROFESSOR,3.7
+738,Philosophy,4002,Vanderbilt University,Tempest,,Henning,2426624,3,average,TEACHER,PROFESSOR,3.0
+739,Education,4002,Vanderbilt University,Andrea,W.,Henrie,2120894,2,good,TEACHER,PROFESSOR,5.0
+740,Economics,4002,Vanderbilt University,Eun,Jeong,Heo,1998734,19,poor,TEACHER,PROFESSOR,2.2
+741,Psychology,4002,Vanderbilt University,Suzana,,Herculano-Houzel,2263788,6,good,TEACHER,PROFESSOR,4.7
+742,Classics,4002,Vanderbilt University,Grace,,Hernandez,1387159,0,zero,TEACHER,PROFESSOR,N/A
+743,Anthropology,4002,Vanderbilt University,Werner,,Hertzog,2178493,0,zero,TEACHER,PROFESSOR,N/A
+744,Science,4002,Vanderbilt University,B. Andes,,Hess,140108,44,average,TEACHER,PROFESSOR,3.0
+745,Sociology,4002,Vanderbilt University,David,,Hess,1710535,12,good,TEACHER,PROFESSOR,4.5
+746,Chemistry,4002,Vanderbilt University,B. Andes,,Hess,2253126,0,zero,TEACHER,PROFESSOR,N/A
+747,Political Science,4002,Vanderbilt University,Marc,,Hetherington,496861,47,good,TEACHER,PROFESSOR,4.5
+748,Education,4002,Vanderbilt University,Brian,,Heuser,866105,20,good,TEACHER,PROFESSOR,4.3
+749,English,4002,Vanderbilt University,Stephanie,,Higgs,1510339,7,good,TEACHER,PROFESSOR,4.4
+750,International Studies,4002,Vanderbilt University,Amy,,Hill,2557034,0,zero,TEACHER,PROFESSOR,N/A
+751,Languages,4002,Vanderbilt University,Ruth,,Hill,2000948,2,good,TEACHER,PROFESSOR,5.0
+752,Philosophy,4002,Vanderbilt University,Carmela,,Hill-Burke,2209503,1,good,TEACHER,PROFESSOR,5.0
+753,English,4002,Vanderbilt University,Rick,,Hilles,774003,18,good,TEACHER,PROFESSOR,4.0
+754,Biology,4002,Vanderbilt University,Julian,,Hillyer,1421625,30,average,TEACHER,PROFESSOR,3.4
+755,Music,4002,Vanderbilt University,Michael,,Hime,197877,38,good,TEACHER,PROFESSOR,4.3
+756,English,4002,Vanderbilt University,Andrew,,Hines,1682343,15,good,TEACHER,PROFESSOR,4.3
+757,Political Science,4002,Vanderbilt University,Jonathan,,Hiskey,787998,20,good,TEACHER,PROFESSOR,3.6
+758,English,4002,Vanderbilt University,Jessie,,Hock,2113172,8,good,TEACHER,PROFESSOR,4.9
+759,Education,4002,Vanderbilt University,Robert (bob),,Hodapp,616321,6,good,TEACHER,PROFESSOR,3.6
+760,Humanities,4002,Vanderbilt University,Tiffany,,Hodge,1741655,1,good,TEACHER,PROFESSOR,4.5
+761,Philosophy,4002,Vanderbilt University,Michael,,Hodges,188520,23,good,TEACHER,PROFESSOR,3.7
+762,Mathematics,4002,Vanderbilt University,Stacy,,Hoehn,1475277,1,good,TEACHER,PROFESSOR,5.0
+763,English,4002,Vanderbilt University,Lauren,,Hoffer,1351453,6,good,TEACHER,PROFESSOR,4.4
+764,Not Specified,4002,Vanderbilt University,Steve,,Hoffler,1701124,0,zero,TEACHER,PROFESSOR,N/A
+765,Education,4002,Vanderbilt University,Clifford,,Hofwolt,986423,5,average,TEACHER,PROFESSOR,3.4
+766,Astronomy,4002,Vanderbilt University,Kelly,,Holley-Bockelmann,1164789,2,good,TEACHER,PROFESSOR,4.0
+767,Human Development,4002,Vanderbilt University,Charrise,Phillips,Hollingsworth,2453190,1,good,TEACHER,PROFESSOR,5.0
+768,Psychology,4002,Vanderbilt University,Steven,,Hollon,518739,20,good,TEACHER,PROFESSOR,4.5
+769,Engineering,4002,Vanderbilt University,Tim,,Holman,907510,33,good,TEACHER,PROFESSOR,3.6
+770,Physics,4002,Vanderbilt University,William,,Holmes,2201503,22,poor,TEACHER,PROFESSOR,1.7
+771,Philosophy,4002,Vanderbilt University,Jennifer,,Holt,1588920,2,good,TEACHER,PROFESSOR,5.0
+772,Political Science,4002,Vanderbilt University,Andrew,Robert,Hom,2006360,1,average,TEACHER,PROFESSOR,3.0
+773,Education,4002,Vanderbilt University,Kathy,,Hoover-Dempsey,340184,27,good,TEACHER,PROFESSOR,4.7
+774,Engineering,4002,Vanderbilt University,George,,Hornberger,1489830,0,zero,TEACHER,PROFESSOR,N/A
+775,Philosophy,4002,Vanderbilt University,Gregg,,Horowitz,399861,8,good,TEACHER,PROFESSOR,3.9
+776,Philosophy,4002,Vanderbilt University,Ellen,,Horowitz,1324579,0,zero,TEACHER,PROFESSOR,N/A
+777,Fine Arts,4002,Vanderbilt University,Mark,,Hosford,350921,14,good,TEACHER,PROFESSOR,4.5
+778,Engineering,4002,Vanderbilt University,Dennis,W.,Houchin,2601176,0,zero,TEACHER,PROFESSOR,N/A
+779,Philosophy,4002,Vanderbilt University,Josh,,Houston,1132856,7,good,TEACHER,PROFESSOR,4.7
+780,Business,4002,Vanderbilt University,Kejia,,Hu,2489329,3,average,TEACHER,PROFESSOR,3.3
+781,Economics,4002,Vanderbilt University,Malin,,Hu,2621804,11,average,TEACHER,PROFESSOR,2.5
+782,Mathematics,4002,Vanderbilt University,Dongping,,Huang,1433876,1,poor,TEACHER,PROFESSOR,1.0
+783,Economics,4002,Vanderbilt University,Kevin,,Huang,1008845,11,average,TEACHER,PROFESSOR,2.8
+784,History,4002,Vanderbilt University,Peter,,Hudson,1503780,6,good,TEACHER,PROFESSOR,3.8
+785,Economics,4002,Vanderbilt University,Gregory,,Huffman,451449,20,poor,TEACHER,PROFESSOR,1.9
+786,Education,4002,Vanderbilt University,Carolyn,,Hughes,818574,4,good,TEACHER,PROFESSOR,3.9
+787,Mathematics,4002,Vanderbilt University,Bruce,,Hughes,198204,40,good,TEACHER,PROFESSOR,4.4
+788,English,4002,Vanderbilt University,Joanna,,Huh,2648683,0,zero,TEACHER,PROFESSOR,N/A
+789,Finance,4002,Vanderbilt University,Willis,,Hulings,2298453,7,good,TEACHER,PROFESSOR,4.4
+790,Psychology,4002,Vanderbilt University,Kathryn,L,Humphreys,2420717,3,good,TEACHER,PROFESSOR,4.7
+791,Nursing,4002,Vanderbilt University,Jennifer,,Hunt,2575685,0,zero,TEACHER,PROFESSOR,N/A
+792,English,4002,Vanderbilt University,Evelyn,,Hunter,1380642,5,good,TEACHER,PROFESSOR,4.5
+793,Political Science,4002,Vanderbilt University,Jason,,Husser,1350255,9,good,TEACHER,PROFESSOR,4.9
+794,Mathematics,4002,Vanderbilt University,Linda,,Hutchison,196194,125,good,TEACHER,PROFESSOR,3.9
+795,Physics,4002,Vanderbilt University,Shane,,Hutson,485640,11,good,TEACHER,PROFESSOR,3.6
+796,Psychology,4002,Vanderbilt University,Shane,,Hutton,2136045,24,good,TEACHER,PROFESSOR,3.6
+797,Religion,4002,Vanderbilt University,Susan,,Hylen,748945,12,average,TEACHER,PROFESSOR,3.3
+798,Marketing,4002,Vanderbilt University,Dawn,,Iacobucci,1541528,5,average,TEACHER,PROFESSOR,2.5
+799,History,4002,Vanderbilt University,Yoshikuni,,Igarashi,528152,26,good,TEACHER,PROFESSOR,3.6
+800,History,4002,Vanderbilt University,Sarah,E,Igo,2155758,2,good,TEACHER,PROFESSOR,5.0
+801,African-American Studies,4002,Vanderbilt University,David,,Ikard,2356987,6,good,TEACHER,PROFESSOR,3.5
+802,Art History,4002,Vanderbilt University,Veronica-Gaia,,Ikeshoji-Orlati,2371773,1,average,TEACHER,PROFESSOR,3.0
+803,Languages,4002,Vanderbilt University,Nozomi,,Imai,2542922,6,good,TEACHER,PROFESSOR,4.0
+804,Education,4002,Vanderbilt University,Robert,,Innes,284731,15,good,TEACHER,PROFESSOR,3.9
+805,Human Development,4002,Vanderbilt University,Misha,,Inniss-Thompson,2453195,1,good,TEACHER,PROFESSOR,5.0
+806,Economics,4002,Vanderbilt University,Atsushi,,Inoue,2566458,3,average,TEACHER,PROFESSOR,2.7
+807,Geology,4002,Vanderbilt University,Ben,,Iobst,780661,0,zero,TEACHER,PROFESSOR,N/A
+808,Sociology,4002,Vanderbilt University,Larry,,Isaac,604876,13,good,TEACHER,PROFESSOR,4.8
+809,Human Development,4002,Vanderbilt University,Linda,,Isaacs,660788,18,average,TEACHER,PROFESSOR,2.5
+810,Mathematics,4002,Vanderbilt University,Jocelyne,,Ishak,2537157,8,average,TEACHER,PROFESSOR,3.3
+811,Mathematics,4002,Vanderbilt University,Ishan,,Ishan,2580984,2,good,TEACHER,PROFESSOR,5.0
+812,Management,4002,Vanderbilt University,Bob,,Isherwood,1663912,4,good,TEACHER,PROFESSOR,4.4
+813,Mathematics,4002,Vanderbilt University,Z,,Issac,140105,58,good,TEACHER,PROFESSOR,4.0
+814,Languages,4002,Vanderbilt University,Alan,,Itkin,2224476,1,good,TEACHER,PROFESSOR,4.0
+815,Chemistry,4002,Vanderbilt University,Borislav,,Ivanov,2378581,0,zero,TEACHER,PROFESSOR,N/A
+816,Political Science,4002,Vanderbilt University,Molly,,Jackman,1967906,1,good,TEACHER,PROFESSOR,4.5
+817,Biology,4002,Vanderbilt University,Lauren,,Jackson,1997682,22,poor,TEACHER,PROFESSOR,2.1
+818,American Studies,4002,Vanderbilt University,Alexander,,Jacobs,2361669,10,good,TEACHER,PROFESSOR,4.9
+819,Mathematics,4002,Vanderbilt University,Matthieu,,Jacquemet,2247122,2,good,TEACHER,PROFESSOR,5.0
+820,Philosophy,4002,Vanderbilt University,Gary,,Jaeger,1083401,23,average,TEACHER,PROFESSOR,3.0
+821,Mathematics,4002,Vanderbilt University,Hayden,,Jananthan,2587809,7,poor,TEACHER,PROFESSOR,2.4
+822,Languages,4002,Vanderbilt University,Seok Bae,,Jang,2420667,7,good,TEACHER,PROFESSOR,4.7
+823,Engineering,4002,Vanderbilt University,Duco,,Jansen,1935797,6,good,TEACHER,PROFESSOR,4.8
+824,Anthropology,4002,Vanderbilt University,John,,Janusek,352032,29,good,TEACHER,PROFESSOR,4.2
+825,Economics,4002,Vanderbilt University,Matthew,,Jaremski,1453379,8,average,TEACHER,PROFESSOR,3.0
+826,English,4002,Vanderbilt University,Mark,,Jarman,389601,10,good,TEACHER,PROFESSOR,4.2
+827,Languages,4002,Vanderbilt University,Carlos,,Jauregui,822799,17,good,TEACHER,PROFESSOR,3.5
+828,Biomedical,4002,Vanderbilt University,Kalana,,Jayawardana,2412626,2,good,TEACHER,PROFESSOR,3.5
+829,Philosophy,4002,Vanderbilt University,Elizabeth,,Jelinek,1085209,13,good,TEACHER,PROFESSOR,4.0
+830,English,4002,Vanderbilt University,Donald,,Jellerson,775497,5,good,TEACHER,PROFESSOR,5.0
+831,Engineering,4002,Vanderbilt University,G. Kane,,Jennings,897894,15,good,TEACHER,PROFESSOR,4.8
+832,Divinity,4002,Vanderbilt University,Robin,,Jensen,1135530,1,average,TEACHER,PROFESSOR,3.0
+833,Economics,4002,Vanderbilt University,Hyeok,,Jeong,1225498,9,poor,TEACHER,PROFESSOR,1.9
+834,Biology,4002,Vanderbilt University,Jason,,Jessen,1150917,0,zero,TEACHER,PROFESSOR,N/A
+835,Education,4002,Vanderbilt University,Robert,T,Jimenez,2120890,0,zero,TEACHER,PROFESSOR,N/A
+836,Physics,4002,Vanderbilt University,Will,,Johns,142780,21,good,TEACHER,PROFESSOR,3.7
+837,Art History,4002,Vanderbilt University,Christopher,,Johns,530458,20,good,TEACHER,PROFESSOR,4.4
+838,Marketing,4002,Vanderbilt University,Art,,Johnsen,1138095,14,good,TEACHER,PROFESSOR,4.7
+839,History,4002,Vanderbilt University,Kurt,,Johnson,778141,12,good,TEACHER,PROFESSOR,3.9
+840,Languages,4002,Vanderbilt University,David,,Johnson,1421366,6,good,TEACHER,PROFESSOR,5.0
+841,Classics,4002,Vanderbilt University,Michael,,Johnson,1511374,8,good,TEACHER,PROFESSOR,4.9
+842,Women's Studies,4002,Vanderbilt University,Rolanda,,Johnson,1775263,3,good,TEACHER,PROFESSOR,4.0
+843,Engineering,4002,Vanderbilt University,Courtney,,Johnson,1893291,13,good,TEACHER,PROFESSOR,4.9
+844,Computer Science,4002,Vanderbilt University,Taylor,,Johnson,2205782,12,good,TEACHER,PROFESSOR,4.0
+845,Biology,4002,Vanderbilt University,Carl,,Johnson,343225,71,good,TEACHER,PROFESSOR,3.5
+846,Computer Science,4002,Vanderbilt University,Julie,,Johnson,555719,53,good,TEACHER,PROFESSOR,3.7
+847,Chemistry,4002,Vanderbilt University,Jeffrey,,Johnston,1110297,22,average,TEACHER,PROFESSOR,3.2
+848,History,4002,Vanderbilt University,Yollette,,Jones,1508727,7,average,TEACHER,PROFESSOR,3.2
+849,Mathematics,4002,Vanderbilt University,Corey,,Jones,2058970,6,good,TEACHER,PROFESSOR,4.0
+850,Anthropology,4002,Vanderbilt University,Martha,,Jones,2189519,9,good,TEACHER,PROFESSOR,3.7
+851,Neuroscience,4002,Vanderbilt University,Carrie,,Jones,2205846,6,good,TEACHER,PROFESSOR,4.7
+852,Engineering,4002,Vanderbilt University,Ben,,Jordan,484646,28,good,TEACHER,PROFESSOR,4.8
+853,Biology,4002,Vanderbilt University,Maria,Luisa,Jorge,1944349,5,good,TEACHER,PROFESSOR,4.3
+854,History,4002,Vanderbilt University,Ari,,Joskowicz,1620077,11,good,TEACHER,PROFESSOR,4.5
+855,English,4002,Vanderbilt University,Scott,,Juengel,1566595,7,good,TEACHER,PROFESSOR,4.3
+856,Mathematics,4002,Vanderbilt University,Kate,,Juschenko,1774708,6,good,TEACHER,PROFESSOR,3.8
+857,Psychology,4002,Vanderbilt University,Jon,,Kaas,600868,8,good,TEACHER,PROFESSOR,3.5
+858,English,4002,Vanderbilt University,Magana,,Kabugi,2330194,2,good,TEACHER,PROFESSOR,5.0
+859,Psychology,4002,Vanderbilt University,Antonia,,Kaczkurkin,2628963,3,poor,TEACHER,PROFESSOR,1.3
+860,Chemistry,4002,Vanderbilt University,Piotr,,Kaczynski,197740,21,average,TEACHER,PROFESSOR,2.9
+861,Political Science,4002,Vanderbilt University,Cindy,,Kam,1525324,3,poor,TEACHER,PROFESSOR,2.3
+862,Engineering,4002,Vanderbilt University,Weng Poo,,Kang,777818,8,average,TEACHER,PROFESSOR,3.1
+863,Mathematics,4002,Vanderbilt University,Georgi,,Kapitanov,1561248,2,good,TEACHER,PROFESSOR,4.5
+864,Biology,4002,Vanderbilt University,Daniel,,Kaplan,878311,10,good,TEACHER,PROFESSOR,4.7
+865,Languages,4002,Vanderbilt University,Christina,,Karageorgou,353415,20,average,TEACHER,PROFESSOR,3.0
+866,English,4002,Vanderbilt University,Sheba,,Karim,2481036,6,good,TEACHER,PROFESSOR,5.0
+867,Sociology,4002,Vanderbilt University,Mary,,Karpos,394610,77,average,TEACHER,PROFESSOR,3.4
+868,Criminal Justice,4002,Vanderbilt University,Mary,,Karpos,2501735,0,zero,TEACHER,PROFESSOR,N/A
+869,Engineering,4002,Vanderbilt University,Gabor,,Karsai,522370,7,average,TEACHER,PROFESSOR,3.0
+870,English,4002,Vanderbilt University,Jaya,,Kasibhatla,796228,12,good,TEACHER,PROFESSOR,3.8
+871,Mathematics,4002,Vanderbilt University,Gennadi,,Kasparov,1505722,2,good,TEACHER,PROFESSOR,3.8
+872,Chemistry,4002,Vanderbilt University,Piotr,,Kaszynski,1774995,3,average,TEACHER,PROFESSOR,3.3
+873,Engineering,4002,Vanderbilt University,Amy,,Kauppila,2091206,49,good,TEACHER,PROFESSOR,4.0
+874,Engineering,4002,Vanderbilt University,Jeffrey (Jeff),,Kauppila,2235482,13,good,TEACHER,PROFESSOR,4.7
+875,Engineering,4002,Vanderbilt University,Kazuhiko,,Kawamura,1271303,5,average,TEACHER,PROFESSOR,3.0
+876,Mathematics,4002,Vanderbilt University,Alexandr,,Kazda,1957044,7,average,TEACHER,PROFESSOR,3.1
+877,African-American Studies,4002,Vanderbilt University,Trica,,Keaton,1568270,6,good,TEACHER,PROFESSOR,4.0
+878,Mechanical Engineering,4002,Vanderbilt University,Matt,,Kelley,2056863,0,zero,TEACHER,PROFESSOR,N/A
+879,Geology,4002,Vanderbilt University,Neil,,Kelley,2156816,13,good,TEACHER,PROFESSOR,4.7
+880,Economics,4002,Vanderbilt University,Patricia,,Kelly,1700269,11,average,TEACHER,PROFESSOR,2.8
+881,Languages,4002,Vanderbilt University,Margaret,,Kelly,2657334,1,good,TEACHER,PROFESSOR,4.0
+882,Sociology,4002,Vanderbilt University,S,,Kelner,880752,20,good,TEACHER,PROFESSOR,4.7
+883,Communication,4002,Vanderbilt University,Kathy,,Keltner,1125466,0,zero,TEACHER,PROFESSOR,N/A
+884,Political Science,4002,Vanderbilt University,Brenton,,Kenkel,2002774,10,good,TEACHER,PROFESSOR,4.2
+885,Communication,4002,Vanderbilt University,Carole,,Kenner,321741,21,good,TEACHER,PROFESSOR,4.0
+886,Mathematics,4002,Vanderbilt University,Curt,,Kent,1748454,5,average,TEACHER,PROFESSOR,3.1
+887,Physics,4002,Vanderbilt University,Thomas,,Kephart,1875589,7,poor,TEACHER,PROFESSOR,2.3
+888,Economics,4002,Vanderbilt University,Suhas,,Ketkar,972935,5,good,TEACHER,PROFESSOR,4.0
+889,Biology,4002,Vanderbilt University,Dr.,,Kevin,2640543,4,good,TEACHER,PROFESSOR,5.0
+890,Languages,4002,Vanderbilt University,Susan,,Kevra,272814,40,good,TEACHER,PROFESSOR,3.8
+891,English,4002,Vanderbilt University,Dennis,,Kezar,197683,28,good,TEACHER,PROFESSOR,3.9
+892,Languages,4002,Vanderbilt University,Albina,,Khabibulina,2588761,0,zero,TEACHER,PROFESSOR,N/A
+893,Engineering,4002,Vanderbilt University,Piran,,Kidambi,2482227,2,average,TEACHER,PROFESSOR,3.0
+894,Art History,4002,Vanderbilt University,Jinah,,Kim,1023639,3,average,TEACHER,PROFESSOR,2.8
+895,English,4002,Vanderbilt University,Jeongoh,,Kim,1122749,9,average,TEACHER,PROFESSOR,3.3
+896,History,4002,Vanderbilt University,Kevin,,Kim,1989754,3,good,TEACHER,PROFESSOR,4.3
+897,Film,4002,Vanderbilt University,Se Young Seth,,Kim,2246149,17,average,TEACHER,PROFESSOR,3.1
+898,English,4002,Vanderbilt University,Soomin,,Kim,2408013,0,zero,TEACHER,PROFESSOR,N/A
+899,English,4002,Vanderbilt University,Jeong-Oh,,Kim,2361064,10,good,TEACHER,PROFESSOR,3.9
+900,Management,4002,Vanderbilt University,Gary,,Kimball,1191777,26,good,TEACHER,PROFESSOR,4.2
+901,Music,4002,Vanderbilt University,Jerry,,Kimbrough,1382446,1,good,TEACHER,PROFESSOR,5.0
+902,Women's Studies,4002,Vanderbilt University,Amanda,,Kinard,127182,20,good,TEACHER,PROFESSOR,4.7
+903,Film,4002,Vanderbilt University,Claire,,King,832337,11,good,TEACHER,PROFESSOR,4.0
+904,Nursing,4002,Vanderbilt University,Joan,,King,907981,3,poor,TEACHER,PROFESSOR,1.8
+905,Religion,4002,Vanderbilt University,Richard,,King,982825,5,good,TEACHER,PROFESSOR,4.0
+906,Law,4002,Vanderbilt University,Nancy,,King,1326314,0,zero,TEACHER,PROFESSOR,N/A
+907,English,4002,Vanderbilt University,Emily,,King,1866339,4,good,TEACHER,PROFESSOR,4.1
+908,Psychology,4002,Vanderbilt University,Leslie,,Kirby,273719,78,average,TEACHER,PROFESSOR,2.9
+909,Management,4002,Vanderbilt University,Kevin,,Kirkpatrick,1056006,9,good,TEACHER,PROFESSOR,3.9
+910,Classics,4002,Vanderbilt University,Keith,,Kitchen,955427,13,good,TEACHER,PROFESSOR,4.2
+911,English,4002,Vanderbilt University,Judith,,Klass,1072115,18,good,TEACHER,PROFESSOR,4.0
+912,Mathematics,4002,Vanderbilt University,Colin,,Klaus,1952809,3,good,TEACHER,PROFESSOR,4.2
+913,English,4002,Vanderbilt University,Kathryn,M.,Klein,1953727,4,good,TEACHER,PROFESSOR,3.6
+914,Mathematics,4002,Vanderbilt University,Caner,,Koca,1778876,11,good,TEACHER,PROFESSOR,4.1
+915,Communication,4002,Vanderbilt University,John,,Koch,2206805,3,good,TEACHER,PROFESSOR,4.7
+916,Art History,4002,Vanderbilt University,Lutz,,Koepnick,2001028,6,good,TEACHER,PROFESSOR,4.8
+917,Anthropology,4002,Vanderbilt University,Lauren,,Kohut,1227805,0,zero,TEACHER,PROFESSOR,N/A
+918,Music Performance,4002,Vanderbilt University,Peter,,Kolkay,2318881,1,good,TEACHER,PROFESSOR,5.0
+919,Mathematics,4002,Vanderbilt University,Matjaz,,Konvalinka,1424680,1,average,TEACHER,PROFESSOR,2.5
+920,Anthropology,4002,Vanderbilt University,Beth,,Koontz,1228671,0,zero,TEACHER,PROFESSOR,N/A
+921,Music,4002,Vanderbilt University,Mitchell,,Korn,1808086,9,good,TEACHER,PROFESSOR,4.8
+922,Communication,4002,Vanderbilt University,Sarah,,Kornfield,1761564,5,good,TEACHER,PROFESSOR,3.8
+923,English,4002,Vanderbilt University,Kylie,,Korsnack,2215825,2,good,TEACHER,PROFESSOR,4.5
+924,Chemistry,4002,Vanderbilt University,David,A,Kort,2047922,14,poor,TEACHER,PROFESSOR,2.2
+925,International Studies,4002,Vanderbilt University,Nicolette,,Kostiw,2326026,3,good,TEACHER,PROFESSOR,4.0
+926,Engineering,4002,Vanderbilt University,Yiorgos,,Kostoulas,2481213,3,poor,TEACHER,PROFESSOR,2.3
+927,Engineering,4002,Vanderbilt University,Xenofon,,Koutsoukos,198017,13,good,TEACHER,PROFESSOR,4.0
+928,Communication,4002,Vanderbilt University,Kassian,,Kovalcheck,322773,20,good,TEACHER,PROFESSOR,4.2
+929,History,4002,Vanderbilt University,Paul,,Kramer,1531550,18,average,TEACHER,PROFESSOR,3.0
+930,Humanities,4002,Vanderbilt University,Jennifer,,Krause,937539,19,good,TEACHER,PROFESSOR,4.4
+931,Classics,4002,Vanderbilt University,Amanda,,Krauss,710420,10,good,TEACHER,PROFESSOR,4.1
+932,English,4002,Vanderbilt University,Michael,,Kreyling,660756,25,good,TEACHER,PROFESSOR,3.9
+933,Biology,4002,Vanderbilt University,Andrzej,,Krezel,745467,9,average,TEACHER,PROFESSOR,2.5
+934,Music,4002,Vanderbilt University,Karen,,Krieger,110950,11,average,TEACHER,PROFESSOR,3.4
+935,Mathematics,4002,Vanderbilt University,Ilya,,Krishtal,1707360,1,average,TEACHER,PROFESSOR,3.0
+936,Psychology,4002,Vanderbilt University,Autumn,,Kujawa,2632435,2,good,TEACHER,PROFESSOR,5.0
+937,Computer Science,4002,Vanderbilt University,Maithilee,,Kunda,2357581,12,poor,TEACHER,PROFESSOR,1.4
+938,Mathematics,4002,Vanderbilt University,Woden,,Kusner,2360293,6,average,TEACHER,PROFESSOR,3.3
+939,Languages,4002,Vanderbilt University,Konstantin,,Kustanovich,1267991,10,good,TEACHER,PROFESSOR,3.5
+940,English,4002,Vanderbilt University,Vera,,Kutzinski,1104596,9,average,TEACHER,PROFESSOR,2.9
+941,Philosophy,4002,Vanderbilt University,John,,Lachs,141560,55,good,TEACHER,PROFESSOR,4.5
+942,Engineering,4002,Vanderbilt University,Paul,,Laibinis,1484423,24,good,TEACHER,PROFESSOR,4.2
+943,Human Development,4002,Vanderbilt University,David,,Laird,2446830,8,poor,TEACHER,PROFESSOR,2.4
+944,History,4002,Vanderbilt University,Peter,,Lake,1278029,6,average,TEACHER,PROFESSOR,3.1
+945,English,4002,Vanderbilt University,Jonathan,,Lamb,632486,11,average,TEACHER,PROFESSOR,3.0
+946,Languages,4002,Vanderbilt University,Alexander,,Lambrow,2565641,1,good,TEACHER,PROFESSOR,5.0
+947,Accounting,4002,Vanderbilt University,Hunter,,Land,2571385,6,good,TEACHER,PROFESSOR,4.5
+948,History,4002,Vanderbilt University,Jane,,Landers,2580933,3,average,TEACHER,PROFESSOR,3.0
+949,Engineering,4002,Vanderbilt University,Bennett,A,Landman,1891550,7,good,TEACHER,PROFESSOR,4.3
+950,Education,4002,Vanderbilt University,Kathleen,,Lane,725401,0,zero,TEACHER,PROFESSOR,N/A
+951,Psychology,4002,Vanderbilt University,Jonathan,,Lane,2029237,18,good,TEACHER,PROFESSOR,4.7
+952,Engineering,4002,Vanderbilt University,Matthew,,Lang,1774093,4,good,TEACHER,PROFESSOR,4.7
+953,Philosophy,4002,Vanderbilt University,Elizabeth,,Lanphier,2129028,1,good,TEACHER,PROFESSOR,4.5
+954,Business,4002,Vanderbilt University,Michel,,Lapre,2361065,8,good,TEACHER,PROFESSOR,4.9
+955,Mathematics,4002,Vanderbilt University,Rolen,,Larry,2408486,4,good,TEACHER,PROFESSOR,4.3
+956,Economics,4002,Vanderbilt University,Timothy,,Larsen,2051841,6,good,TEACHER,PROFESSOR,4.8
+957,Education,4002,Vanderbilt University,Marrie,,Lasater,1990599,1,good,TEACHER,PROFESSOR,5.0
+958,Engineering,4002,Vanderbilt University,Ray,,Lathrop,2013341,1,poor,TEACHER,PROFESSOR,1.5
+959,Art History,4002,Vanderbilt University,Riyaz,,Latif,1956900,14,average,TEACHER,PROFESSOR,3.2
+960,Physics,4002,Vanderbilt University,Hadley,,Lawler,1474820,44,average,TEACHER,PROFESSOR,2.7
+961,Human Development,4002,Vanderbilt University,Todd,,Lawrence,1934777,3,good,TEACHER,PROFESSOR,4.7
+962,Management,4002,Vanderbilt University,Michael,,Lawson,1883846,24,good,TEACHER,PROFESSOR,3.8
+963,Engineering,4002,Vanderbilt University,Brian,,Lawson,1935141,1,good,TEACHER,PROFESSOR,4.0
+964,History,4002,Vanderbilt University,Katherine,,Lazo,2091380,1,poor,TEACHER,PROFESSOR,1.5
+965,Science,4002,Vanderbilt University,Alice,,Leach,2548136,2,good,TEACHER,PROFESSOR,5.0
+966,Business,4002,Vanderbilt University,Larry,,Leblanc,1826055,1,good,TEACHER,PROFESSOR,3.5
+967,Engineering,4002,Vanderbilt University,Eugene,,Leboeuf,127207,15,good,TEACHER,PROFESSOR,4.0
+968,Human Development,4002,Vanderbilt University,Daniel,,Lebreton,2251954,11,good,TEACHER,PROFESSOR,4.9
+969,Mathematics,4002,Vanderbilt University,Jeremy,,Lecrone,1777569,5,good,TEACHER,PROFESSOR,3.6
+970,Management,4002,Vanderbilt University,Patrick,,Leddin,2045482,32,good,TEACHER,PROFESSOR,4.7
+971,Business,4002,Vanderbilt University,Jamie,,Leddin,2287105,30,good,TEACHER,PROFESSOR,3.6
+972,Computer Science,4002,Vanderbilt University,Akos,,Ledeczi,1047798,22,good,TEACHER,PROFESSOR,4.2
+973,Languages,4002,Vanderbilt University,Julian,,Ledford,1382057,6,good,TEACHER,PROFESSOR,4.9
+974,Education,4002,Vanderbilt University,Jennifer,,Ledford,2444616,1,good,TEACHER,PROFESSOR,4.0
+975,Art History,4002,Vanderbilt University,Mireille,,Lee,1460788,19,good,TEACHER,PROFESSOR,3.5
+976,Human Development,4002,Vanderbilt University,Heather,,Lefkowitz,2318261,16,good,TEACHER,PROFESSOR,4.7
+977,Languages,4002,Vanderbilt University,Benjamin,,Legg,2301025,5,good,TEACHER,PROFESSOR,4.8
+978,Economics,4002,Vanderbilt University,Sebastian,J,Leguizamon,1841964,23,average,TEACHER,PROFESSOR,2.9
+979,English,4002,Vanderbilt University,Amanda,,Lehr,2451479,2,good,TEACHER,PROFESSOR,5.0
+980,Biology,4002,Vanderbilt University,Allison,,Leich Hilbun,2478102,19,average,TEACHER,PROFESSOR,3.3
+981,Economics,4002,Vanderbilt University,Gregory,,Leo,2057273,16,good,TEACHER,PROFESSOR,4.2
+982,Computer Science,4002,Vanderbilt University,Matt,,Leon,2520016,1,good,TEACHER,PROFESSOR,5.0
+983,Clinical Sciences,4002,Vanderbilt University,Chase,,Lesane-Brown,1320723,14,poor,TEACHER,PROFESSOR,1.8
+984,Political Science,4002,Vanderbilt University,Charles,,Lesch,2414213,13,good,TEACHER,PROFESSOR,4.8
+985,Mathematics,4002,Vanderbilt University,Sara,,Leshen,2334530,1,good,TEACHER,PROFESSOR,4.0
+986,Psychology,4002,Vanderbilt University,Daniel,,Levin,956608,18,average,TEACHER,PROFESSOR,2.8
+987,Engineering,4002,Vanderbilt University,Judy,,Lewis,717953,16,good,TEACHER,PROFESSOR,4.1
+988,Political Science,4002,Vanderbilt University,David,,Lewis,1485139,24,good,TEACHER,PROFESSOR,4.3
+989,Engineering,4002,Vanderbilt University,Dongqing,,Li,815427,4,poor,TEACHER,PROFESSOR,2.4
+990,Engineering,4002,Vanderbilt University,Deyu,,Li,978843,3,average,TEACHER,PROFESSOR,3.1
+991,Mathematics,4002,Vanderbilt University,Shiying,,Li,2373616,2,average,TEACHER,PROFESSOR,3.0
+992,Religion,4002,Vanderbilt University,Paul,,Lim,1583186,1,good,TEACHER,PROFESSOR,4.5
+993,Religion,4002,Vanderbilt University,Nancy,,Lin,1989882,2,good,TEACHER,PROFESSOR,4.0
+994,Engineering,4002,Vanderbilt University,Shihong,,Lin,2211929,6,good,TEACHER,PROFESSOR,3.5
+995,English,4002,Vanderbilt University,Odie,,Lindsey,1969262,8,good,TEACHER,PROFESSOR,4.1
+996,Music,4002,Vanderbilt University,stanley,,link,2029037,0,zero,TEACHER,PROFESSOR,N/A
+997,Music,4002,Vanderbilt University,Stan,,Link,319490,34,good,TEACHER,PROFESSOR,4.2
+998,Political Science,4002,Vanderbilt University,Clifford,,Lippard,1488986,10,good,TEACHER,PROFESSOR,4.7
+999,Engineering,4002,Vanderbilt University,Ethan,,Lippmann,2079228,4,good,TEACHER,PROFESSOR,4.7
+1000,Chemistry,4002,Vanderbilt University,Adam,,List,195569,103,average,TEACHER,PROFESSOR,3.3
+1001,English,4002,Vanderbilt University,Amanda,,Little,2317739,7,good,TEACHER,PROFESSOR,3.5
+1002,Languages,4002,Vanderbilt University,Jing,,Liu,1890450,13,good,TEACHER,PROFESSOR,5.0
+1003,Languages,4002,Vanderbilt University,Xianmin,,Liu,285405,22,good,TEACHER,PROFESSOR,3.8
+1004,Sociology,4002,Vanderbilt University,Richard,,Lloyd,597006,48,average,TEACHER,PROFESSOR,3.3
+1005,Biomedical,4002,Vanderbilt University,Andrea,,Locke,2662819,0,zero,TEACHER,PROFESSOR,N/A
+1006,Finance,4002,Vanderbilt University,Timothy,,Logan,982297,20,good,TEACHER,PROFESSOR,3.7
+1007,Political Science,4002,Vanderbilt University,Farhana,,Loonat,1909226,1,good,TEACHER,PROFESSOR,4.5
+1008,English,4002,Vanderbilt University,Lorraine,,López,365792,14,good,TEACHER,PROFESSOR,4.0
+1009,Mathematics,4002,Vanderbilt University,Abey,,Lopez,1320332,1,good,TEACHER,PROFESSOR,5.0
+1010,Languages,4002,Vanderbilt University,Andrea,,Lopez,2356996,2,average,TEACHER,PROFESSOR,3.0
+1011,Languages,4002,Vanderbilt University,Luis,,Lopez Gonzalez,2472387,4,good,TEACHER,PROFESSOR,5.0
+1012,Nursing,4002,Vanderbilt University,Melissa,,Lord,1590319,3,good,TEACHER,PROFESSOR,4.0
+1013,Languages,4002,Vanderbilt University,Alicia,,Lorenzo-Garcia,1620447,18,good,TEACHER,PROFESSOR,4.2
+1014,History,4002,Vanderbilt University,Peter,,Lorge,283299,35,good,TEACHER,PROFESSOR,4.0
+1015,Engineering,4002,Vanderbilt University,Daniel,,Loveless,1670226,5,good,TEACHER,PROFESSOR,4.6
+1016,Music,4002,Vanderbilt University,Jim,,Lovensheimer,178991,85,good,TEACHER,PROFESSOR,4.5
+1017,Chemistry,4002,Vanderbilt University,James,,Lowe,330337,20,average,TEACHER,PROFESSOR,3.3
+1018,Not Specified,4002,Vanderbilt University,David,,Lowe,917964,3,good,TEACHER,PROFESSOR,3.8
+1019,Chemistry,4002,Vanderbilt University,Jim,,Lowe,1508566,1,poor,TEACHER,PROFESSOR,1.0
+1020,Theater,4002,Vanderbilt University,Mary Leah,,Lowe,1635687,8,good,TEACHER,PROFESSOR,4.5
+1021,Religion,4002,Vanderbilt University,Bryan,,Lowe,1805324,11,good,TEACHER,PROFESSOR,4.6
+1022,Asian Studies,4002,Vanderbilt University,Michiru,,Lowe,1873573,8,good,TEACHER,PROFESSOR,4.7
+1023,Music,4002,Vanderbilt University,Melanie,,Lowe,185886,27,good,TEACHER,PROFESSOR,4.5
+1024,Engineering,4002,Vanderbilt University,Amanda,,Lowery,1515872,7,average,TEACHER,PROFESSOR,3.4
+1025,Philosophy,4002,Vanderbilt University,Alyssa,,Lowery,2106963,5,good,TEACHER,PROFESSOR,4.0
+1026,Psychology,4002,Vanderbilt University,David,,Lubinski,958742,5,average,TEACHER,PROFESSOR,2.5
+1027,Education,4002,Vanderbilt University,Deb,,Lucas,1825998,2,poor,TEACHER,PROFESSOR,1.2
+1028,English,4002,Vanderbilt University,Claudia,,Ludwig,2175768,5,good,TEACHER,PROFESSOR,5.0
+1029,Economics,4002,Vanderbilt University,Heather,,Luea,1368759,87,average,TEACHER,PROFESSOR,3.3
+1030,Languages,4002,Vanderbilt University,William,,Luis,956582,9,average,TEACHER,PROFESSOR,3.2
+1031,Chemistry,4002,Vanderbilt University,Charles,,Lukehart,1319655,14,average,TEACHER,PROFESSOR,2.6
+1032,Mathematics,4002,Vanderbilt University,Chenyun,,Luo,2289489,10,good,TEACHER,PROFESSOR,4.1
+1033,Political Science,4002,Vanderbilt University,Noam,,Lupu,2372737,7,poor,TEACHER,PROFESSOR,2.3
+1034,Political Science,4002,Vanderbilt University,Torben,,Lutjen,2250097,7,good,TEACHER,PROFESSOR,4.7
+1035,Science,4002,Vanderbilt University,Terry,,Lybrand,133008,7,good,TEACHER,PROFESSOR,4.5
+1036,Philosophy,4002,Vanderbilt University,Chad,,Lykins,850453,2,average,TEACHER,PROFESSOR,3.0
+1037,Political Science,4002,Vanderbilt University,Monique,,Lyle,1504425,6,average,TEACHER,PROFESSOR,3.1
+1038,Chemistry,4002,Vanderbilt University,Janet,,Macdonald,1964148,7,good,TEACHER,PROFESSOR,3.7
+1039,Anthropology,4002,Vanderbilt University,Kenneth,,MacLeish,1801707,12,good,TEACHER,PROFESSOR,4.5
+1040,Philosophy,4002,Vanderbilt University,Eric,,MacPhail,2384894,13,poor,TEACHER,PROFESSOR,1.5
+1041,English,4002,Vanderbilt University,Rebekah,,Maggor,1493585,4,good,TEACHER,PROFESSOR,4.5
+1042,Economics,4002,Vanderbilt University,Noam,,Maggor,1531330,7,good,TEACHER,PROFESSOR,4.7
+1043,Physics,4002,Vanderbilt University,Charles,,Maguire,140102,15,average,TEACHER,PROFESSOR,2.6
+1044,Engineering,4002,Vanderbilt University,Sankaran,,Mahadevan,2197685,1,poor,TEACHER,PROFESSOR,1.0
+1045,Engineering,4002,Vanderbilt University,Anita,,Mahadevan-Jansen,491230,16,good,TEACHER,PROFESSOR,3.7
+1046,Psychology,4002,Vanderbilt University,Beverly,,Mahan,607201,4,average,TEACHER,PROFESSOR,2.8
+1047,Languages,4002,Vanderbilt University,Adib,,Mahmud,1739160,1,good,TEACHER,PROFESSOR,5.0
+1048,Music,4002,Vanderbilt University,James,,Maiello,1220399,5,good,TEACHER,PROFESSOR,4.6
+1049,Psychology,4002,Vanderbilt University,Alexander,,Maier,1808280,9,good,TEACHER,PROFESSOR,3.9
+1050,Not Specified,4002,Vanderbilt University,Irina,,Makoveeva,1007838,1,good,TEACHER,PROFESSOR,5.0
+1051,Education,4002,Vanderbilt University,Rena,,Malkofsky-Berger,1516852,1,good,TEACHER,PROFESSOR,5.0
+1052,Political Science,4002,Vanderbilt University,Rodelio,,Manacsa,1007144,12,good,TEACHER,PROFESSOR,4.2
+1053,Sociology,4002,Vanderbilt University,Bianca,,Manago,2436035,3,good,TEACHER,PROFESSOR,4.7
+1054,Economics,4002,Vanderbilt University,Andrea,,Maneschi,327553,18,average,TEACHER,PROFESSOR,2.9
+1055,Engineering,4002,Vanderbilt University,Christina,,Marasco,2287789,5,good,TEACHER,PROFESSOR,4.2
+1056,English,4002,Vanderbilt University,Leah,,Marcus,528445,16,good,TEACHER,PROFESSOR,4.1
+1057,Economics,4002,Vanderbilt University,Michelle,M.,Marcus,2324247,3,average,TEACHER,PROFESSOR,3.0
+1058,Mathematics,4002,Vanderbilt University,Alice,,Mark,2518113,28,poor,TEACHER,PROFESSOR,2.3
+1059,Computer Science,4002,Vanderbilt University,Miklos,,Maroti,2300251,2,poor,TEACHER,PROFESSOR,2.0
+1060,Mathematics,4002,Vanderbilt University,Emily,,Marshall,1743030,6,good,TEACHER,PROFESSOR,4.9
+1061,Political Science,4002,Vanderbilt University,Christopher,,Marsicano,2309178,2,good,TEACHER,PROFESSOR,5.0
+1062,Art History,4002,Vanderbilt University,Courtney,,Martin,1668661,4,good,TEACHER,PROFESSOR,4.8
+1063,Mathematics,4002,Vanderbilt University,Charles,,Martin,1836806,11,poor,TEACHER,PROFESSOR,1.5
+1064,Business,4002,Vanderbilt University,Nina,,Martin,2639570,0,zero,TEACHER,PROFESSOR,N/A
+1065,Philosophy,4002,Vanderbilt University,Paulo,,Martinez,1989840,2,good,TEACHER,PROFESSOR,4.8
+1066,Human Development,4002,Vanderbilt University,Robert,,Marx,2278308,5,good,TEACHER,PROFESSOR,3.8
+1067,Engineering,4002,Vanderbilt University,Lloyd,,Massengill,978293,2,good,TEACHER,PROFESSOR,4.8
+1068,Human Development,4002,Vanderbilt University,Carrie,,Masten,1760308,7,average,TEACHER,PROFESSOR,3.3
+1069,English,4002,Vanderbilt University,Dean,,Masullo,908044,16,good,TEACHER,PROFESSOR,4.7
+1070,History,4002,Vanderbilt University,Deanna,,Matheuszik,1460118,1,poor,TEACHER,PROFESSOR,1.0
+1071,Political Science,4002,Vanderbilt University,Michaela,,Mattes,987055,8,good,TEACHER,PROFESSOR,4.5
+1072,Psychology,4002,Vanderbilt University,Ashleigh,,Maxcey,2540192,24,average,TEACHER,PROFESSOR,3.0
+1073,Political Science,4002,Vanderbilt University,Vaughn,,May,152761,44,good,TEACHER,PROFESSOR,4.7
+1074,Political Studies,4002,Vanderbilt University,Harry,,May,1222550,0,zero,TEACHER,PROFESSOR,N/A
+1075,Philosophy,4002,Vanderbilt University,Larry,,May,1576993,3,average,TEACHER,PROFESSOR,3.0
+1076,Music,4002,Vanderbilt University,Maureen,,May,1779559,1,good,TEACHER,PROFESSOR,5.0
+1077,Human Development,4002,Vanderbilt University,Julie,,May,2509159,1,poor,TEACHER,PROFESSOR,1.0
+1078,Law,4002,Vanderbilt University,Sara,,Mayeux,2496020,1,good,TEACHER,PROFESSOR,4.0
+1079,Philosophy,4002,Vanderbilt University,Seth,,Mayne,1743291,3,poor,TEACHER,PROFESSOR,2.3
+1080,Mathematics,4002,Vanderbilt University,Giusy,,Mazzone,2369951,7,average,TEACHER,PROFESSOR,2.5
+1081,Languages,4002,Vanderbilt University,Alexis,,McBride,1974872,3,good,TEACHER,PROFESSOR,4.5
+1082,Engineering,4002,Vanderbilt University,Clare,,McCabe,1032601,12,average,TEACHER,PROFESSOR,2.9
+1083,Sociology,4002,Vanderbilt University,Holly,,McCammon,197217,26,average,TEACHER,PROFESSOR,3.2
+1084,Languages,4002,Vanderbilt University,Elliott,,McCarter,2170406,6,good,TEACHER,PROFESSOR,4.8
+1085,Languages,4002,Vanderbilt University,John,,McCarthy,1031170,9,average,TEACHER,PROFESSOR,3.0
+1086,Psychology,4002,Vanderbilt University,Richard,,McCarty,2023364,10,good,TEACHER,PROFESSOR,4.6
+1087,Biology,4002,Vanderbilt University,.,,McCauley,467242,20,good,TEACHER,PROFESSOR,3.8
+1088,Physics,4002,Vanderbilt University,Winston,Tyler,McCleery,2436281,5,good,TEACHER,PROFESSOR,4.2
+1089,Management,4002,Vanderbilt University,Gary,,McClure,2180968,14,good,TEACHER,PROFESSOR,4.2
+1090,Management,4002,Vanderbilt University,Janet,,McDonald,1078827,14,good,TEACHER,PROFESSOR,4.3
+1091,Engineering,4002,Vanderbilt University,Mark,,McDonald,1542691,1,good,TEACHER,PROFESSOR,5.0
+1092,Sociology,4002,Vanderbilt University,Terence,,McDonnell,1320115,3,good,TEACHER,PROFESSOR,4.5
+1093,Psychology,4002,Vanderbilt University,Steve,,McFadyen-Ketchum,909133,22,average,TEACHER,PROFESSOR,2.9
+1094,Humanities,4002,Vanderbilt University,James ,M.,McFarland,1935051,7,good,TEACHER,PROFESSOR,4.8
+1095,Languages,4002,Vanderbilt University,Meghan,,McGinley,2593026,2,good,TEACHER,PROFESSOR,5.0
+1096,Classics,4002,Vanderbilt University,Thomas,,McGinn,495185,26,good,TEACHER,PROFESSOR,3.7
+1097,Religion,4002,Vanderbilt University,Richard,,McGregor,326408,16,good,TEACHER,PROFESSOR,4.2
+1098,Human Development,4002,Vanderbilt University,Allison,,McGuire,1482880,20,average,TEACHER,PROFESSOR,3.1
+1099,Music,4002,Vanderbilt University,Joshua,,McGuire,1727216,6,good,TEACHER,PROFESSOR,4.8
+1100,English,4002,Vanderbilt University,Tatiana,,McInnis,1971640,2,good,TEACHER,PROFESSOR,4.5
+1101,Philosophy,4002,Vanderbilt University,Russell,,McIntire,127212,13,good,TEACHER,PROFESSOR,4.5
+1102,Sociology,4002,Vanderbilt University,Tara,,McKay,2079865,6,good,TEACHER,PROFESSOR,4.2
+1103,Mathematics,4002,Vanderbilt University,Ralph,,McKenzie,1296441,2,poor,TEACHER,PROFESSOR,1.0
+1104,Women's Studies,4002,Vanderbilt University,Brenda,,McKenzie,2478318,0,zero,TEACHER,PROFESSOR,N/A
+1105,Philosophy,4002,Vanderbilt University,Amy,,McKiernan,2101565,3,good,TEACHER,PROFESSOR,4.8
+1106,Economics,4002,Vanderbilt University,Kathleen,,McKiernan,2409071,12,average,TEACHER,PROFESSOR,2.9
+1107,Neuroscience,4002,Vanderbilt University,BethAnn,,McLaughlin,2389299,0,zero,TEACHER,PROFESSOR,N/A
+1108,History,4002,Vanderbilt University,Tyler,,McLean,2287885,0,zero,TEACHER,PROFESSOR,N/A
+1109,Education,4002,Vanderbilt University,Michael,,McLendon,535157,14,good,TEACHER,PROFESSOR,4.4
+1110,Biology,4002,Vanderbilt University,Douglas,,McMahon,1496256,3,good,TEACHER,PROFESSOR,3.8
+1111,Psychology,4002,Vanderbilt University,Timothy,,McNamara,196199,29,good,TEACHER,PROFESSOR,3.6
+1112,Religion,4002,Vanderbilt University,Adeana,,McNicholl,2586841,6,good,TEACHER,PROFESSOR,5.0
+1113,Mathematics,4002,Vanderbilt University,Robert,,McRae,2252042,15,average,TEACHER,PROFESSOR,2.5
+1114,Education,4002,Vanderbilt University,Catherine,,McTamaney,910593,45,good,TEACHER,PROFESSOR,3.8
+1115,English,4002,Vanderbilt University,Elizabeth,,Meadows,1201824,6,good,TEACHER,PROFESSOR,3.9
+1116,Philosophy,4002,Vanderbilt University,Jose,,Medina,351786,17,good,TEACHER,PROFESSOR,4.2
+1117,International Studies,4002,Vanderbilt University,Jimmy,Jose,Medina,1960320,3,good,TEACHER,PROFESSOR,3.8
+1118,Mathematics,4002,Vanderbilt University,Ivan,,Medri,2588431,9,poor,TEACHER,PROFESSOR,2.4
+1119,Chemistry,4002,Vanderbilt University,Jens,,Meiler,1999746,4,average,TEACHER,PROFESSOR,3.1
+1120,English,4002,Vanderbilt University,Kirsten,,Mendoza,1976844,5,good,TEACHER,PROFESSOR,5.0
+1121,Languages,4002,Vanderbilt University,Clara,,Mengolini,1891064,3,good,TEACHER,PROFESSOR,4.8
+1122,English,4002,Vanderbilt University,Jeff,,Menne,484648,10,average,TEACHER,PROFESSOR,3.2
+1123,English,4002,Vanderbilt University,Lucy,K,Mensah,1875448,1,good,TEACHER,PROFESSOR,5.0
+1124,Political Science,4002,Vanderbilt University,Clive,,Mentzel,1908742,4,good,TEACHER,PROFESSOR,4.3
+1125,Languages,4002,Vanderbilt University,Elsa,,Mercado,2345833,2,good,TEACHER,PROFESSOR,4.5
+1126,Engineering,4002,Vanderbilt University,David,,Merryman,1378758,14,good,TEACHER,PROFESSOR,4.1
+1127,Engineering,4002,Vanderbilt University,Diego,A,Mesa,2574381,1,poor,TEACHER,PROFESSOR,1.0
+1128,Computer Science,4002,Vanderbilt University,Diego,,Mesa,2579171,15,good,TEACHER,PROFESSOR,3.7
+1129,Languages,4002,Vanderbilt University,Caterina,,Messina,2053716,4,good,TEACHER,PROFESSOR,4.8
+1130,Music,4002,Vanderbilt University,Sasha,,Metcalf,2176769,2,good,TEACHER,PROFESSOR,4.5
+1131,Law,4002,Vanderbilt University,Timothy,L,Meyer,2499757,1,average,TEACHER,PROFESSOR,3.0
+1132,Jewish Studies,4002,Vanderbilt University,Adam,,Meyer,1099509,32,good,TEACHER,PROFESSOR,4.8
+1133,Political Science,4002,Vanderbilt University,Kristin,,Michelitch,1847010,6,good,TEACHER,PROFESSOR,4.0
+1134,Divinity,4002,Vanderbilt University,David,,Michelson,1930529,3,good,TEACHER,PROFESSOR,3.7
+1135,Engineering,4002,Vanderbilt University,Mike,,Miga,142773,13,good,TEACHER,PROFESSOR,3.5
+1136,Philosophy,4002,Vanderbilt University,Darla,,Migan,1948563,1,poor,TEACHER,PROFESSOR,1.0
+1137,Mathematics,4002,Vanderbilt University,Mike,,Mihalik,1321264,18,good,TEACHER,PROFESSOR,4.5
+1138,English,4002,Vanderbilt University,Marzia,,Milazzo,1912276,8,good,TEACHER,PROFESSOR,4.3
+1139,Art History,4002,Vanderbilt University,Tracy,,Miller,140779,22,good,TEACHER,PROFESSOR,4.1
+1140,Languages,4002,Vanderbilt University,Paul,,Miller,203007,9,good,TEACHER,PROFESSOR,4.2
+1141,Geology,4002,Vanderbilt University,Molly,,Miller,453672,25,average,TEACHER,PROFESSOR,3.0
+1142,English,4002,Vanderbilt University,Adam,,Miller,1693640,7,good,TEACHER,PROFESSOR,3.6
+1143,Nursing,4002,Vanderbilt University,Anne,,Miller,1736343,1,poor,TEACHER,PROFESSOR,1.0
+1144,Education,4002,Vanderbilt University,Rich,,Milner,346830,9,good,TEACHER,PROFESSOR,4.3
+1145,Mathematics,4002,Vanderbilt University,Baili,,Min,1657546,4,good,TEACHER,PROFESSOR,3.6
+1146,English,4002,Vanderbilt University,Megan,,Minarich,1228327,10,good,TEACHER,PROFESSOR,4.3
+1147,Languages,4002,Vanderbilt University,Andrea,,Mirabile,1515096,13,good,TEACHER,PROFESSOR,4.3
+1148,Mathematics,4002,Vanderbilt University,Mozghan,,Mirani,275820,20,poor,TEACHER,PROFESSOR,1.9
+1149,Languages,4002,Vanderbilt University,Francesca,,Mirti,1655787,2,poor,TEACHER,PROFESSOR,1.8
+1150,Languages,4002,Vanderbilt University,Vanessa,,Miseres,984989,4,good,TEACHER,PROFESSOR,4.4
+1151,Education,4002,Vanderbilt University,Brian,,Mitchell,1220325,1,good,TEACHER,PROFESSOR,4.5
+1152,Anthropology,4002,Vanderbilt University,Sea,,Mitchell,1308209,5,good,TEACHER,PROFESSOR,3.7
+1153,English,4002,Vanderbilt University,Lauren,,Mitchell,2362695,1,good,TEACHER,PROFESSOR,5.0
+1154,Political Science,4002,Vanderbilt University,Cecilia,H,MO,1811295,5,good,TEACHER,PROFESSOR,4.0
+1155,Fine Arts,4002,Vanderbilt University,Robert,,Mode,141557,19,average,TEACHER,PROFESSOR,3.1
+1156,Languages,4002,Vanderbilt University,Letizia,,Modena,2420942,2,good,TEACHER,PROFESSOR,5.0
+1157,History,4002,Vanderbilt University,Catherine,,Molineux,1671109,10,good,TEACHER,PROFESSOR,3.5
+1158,Economics,4002,Vanderbilt University,Alejandro,,Molnar,1877615,26,poor,TEACHER,PROFESSOR,2.2
+1159,History,4002,Vanderbilt University,Ole,,Molvig,1344101,15,good,TEACHER,PROFESSOR,4.3
+1160,Human Development,4002,Vanderbilt University,Torin,,Monahan,1668330,1,good,TEACHER,PROFESSOR,4.0
+1161,Health Science,4002,Vanderbilt University,Abelardo,C,Moncayo,1892042,7,good,TEACHER,PROFESSOR,4.3
+1162,African-American Studies,4002,Vanderbilt University,Alicia,,Monroe,2154155,2,average,TEACHER,PROFESSOR,3.0
+1163,English,4002,Vanderbilt University,Jesse,,Montgomery,2127938,5,good,TEACHER,PROFESSOR,4.8
+1164,Mathematics,4002,Vanderbilt University,Michael,,Montgomery,2557935,9,poor,TEACHER,PROFESSOR,2.4
+1165,Art History,4002,Vanderbilt University,Elizabeth,,Moodey,917968,24,good,TEACHER,PROFESSOR,3.7
+1166,Law,4002,Vanderbilt University,Caitlin,Noe,Moon,2311736,1,good,TEACHER,PROFESSOR,4.0
+1167,Geology,4002,Vanderbilt University,Kinzly,,Moore,148249,27,good,TEACHER,PROFESSOR,4.0
+1168,Mathematics,4002,Vanderbilt University,Keith,,Moore,560204,0,zero,TEACHER,PROFESSOR,N/A
+1169,Mathematics,4002,Vanderbilt University,Matthew,,Moore,1849016,15,good,TEACHER,PROFESSOR,4.4
+1170,English,4002,Vanderbilt University,Roger,,Moore,211739,29,good,TEACHER,PROFESSOR,4.5
+1171,Languages,4002,Vanderbilt University,David,,Mora,1395703,10,good,TEACHER,PROFESSOR,4.3
+1172,Languages,4002,Vanderbilt University,Elvira,Aballi,Morell,2454359,6,good,TEACHER,PROFESSOR,4.8
+1173,Geomorphology & Geochronology,4002,Vanderbilt University,Daniel,,Morgan,1336670,25,good,TEACHER,PROFESSOR,4.3
+1174,Economics,4002,Vanderbilt University,Andrea,,Moro,1249160,7,good,TEACHER,PROFESSOR,3.5
+1175,English,4002,Vanderbilt University,John,,Morrell,1184380,8,good,TEACHER,PROFESSOR,4.4
+1176,Computer Science,4002,Vanderbilt University,Tiger,,Mou,2515448,1,good,TEACHER,PROFESSOR,5.0
+1177,Theater,4002,Vanderbilt University,Stephen,A.,Moulds,2176026,1,good,TEACHER,PROFESSOR,5.0
+1178,Sociology,4002,Vanderbilt University,Christine,,Mowery,826816,0,zero,TEACHER,PROFESSOR,N/A
+1179,Finance,4002,Vanderbilt University,Brendan,,Moynihan,1961805,5,poor,TEACHER,PROFESSOR,1.1
+1180,Human Development,4002,Vanderbilt University,Courtney,,Mullane,2384513,4,good,TEACHER,PROFESSOR,4.8
+1181,Theater,4002,Vanderbilt University,David,,Muller,1190904,11,good,TEACHER,PROFESSOR,4.1
+1182,Languages,4002,Vanderbilt University,Berna,,Muñoz,2175364,2,good,TEACHER,PROFESSOR,5.0
+1183,Fine Arts,4002,Vanderbilt University,Marilyn,,Murphy,451931,11,good,TEACHER,PROFESSOR,4.4
+1184,Human Development,4002,Vanderbilt University,Joseph,,Murphy,1853187,6,good,TEACHER,PROFESSOR,4.8
+1185,Art History,4002,Vanderbilt University,Kevin,,Murphy,1998294,7,average,TEACHER,PROFESSOR,3.4
+1186,Languages,4002,Vanderbilt University,Patrick,,Murphy,741988,57,good,TEACHER,PROFESSOR,4.9
+1187,Law,4002,Vanderbilt University,Kelly,,Murray,910317,1,poor,TEACHER,PROFESSOR,1.0
+1188,Languages,4002,Vanderbilt University,Michelle,,Murray,1973004,5,good,TEACHER,PROFESSOR,4.8
+1189,International Studies,4002,Vanderbilt University,Neica,Michelle,Murray,2356218,2,good,TEACHER,PROFESSOR,5.0
+1190,Sociology,4002,Vanderbilt University,Joshua,,Murray,1911826,15,good,TEACHER,PROFESSOR,4.0
+1191,Human Development,4002,Vanderbilt University,Velma,,Murry,1860486,3,poor,TEACHER,PROFESSOR,1.7
+1192,Sociology,4002,Vanderbilt University,Courtney,,Muse,1195476,22,good,TEACHER,PROFESSOR,3.8
+1193,Engineering,4002,Vanderbilt University,Michael,,Myers,2064089,27,good,TEACHER,PROFESSOR,3.7
+1194,Health Science,4002,Vanderbilt University,Hector,,Myers,1892035,8,average,TEACHER,PROFESSOR,2.8
+1195,Political Science,4002,Vanderbilt University,Emily,,Nacol,1347834,18,good,TEACHER,PROFESSOR,4.7
+1196,Management,4002,Vanderbilt University,Thomas,,Nagle,1340918,9,good,TEACHER,PROFESSOR,3.7
+1197,Management,4002,Vanderbilt University,Linda,,Nagle,1782376,0,zero,TEACHER,PROFESSOR,N/A
+1198,Languages,4002,Vanderbilt University,Keiko,,Nakajima,354528,12,good,TEACHER,PROFESSOR,4.3
+1199,Languages,4002,Vanderbilt University,Asami,,Nakano,2416807,1,good,TEACHER,PROFESSOR,5.0
+1200,Psychology,4002,Vanderbilt University,Gayathri,,Narasimham,881194,20,average,TEACHER,PROFESSOR,3.0
+1201,Mechanical Engineering,4002,Vanderbilt University,Ahad,,Nasab,1241313,10,good,TEACHER,PROFESSOR,4.4
+1202,Psychology,4002,Vanderbilt University,Maury,,Nation,598006,3,good,TEACHER,PROFESSOR,4.2
+1203,English,4002,Vanderbilt University,Kristen,,Navarro,2297291,9,good,TEACHER,PROFESSOR,5.0
+1204,Mathematics,4002,Vanderbilt University,Mike,,Neamtu,353660,20,good,TEACHER,PROFESSOR,3.7
+1205,Psychology,4002,Vanderbilt University,Amy,,Needham,1339752,12,good,TEACHER,PROFESSOR,3.5
+1206,Political Science,4002,Vanderbilt University,Roy,,Neel,399852,6,good,TEACHER,PROFESSOR,4.8
+1207,Education,4002,Vanderbilt University,Ann,,Neely,136746,11,good,TEACHER,PROFESSOR,4.0
+1208,Human Development,4002,Vanderbilt University,Chris,,Neiman,1271977,4,average,TEACHER,PROFESSOR,3.1
+1209,English,4002,Vanderbilt University,Dana,,Nelson,1641958,5,good,TEACHER,PROFESSOR,3.9
+1210,Music Performance,4002,Vanderbilt University,Tyler,Scott,Nelson,2455039,1,good,TEACHER,PROFESSOR,5.0
+1211,English,4002,Vanderbilt University,Miranda,,Nesler,774409,7,good,TEACHER,PROFESSOR,4.0
+1212,Philosophy,4002,Vanderbilt University,Karen,,Ng,2093030,3,good,TEACHER,PROFESSOR,3.8
+1213,Mathematics,4002,Vanderbilt University,Matthew,,Nickodemus,1270810,5,good,TEACHER,PROFESSOR,4.0
+1214,Economics,4002,Vanderbilt University,Gregory,,Niemesh,1779684,3,good,TEACHER,PROFESSOR,4.5
+1215,Music Performance,4002,Vanderbilt University,Craig,,Nies,912284,5,good,TEACHER,PROFESSOR,4.6
+1216,Mathematics,4002,Vanderbilt University,Jordan,,Nikkel,2363086,0,zero,TEACHER,PROFESSOR,N/A
+1217,Economics,4002,Vanderbilt University,Sayeh,,Nikpay,2461114,1,good,TEACHER,PROFESSOR,5.0
+1218,Languages,4002,Vanderbilt University,Rachel,,Nisselson,1078663,3,average,TEACHER,PROFESSOR,2.8
+1219,Sociology,4002,Vanderbilt University,Rosevelt,,Noble,885810,21,good,TEACHER,PROFESSOR,4.2
+1220,Engineering,4002,Vanderbilt University,Jack,,Noble,2305666,2,poor,TEACHER,PROFESSOR,2.0
+1221,Psychology,4002,Vanderbilt University,Nancy,,Nolan,1081904,16,average,TEACHER,PROFESSOR,3.5
+1222,Psychology,4002,Vanderbilt University,Julia,,Noland,1194301,26,average,TEACHER,PROFESSOR,3.5
+1223,Anthropology,4002,Vanderbilt University,Amy,L.,Non,1912252,3,good,TEACHER,PROFESSOR,4.5
+1224,Biology,4002,Vanderbilt University,Jared,,Nordman,2231438,15,good,TEACHER,PROFESSOR,4.0
+1225,English,4002,Vanderbilt University,Kelsey,,Norris,2190047,1,good,TEACHER,PROFESSOR,5.0
+1226,Music,4002,Vanderbilt University,Leslie,,Norton,1245490,5,good,TEACHER,PROFESSOR,4.3
+1227,Psychology,4002,Vanderbilt University,Laura,,Novick,277130,39,poor,TEACHER,PROFESSOR,2.2
+1228,English,4002,Vanderbilt University,Ifeoma,,Nwankwo,1104589,14,average,TEACHER,PROFESSOR,3.0
+1229,Engineering,4002,Vanderbilt University,Jeffrey,,Nymann,1277932,0,zero,TEACHER,PROFESSOR,N/A
+1230,Languages,4002,Vanderbilt University,Anthere,,Nzabatsinda,316543,23,average,TEACHER,PROFESSOR,3.0
+1231,Human Development,4002,Vanderbilt University,Katherine,,O'Doherty,1574943,1,average,TEACHER,PROFESSOR,3.0
+1232,Law,4002,Vanderbilt University,Erin,,O'Hara,1070536,2,good,TEACHER,PROFESSOR,3.5
+1233,Human Development,4002,Vanderbilt University,Sarah,,O'Hara,2291670,1,average,TEACHER,PROFESSOR,3.0
+1234,Art History,4002,Vanderbilt University,Halle,,O'Neal,1853850,1,good,TEACHER,PROFESSOR,4.0
+1235,Art History,4002,Vanderbilt University,Morna,,O'Neill,1277660,5,good,TEACHER,PROFESSOR,4.8
+1236,Physics,4002,Vanderbilt University,Volker,,Oberacker,351502,5,good,TEACHER,PROFESSOR,5.0
+1237,History,4002,Vanderbilt University,Moses,,Ochonu,769231,21,average,TEACHER,PROFESSOR,3.2
+1238,Computer Science,4002,Vanderbilt University,Ipek,,Oguz,2522283,5,good,TEACHER,PROFESSOR,4.2
+1239,Economics,4002,Vanderbilt University,Hyunseung,,Oh,1957444,18,good,TEACHER,PROFESSOR,3.5
+1240,Economics,4002,Vanderbilt University,Adugna,,Olani,2464607,22,average,TEACHER,PROFESSOR,3.4
+1241,Psychology,4002,Vanderbilt University,Olubunmi (bunmi),,Olatunji,1049578,25,good,TEACHER,PROFESSOR,3.5
+1242,Spanish,4002,Vanderbilt University,Elena,,Olazagasti-Segovia,1194334,12,good,TEACHER,PROFESSOR,4.5
+1243,International Studies,4002,Vanderbilt University,Emanuelle,K. F.,Oliveira-Monte,2451683,1,good,TEACHER,PROFESSOR,4.0
+1244,Philosophy,4002,Vanderbilt University,Kelly,,Oliver,1231820,6,good,TEACHER,PROFESSOR,4.2
+1245,Business,4002,Vanderbilt University,Kerry,,Oliver,2445556,1,good,TEACHER,PROFESSOR,4.0
+1246,Management,4002,Vanderbilt University,Marilyn,,Ollila,1358633,3,good,TEACHER,PROFESSOR,4.7
+1247,Mathematics,4002,Vanderbilt University,Alexander,,Olshanskiy,519150,8,average,TEACHER,PROFESSOR,3.3
+1248,Economics,4002,Vanderbilt University,Ali,,Onder,1236967,4,poor,TEACHER,PROFESSOR,2.4
+1249,Political Science,4002,Vanderbilt University,Bruce,,Oppenheimer,178608,51,good,TEACHER,PROFESSOR,4.1
+1250,Communication,4002,Vanderbilt University,Stephen,,Ornes,2090015,4,good,TEACHER,PROFESSOR,4.2
+1251,English,4002,Vanderbilt University,Bridget,,Orr,946651,11,good,TEACHER,PROFESSOR,4.2
+1252,Anthropology,4002,Vanderbilt University,Charles,,Orser,2246427,2,good,TEACHER,PROFESSOR,5.0
+1253,Languages,4002,Vanderbilt University,Amarilis,,Ortiz,1088231,31,good,TEACHER,PROFESSOR,4.3
+1254,Mathematics,4002,Vanderbilt University,Denis,,Osin,1670222,6,good,TEACHER,PROFESSOR,4.3
+1255,Psychology,4002,Vanderbilt University,Maria,,Osina,1940682,24,average,TEACHER,PROFESSOR,3.5
+1256,Engineering,4002,Vanderbilt University,Caglar,,Oskay,1259211,1,good,TEACHER,PROFESSOR,4.0
+1257,Geology,4002,Vanderbilt University,Jessica,,Oster,2318020,1,good,TEACHER,PROFESSOR,4.0
+1258,English,4002,Vanderbilt University,Wade,,Ostrowski,1398266,2,good,TEACHER,PROFESSOR,4.8
+1259,Computer Science,4002,Vanderbilt University,William,,Otte,1882260,8,poor,TEACHER,PROFESSOR,1.8
+1260,Philosophy,4002,Vanderbilt University,Lucius,T.,Outlaw,1929642,18,average,TEACHER,PROFESSOR,2.8
+1261,Geology,4002,Vanderbilt University,Carol,,Owen,1898290,0,zero,TEACHER,PROFESSOR,N/A
+1262,English,4002,Vanderbilt University,Bethany,,Packard,1504830,3,good,TEACHER,PROFESSOR,5.0
+1263,Economics,4002,Vanderbilt University,Analisa,,Packham,2556517,7,good,TEACHER,PROFESSOR,4.3
+1264,Biology,4002,Vanderbilt University,Terry,,Page,484522,21,good,TEACHER,PROFESSOR,4.6
+1265,Languages,4002,Vanderbilt University,Roxane,,Pajoul,1609598,4,good,TEACHER,PROFESSOR,4.9
+1266,Languages,4002,Vanderbilt University,Carolina,,Palacios,911237,16,good,TEACHER,PROFESSOR,3.7
+1267,Languages,4002,Vanderbilt University,Laurie,,Pallotta,768722,6,good,TEACHER,PROFESSOR,4.5
+1268,Psychology,4002,Vanderbilt University,Thomas,,Palmeri,828402,7,good,TEACHER,PROFESSOR,3.6
+1269,Education,4002,Vanderbilt University,Amy,B,Palmeri,1813485,2,average,TEACHER,PROFESSOR,3.0
+1270,English,4002,Vanderbilt University,Cristina,,Pangilinan,1550949,3,average,TEACHER,PROFESSOR,2.7
+1271,Physics,4002,Vanderbilt University,Socrates,,Pantelides,535151,26,poor,TEACHER,PROFESSOR,1.8
+1272,Languages,4002,Vanderbilt University,Samuele,,Pardini,734773,9,good,TEACHER,PROFESSOR,4.6
+1273,Philosophy,4002,Vanderbilt University,Ted,,Parent,1195606,6,poor,TEACHER,PROFESSOR,1.1
+1274,Psychology,4002,Vanderbilt University,Sohee,,Park,347049,17,average,TEACHER,PROFESSOR,3.3
+1275,Management,4002,Vanderbilt University,Kendall,,Park,2639894,0,zero,TEACHER,PROFESSOR,N/A
+1276,Languages,4002,Vanderbilt University,Jason,,Parker,1385990,0,zero,TEACHER,PROFESSOR,N/A
+1277,English,4002,Vanderbilt University,Madelin,,Parsley,2403250,1,good,TEACHER,PROFESSOR,5.0
+1278,Engineering,4002,Vanderbilt University,Cynthia,,Paschal,126727,30,average,TEACHER,PROFESSOR,2.5
+1279,Biology,4002,Vanderbilt University,James,,Pask,2459531,8,poor,TEACHER,PROFESSOR,2.4
+1280,Management,4002,Vanderbilt University,Steve,,Pate,1506796,4,good,TEACHER,PROFESSOR,4.8
+1281,Biology,4002,Vanderbilt University,Maulik,,Patel,2366635,5,average,TEACHER,PROFESSOR,2.8
+1282,Geology,4002,Vanderbilt University,Meagan,,Patrick,2004911,1,average,TEACHER,PROFESSOR,3.0
+1283,Theology,4002,Vanderbilt University,Daniel,,Patte,351350,12,average,TEACHER,PROFESSOR,3.2
+1284,Sociology,4002,Vanderbilt University,Evelyn,,Patterson,1528272,14,good,TEACHER,PROFESSOR,4.5
+1285,African-American Studies,4002,Vanderbilt University,Tiffany,,Patterson,1912312,10,good,TEACHER,PROFESSOR,4.1
+1286,Biology,4002,Vanderbilt University,Jim,,Patton,356436,41,good,TEACHER,PROFESSOR,3.7
+1287,Biology,4002,Vanderbilt University,James ,,Patton,1999906,6,good,TEACHER,PROFESSOR,3.8
+1288,Fine Arts,4002,Vanderbilt University,Vesna,,Pavlovic,1437783,5,good,TEACHER,PROFESSOR,4.7
+1289,Human Development,4002,Vanderbilt University,Jeremy,,Payne,2278305,16,good,TEACHER,PROFESSOR,3.8
+1290,Mathematics,4002,Vanderbilt University,Jacob,,Peabody,1748607,1,poor,TEACHER,PROFESSOR,2.0
+1291,Health Science,4002,Vanderbilt University,Scott,,Pearson,1771268,5,good,TEACHER,PROFESSOR,4.8
+1292,English,4002,Vanderbilt University,Erin,,Pellarin,1756442,1,good,TEACHER,PROFESSOR,5.0
+1293,Geology,4002,Vanderbilt University,Jennifer,,Pema,2246252,0,zero,TEACHER,PROFESSOR,N/A
+1294,Engineering,4002,Vanderbilt University,Kenneth,R.,Pence,608252,27,good,TEACHER,PROFESSOR,3.8
+1295,Education,4002,Vanderbilt University,Emily,,Pendergrass,2593035,2,good,TEACHER,PROFESSOR,5.0
+1296,Political Science,4002,Vanderbilt University,Efren,,Perez,1381551,9,average,TEACHER,PROFESSOR,2.9
+1297,Biology,4002,Vanderbilt University,Doug,,Perkins,2115456,0,zero,TEACHER,PROFESSOR,N/A
+1298,Philosophy,4002,Vanderbilt University,Diane,,Perpich,399830,3,good,TEACHER,PROFESSOR,4.5
+1299,Computer Science,4002,Vanderbilt University,Forrest,,Perry,1221509,2,good,TEACHER,PROFESSOR,4.8
+1300,Education,4002,Vanderbilt University,Jeanne,,Peter,353842,5,good,TEACHER,PROFESSOR,4.8
+1301,Philosophy,4002,Vanderbilt University,Mark,,Peter,1431977,3,good,TEACHER,PROFESSOR,3.5
+1302,Engineering,4002,Vanderbilt University,Richard,,Peters,824659,14,good,TEACHER,PROFESSOR,3.8
+1303,Physics,4002,Vanderbilt University,Todd,,Peterson,1165672,2,good,TEACHER,PROFESSOR,4.0
+1304,Mathematics,4002,Vanderbilt University,Jesse,,Peterson,1268712,13,good,TEACHER,PROFESSOR,3.8
+1305,Languages,4002,Vanderbilt University,Rebecca,,Peterson,1663276,19,good,TEACHER,PROFESSOR,4.5
+1306,Medicine,4002,Vanderbilt University,Courtney,,Peterson,2591563,3,good,TEACHER,PROFESSOR,4.0
+1307,Languages,4002,Vanderbilt University,Elyse,,Petit,2313425,7,good,TEACHER,PROFESSOR,4.9
+1308,Classics,4002,Vanderbilt University,David,,Petrain,975004,4,good,TEACHER,PROFESSOR,4.4
+1309,Psychology,4002,Vanderbilt University,William,,Petrie,2141178,2,good,TEACHER,PROFESSOR,3.5
+1310,Sociology,4002,Vanderbilt University,Philip,,Pettis,2665091,1,good,TEACHER,PROFESSOR,5.0
+1311,Medicine,4002,Vanderbilt University,Juleigh,,Petty,1353313,15,good,TEACHER,PROFESSOR,4.1
+1312,English,4002,Vanderbilt University,Chris,,Pexa,1714178,1,good,TEACHER,PROFESSOR,4.5
+1313,English,4002,Vanderbilt University,James,,Phelan,1964921,11,good,TEACHER,PROFESSOR,3.6
+1314,Criminal Justice,4002,Vanderbilt University,Grady,,Phelps,2615931,0,zero,TEACHER,PROFESSOR,N/A
+1315,Music Performance,4002,Vanderbilt University,Joe Rea,,Phillips,1827634,1,good,TEACHER,PROFESSOR,5.0
+1316,Chemistry,4002,Vanderbilt University,Shawn,,Phillips,857660,143,good,TEACHER,PROFESSOR,3.6
+1317,Education,4002,Vanderbilt University,Emily,,Phillips Galloway,2517460,1,good,TEACHER,PROFESSOR,5.0
+1318,History,4002,Vanderbilt University,Danielle,,Picard,2482519,3,good,TEACHER,PROFESSOR,5.0
+1319,Anthropology,4002,Vanderbilt University,Jemima,,Pierre,317309,7,average,TEACHER,PROFESSOR,2.6
+1320,Mathematics,4002,Vanderbilt University,Pamela,,Pigg,151529,193,good,TEACHER,PROFESSOR,3.7
+1321,Engineering,4002,Vanderbilt University,Cary,L,Pint,1819603,6,good,TEACHER,PROFESSOR,4.8
+1322,Languages,4002,Vanderbilt University,Maria,,Pintane,1484537,26,good,TEACHER,PROFESSOR,3.9
+1323,Engineering,4002,Vanderbilt University,Peter,,Pintauro,1188163,2,good,TEACHER,PROFESSOR,4.8
+1324,Business,4002,Vanderbilt University,Georgine,,Pion,283300,13,good,TEACHER,PROFESSOR,3.7
+1325,Computer Science,4002,Vanderbilt University,Dominique,,Piot,2248529,42,average,TEACHER,PROFESSOR,2.7
+1326,Sociology,4002,Vanderbilt University,Richard,,Pitt,377911,23,good,TEACHER,PROFESSOR,4.0
+1327,Biology,4002,Vanderbilt University,Ronald,Jason,Pitts,2214972,3,good,TEACHER,PROFESSOR,5.0
+1328,Engineering,4002,Vanderbilt University,Robert,,Pitz,634561,10,average,TEACHER,PROFESSOR,3.2
+1329,Biology,4002,Vanderbilt University,Lucia,,Plant,2538125,4,good,TEACHER,PROFESSOR,4.0
+1330,Chemistry,4002,Vanderbilt University,Lars,,Plate,2328501,11,good,TEACHER,PROFESSOR,4.4
+1331,Music,4002,Vanderbilt University,Russell,,Platt,2533514,1,poor,TEACHER,PROFESSOR,1.0
+1332,English,4002,Vanderbilt University,John,,Plummer,178211,17,good,TEACHER,PROFESSOR,4.4
+1333,Languages,4002,Vanderbilt University,Jessica,,Pokowitz,2051154,0,zero,TEACHER,PROFESSOR,N/A
+1334,Chemistry,4002,Vanderbilt University,Prasad,,Polavarapu,488665,63,good,TEACHER,PROFESSOR,3.6
+1335,Psychology,4002,Vanderbilt University,Sean,,Polyn,1432135,13,good,TEACHER,PROFESSOR,3.7
+1336,Finance,4002,Vanderbilt University,Veronika,,Pool,2559858,4,good,TEACHER,PROFESSOR,3.8
+1337,Nursing,4002,Vanderbilt University,Jamie,,Pope,595162,50,good,TEACHER,PROFESSOR,4.5
+1338,Chemistry,4002,Vanderbilt University,Ned,,Porter,240800,8,good,TEACHER,PROFESSOR,4.4
+1339,Fine Arts,4002,Vanderbilt University,Ron,,Porter,346963,9,good,TEACHER,PROFESSOR,4.0
+1340,English,4002,Vanderbilt University,Dahlia,,Porter,1267742,4,good,TEACHER,PROFESSOR,3.5
+1341,Music,4002,Vanderbilt University,Michael,,Porter,1884127,13,average,TEACHER,PROFESSOR,3.3
+1342,Languages,4002,Vanderbilt University,Nathalie,,Porter,197693,28,good,TEACHER,PROFESSOR,4.1
+1343,English,4002,Vanderbilt University,Aubrey,,Porterfield,2138579,0,zero,TEACHER,PROFESSOR,N/A
+1344,Art,4002,Vanderbilt University,Kristine,,Potter,2471609,2,good,TEACHER,PROFESSOR,4.5
+1345,Mathematics,4002,Vanderbilt University,Alex,,Powell,767705,30,good,TEACHER,PROFESSOR,4.4
+1346,Engineering,4002,Vanderbilt University,Jon,,Powles,2279745,2,average,TEACHER,PROFESSOR,3.0
+1347,Education,4002,Vanderbilt University,Lisa,,Pray,2112616,2,average,TEACHER,PROFESSOR,3.0
+1348,Psychology,4002,Vanderbilt University,Kris,,Preacher,1682547,7,average,TEACHER,PROFESSOR,3.4
+1349,Mathematics,4002,Vanderbilt University,Adam,,Prenosil,2433866,12,good,TEACHER,PROFESSOR,4.0
+1350,Mathematics,4002,Vanderbilt University,Joanna,,Pressley,1378757,8,average,TEACHER,PROFESSOR,3.4
+1351,Psychology,4002,Vanderbilt University,Gavin,,Price,1778372,4,good,TEACHER,PROFESSOR,3.6
+1352,Religion,4002,Vanderbilt University,David,H.,Price,2595572,0,zero,TEACHER,PROFESSOR,N/A
+1353,Languages,4002,Vanderbilt University,Martine,,Prieto,235785,17,good,TEACHER,PROFESSOR,3.9
+1354,Languages,4002,Vanderbilt University,Rene,,Prieto,781218,12,good,TEACHER,PROFESSOR,3.6
+1355,Engineering,4002,Vanderbilt University,Tracy,,Primich,1381180,1,good,TEACHER,PROFESSOR,4.0
+1356,English,4002,Vanderbilt University,Stephanie,,Pruitt,1492978,7,good,TEACHER,PROFESSOR,5.0
+1357,Mathematics,4002,Vanderbilt University,Shusen,,Pu,2621053,5,good,TEACHER,PROFESSOR,4.6
+1358,Political Science,4002,Vanderbilt University,Bill,,Purcell,2318107,2,good,TEACHER,PROFESSOR,5.0
+1359,Human Development,4002,Vanderbilt University,Chris,,Purcell,2489673,2,average,TEACHER,PROFESSOR,3.0
+1360,English,4002,Vanderbilt University,Justin,,Quarry,1526447,30,good,TEACHER,PROFESSOR,4.3
+1361,English,4002,Vanderbilt University,Killian,,Quigley,1919898,5,good,TEACHER,PROFESSOR,4.3
+1362,Economics,4002,Vanderbilt University,Sarah,,Quincy,2553740,1,poor,TEACHER,PROFESSOR,1.0
+1363,Human Development,4002,Vanderbilt University,Christine,,Quinn Trank,1665889,6,good,TEACHER,PROFESSOR,4.8
+1364,Biology,4002,Vanderbilt University,Amita,,Rachakonda,2099762,22,average,TEACHER,PROFESSOR,3.1
+1365,Philosophy,4002,Vanderbilt University,Lyn,,Radke,1892756,9,good,TEACHER,PROFESSOR,4.2
+1366,Mathematics,4002,Vanderbilt University,Lori,,Rafter,308479,114,average,TEACHER,PROFESSOR,3.3
+1367,Mathematics,4002,Vanderbilt University,John,,Rafter,529077,89,average,TEACHER,PROFESSOR,3.5
+1368,Mathematics,4002,Vanderbilt University,Mrinal,,Raghupathi,1280229,9,good,TEACHER,PROFESSOR,4.5
+1369,Business,4002,Vanderbilt University,Ranga,,Ramanujam,1826046,0,zero,TEACHER,PROFESSOR,N/A
+1370,Physics,4002,Vanderbilt University,Akunuri,,Ramayya,436136,49,poor,TEACHER,PROFESSOR,2.4
+1371,Languages,4002,Vanderbilt University,Lynn,,Ramey,453113,9,good,TEACHER,PROFESSOR,4.6
+1372,Languages,4002,Vanderbilt University,Joy,,Ramirez,740220,5,good,TEACHER,PROFESSOR,3.7
+1373,Languages,4002,Vanderbilt University,Andre,,Ramos Chacon,2552111,0,zero,TEACHER,PROFESSOR,N/A
+1374,History,4002,Vanderbilt University,Matthew,,Ramsey,283304,14,good,TEACHER,PROFESSOR,3.6
+1375,English,4002,Vanderbilt University,Alice,,Randall,1128480,12,good,TEACHER,PROFESSOR,4.4
+1376,Humanities,4002,Vanderbilt University,Caroline,,Randall Williams,2590859,3,good,TEACHER,PROFESSOR,5.0
+1377,Business,4002,Vanderbilt University,Joe,,Rando,1320346,30,good,TEACHER,PROFESSOR,4.2
+1378,Philosophy,4002,Vanderbilt University,Martin,,Rapisarda,1132851,2,good,TEACHER,PROFESSOR,4.5
+1379,Mathematics,4002,Vanderbilt University,Rares,,Rasdeaconu,1755842,19,good,TEACHER,PROFESSOR,4.0
+1380,Languages,4002,Vanderbilt University,Philip,,Rasico,750450,20,good,TEACHER,PROFESSOR,3.7
+1381,Business,4002,Vanderbilt University,Mark,,Ratchford,1826049,10,average,TEACHER,PROFESSOR,3.2
+1382,Mathematics,4002,Vanderbilt University,John,,Ratcliffe,597547,11,good,TEACHER,PROFESSOR,4.0
+1383,Biology,4002,Vanderbilt University,Jeff,,Rathmell,2593243,0,zero,TEACHER,PROFESSOR,N/A
+1384,Film,4002,Vanderbilt University,Jonathan,,Rattner,1389043,18,good,TEACHER,PROFESSOR,4.0
+1385,Political Science,4002,Vanderbilt University,James,,Ray,133850,34,average,TEACHER,PROFESSOR,3.0
+1386,Languages,4002,Vanderbilt University,Mary Beth,,Raycraft,316545,22,good,TEACHER,PROFESSOR,4.4
+1387,Nursing,4002,Vanderbilt University,Aggie,,Read,2450727,0,zero,TEACHER,PROFESSOR,N/A
+1388,Engineering,4002,Vanderbilt University,Trey,,Reece,1914502,6,poor,TEACHER,PROFESSOR,2.4
+1389,Engineering,4002,Vanderbilt University,Robert,,Reed,940707,8,good,TEACHER,PROFESSOR,4.4
+1390,International Studies,4002,Vanderbilt University,Leslie,,Reed,2058168,2,good,TEACHER,PROFESSOR,4.8
+1391,English,4002,Vanderbilt University,Anthony,,Reed,2549440,3,good,TEACHER,PROFESSOR,5.0
+1392,Economics,4002,Vanderbilt University,Claudia,,Rei,2084067,1,average,TEACHER,PROFESSOR,3.0
+1393,Mathematics,4002,Vanderbilt University,Kamran,,Reihani,1865644,6,good,TEACHER,PROFESSOR,3.7
+1394,Economics,4002,Vanderbilt University,Jennifer,,Reinganum,972931,11,good,TEACHER,PROFESSOR,3.5
+1395,Psychology,4002,Vanderbilt University,Michelle,,Reising,2181103,1,poor,TEACHER,PROFESSOR,2.0
+1396,English,4002,Vanderbilt University,Nancy,,Reisman,941538,12,good,TEACHER,PROFESSOR,4.0
+1397,English,4002,Vanderbilt University,Brian,,Rejack,909841,11,average,TEACHER,PROFESSOR,3.4
+1398,Economics,4002,Vanderbilt University,Christina,,Rennhoff,1099362,43,good,TEACHER,PROFESSOR,4.4
+1399,Physics,4002,Vanderbilt University,Erin,,Rericha,1755695,20,good,TEACHER,PROFESSOR,3.6
+1400,Religion,4002,Vanderbilt University,Graham,,Reside,2226291,1,good,TEACHER,PROFESSOR,5.0
+1401,Languages,4002,Vanderbilt University,Catalina,,Restrepo,937360,1,good,TEACHER,PROFESSOR,4.5
+1402,Languages,4002,Vanderbilt University,Raisa,,Rexer,2650797,4,good,TEACHER,PROFESSOR,4.8
+1403,Mathematics,4002,Vanderbilt University,Aleksandr,,Reznikov,2201326,0,zero,TEACHER,PROFESSOR,N/A
+1404,Languages,4002,Vanderbilt University,David,,Richter,423760,4,good,TEACHER,PROFESSOR,4.6
+1405,Languages,4002,Vanderbilt University,Christine,,Richter-Nilsson,2288897,5,good,TEACHER,PROFESSOR,5.0
+1406,Languages,4002,Vanderbilt University,Daniel,,Ridge,1833941,13,good,TEACHER,PROFESSOR,4.4
+1407,Psychology,4002,Vanderbilt University,John,,Rieser,1198525,10,poor,TEACHER,PROFESSOR,2.1
+1408,Classics,4002,Vanderbilt University,Joseph,,Rife,1516164,14,good,TEACHER,PROFESSOR,3.5
+1409,History,4002,Vanderbilt University,Tasha,,Rijke-Epstein,2411370,9,good,TEACHER,PROFESSOR,4.8
+1410,Computer Science,4002,Vanderbilt University,Derek,,Riley,1358190,2,good,TEACHER,PROFESSOR,5.0
+1411,Music,4002,Vanderbilt University,Kevin,,Rilling,2650442,1,good,TEACHER,PROFESSOR,5.0
+1412,Languages,4002,Vanderbilt University,Raquel,,Rincon,351330,33,good,TEACHER,PROFESSOR,3.7
+1413,Philosophy,4002,Vanderbilt University,Eric,,Ritter,2239258,12,good,TEACHER,PROFESSOR,3.7
+1414,Political Science,4002,Vanderbilt University,Emily,Hencken,Ritter,2586406,1,good,TEACHER,PROFESSOR,5.0
+1415,Psychology,4002,Vanderbilt University,Bethany,,Rittle-Johnson,380814,12,average,TEACHER,PROFESSOR,3.3
+1416,Languages,4002,Vanderbilt University,Jessica,,Riviere,2006498,2,good,TEACHER,PROFESSOR,4.8
+1417,Chemistry,4002,Vanderbilt University,Carmelo,J.,Rizzo,198205,46,good,TEACHER,PROFESSOR,3.5
+1418,Mathematics,4002,Vanderbilt University,Samuel,A,Rizzo,2558071,2,average,TEACHER,PROFESSOR,2.5
+1419,Mathematics,4002,Vanderbilt University,Jakayla,,Robbins,1701123,57,average,TEACHER,PROFESSOR,3.4
+1420,History,4002,Vanderbilt University,Frank,,Robinson,272764,33,good,TEACHER,PROFESSOR,4.9
+1421,Art History,4002,Vanderbilt University,Betsey,,Robinson,1323121,6,good,TEACHER,PROFESSOR,4.7
+1422,Engineering,4002,Vanderbilt University,William,,Robinson,1636778,21,poor,TEACHER,PROFESSOR,2.4
+1423,Chemistry,4002,Vanderbilt University,Rena,,Robinson,2411152,12,average,TEACHER,PROFESSOR,2.7
+1424,English,4002,Vanderbilt University,Nancy,,Roche,1844539,15,good,TEACHER,PROFESSOR,4.2
+1425,Psychology,4002,Vanderbilt University,Joe,,Rodgers,1932112,23,good,TEACHER,PROFESSOR,3.7
+1426,Economics,4002,Vanderbilt University,Joel,,Rodrigue,1200629,18,average,TEACHER,PROFESSOR,3.5
+1427,English,4002,Vanderbilt University,Don,,Rodrigues,1879941,13,good,TEACHER,PROFESSOR,4.0
+1428,Languages,4002,Vanderbilt University,Carolina,,Rodriguez,2233059,3,good,TEACHER,PROFESSOR,5.0
+1429,Mathematics,4002,Vanderbilt University,Rudy,,Rodsphon,2133431,12,good,TEACHER,PROFESSOR,4.8
+1430,Psychology,4002,Vanderbilt University,Anna,,Roe,751605,7,average,TEACHER,PROFESSOR,3.4
+1431,Law,4002,Vanderbilt University,Lauren,,Rogal,2496360,1,poor,TEACHER,PROFESSOR,2.0
+1432,Health Science,4002,Vanderbilt University,Ruth,,Rogaski,354526,22,good,TEACHER,PROFESSOR,4.2
+1433,Engineering,4002,Vanderbilt University,Bridget,,Rogers,394071,34,average,TEACHER,PROFESSOR,2.5
+1434,Biology,4002,Vanderbilt University,Antonis,,Rokas,1339656,13,good,TEACHER,PROFESSOR,4.0
+1435,Microbiology,4002,Vanderbilt University,Louise A,,Rollins-Smith,837920,7,average,TEACHER,PROFESSOR,2.9
+1436,Languages,4002,Vanderbilt University,Hanna,,Roman,2021304,1,good,TEACHER,PROFESSOR,4.0
+1437,Mathematics,4002,Vanderbilt University,Jorge,Carlos,Román-Aponte,1838388,8,poor,TEACHER,PROFESSOR,1.8
+1438,Languages,4002,Vanderbilt University,Aurora,,Romero,2094651,4,good,TEACHER,PROFESSOR,4.3
+1439,Languages,4002,Vanderbilt University,Daniel,,Romero Suarez,2539899,3,good,TEACHER,PROFESSOR,5.0
+1440,Political Science,4002,Vanderbilt University,Bryan,,Rooney,2183427,4,good,TEACHER,PROFESSOR,3.7
+1441,Music,4002,Vanderbilt University,Michael,,Rose,140079,39,good,TEACHER,PROFESSOR,4.3
+1442,Education,4002,Vanderbilt University,Brian,,Rose,1563694,0,zero,TEACHER,PROFESSOR,N/A
+1443,Engineering,4002,Vanderbilt University,Robert,,Roselli,140090,10,average,TEACHER,PROFESSOR,3.4
+1444,Chemistry,4002,Vanderbilt University,Sandra,,Rosenthal,353401,47,good,TEACHER,PROFESSOR,4.3
+1445,Women's Studies,4002,Vanderbilt University,Donika ,,Ross,2003353,2,good,TEACHER,PROFESSOR,4.8
+1446,Anthropology,4002,Vanderbilt University,Norbert,,Ross,636249,32,average,TEACHER,PROFESSOR,3.2
+1447,Computer Science,4002,Vanderbilt University,Gerald,,Roth,2021744,100,good,TEACHER,PROFESSOR,4.5
+1448,Economics,4002,Vanderbilt University,Peter,,Rousseau,631393,14,good,TEACHER,PROFESSOR,3.6
+1449,Engineering,4002,Vanderbilt University,Chris,,Rowe,307338,18,good,TEACHER,PROFESSOR,4.8
+1450,Art History,4002,Vanderbilt University,Libby,,Rowe,534162,8,average,TEACHER,PROFESSOR,3.4
+1451,Women's Studies,4002,Vanderbilt University,David,,Rubin,1761985,1,good,TEACHER,PROFESSOR,5.0
+1452,Law,4002,Vanderbilt University,Edward,L,Rubin,2269300,0,zero,TEACHER,PROFESSOR,N/A
+1453,Engineering,4002,Vanderbilt University,Mikail,,Rubinov,2487548,2,good,TEACHER,PROFESSOR,4.0
+1454,Biomedical,4002,Vanderbilt University,Patricia,,Russ,2219481,4,good,TEACHER,PROFESSOR,3.8
+1455,Political Science,4002,Vanderbilt University,Carrie,,Russell,1202000,45,good,TEACHER,PROFESSOR,3.9
+1456,Mathematics,4002,Vanderbilt University,Lauren,,Ruth,2583639,2,good,TEACHER,PROFESSOR,4.5
+1457,Mathematics,4002,Vanderbilt University,Edward,,Saff,1230261,13,good,TEACHER,PROFESSOR,3.9
+1458,Human Development,4002,Vanderbilt University,Sara,,Safransky,2446828,2,good,TEACHER,PROFESSOR,4.5
+1459,Music,4002,Vanderbilt University,Dwayne,,Sagen,105136,12,poor,TEACHER,PROFESSOR,2.0
+1460,Economics,4002,Vanderbilt University,Ruppi,,Saggi,1628926,28,good,TEACHER,PROFESSOR,4.1
+1461,Economics,4002,Vanderbilt University,Zaruhi,,Sahakyan,2460716,15,poor,TEACHER,PROFESSOR,1.8
+1462,Music,4002,Vanderbilt University,Joshua,,Salazar,2367335,2,good,TEACHER,PROFESSOR,5.0
+1463,Mathematics,4002,Vanderbilt University,Andrew,,Sale,1962088,14,good,TEACHER,PROFESSOR,4.2
+1464,Women's Studies,4002,Vanderbilt University,Michele,,Salisbury,1357063,0,zero,TEACHER,PROFESSOR,N/A
+1465,English,4002,Vanderbilt University,Shawn,,Salvant,600088,6,good,TEACHER,PROFESSOR,4.2
+1466,Economics,4002,Vanderbilt University,Zeeshan,,Samad,2270008,0,zero,TEACHER,PROFESSOR,N/A
+1467,Sociology,4002,Vanderbilt University,Mariano,,Sana,1854306,24,good,TEACHER,PROFESSOR,4.0
+1468,Engineering,4002,Vanderbilt University,Florence,,Sanchez,493079,7,good,TEACHER,PROFESSOR,4.7
+1469,Psychology,4002,Vanderbilt University,Elizabeth,,Sandberg,2408667,4,average,TEACHER,PROFESSOR,2.7
+1470,Psychology,4002,Vanderbilt University,Elisabeth,,Sandberg,543908,139,average,TEACHER,PROFESSOR,3.2
+1471,Psychology,4002,Vanderbilt University,Elizabeth,,Sandburg,2515362,0,zero,TEACHER,PROFESSOR,N/A
+1472,Psychology,4002,Vanderbilt University,Howard,,Sandler,271969,21,good,TEACHER,PROFESSOR,3.5
+1473,Communication,4002,Vanderbilt University,M.L.,,Sandoz,361768,24,good,TEACHER,PROFESSOR,3.7
+1474,Economics,4002,Vanderbilt University,Pedro,,Sant'Anna,2042619,12,good,TEACHER,PROFESSOR,4.3
+1475,Languages,4002,Vanderbilt University,Diogenes,,Santos,1958472,1,good,TEACHER,PROFESSOR,4.0
+1476,Mathematics,4002,Vanderbilt University,Olga,,Sapir,750947,3,average,TEACHER,PROFESSOR,2.8
+1477,Mathematics,4002,Vanderbilt University,Mark,,Sapir,1663137,4,poor,TEACHER,PROFESSOR,2.4
+1478,Neuroscience,4002,Vanderbilt University,Rebecca,,Sappington-Calkins,2421553,2,good,TEACHER,PROFESSOR,5.0
+1479,Theater,4002,Vanderbilt University,Alexandra,A.,Sargent,2080406,2,good,TEACHER,PROFESSOR,4.2
+1480,Theater,4002,Vanderbilt University,Alexandra,,Sargent Capps,2480738,3,good,TEACHER,PROFESSOR,4.3
+1481,Engineering,4002,Vanderbilt University,Nilanjan,,Sarkar,959798,5,good,TEACHER,PROFESSOR,4.7
+1482,Human Development,4002,Vanderbilt University,Tanushree,,Sarkar,2453192,1,good,TEACHER,PROFESSOR,5.0
+1483,Anthropology,4002,Vanderbilt University,Mareike,,Sattler,1812196,7,average,TEACHER,PROFESSOR,2.7
+1484,Law,4002,Vanderbilt University,Edmund,S,Sauer,2499753,1,average,TEACHER,PROFESSOR,3.0
+1485,Anthropology,4002,Vanderbilt University,Jacob,,Sauer,1896806,11,good,TEACHER,PROFESSOR,5.0
+1486,Human Development,4002,Vanderbilt University,Dayle,,Savage,1057928,7,average,TEACHER,PROFESSOR,2.6
+1487,Economics,4002,Vanderbilt University,Peter,,Savelyev,1672216,7,good,TEACHER,PROFESSOR,3.9
+1488,Education,4002,Vanderbilt University,Christian,,Sawyer,1566270,1,good,TEACHER,PROFESSOR,5.0
+1489,English,4002,Vanderbilt University,Akshya,,Saxena,2187891,7,good,TEACHER,PROFESSOR,4.6
+1490,Human Development,4002,Vanderbilt University,Maria,,Sayil-Camacho,2639568,4,good,TEACHER,PROFESSOR,3.8
+1491,Psychology,4002,Vanderbilt University,Megan,,Saylor,596791,19,good,TEACHER,PROFESSOR,4.1
+1492,Women's Studies,4002,Vanderbilt University,Allison,,Schachter,1089262,17,good,TEACHER,PROFESSOR,3.8
+1493,Writing,4002,Vanderbilt University,Silke,,Schade,2271613,9,good,TEACHER,PROFESSOR,4.9
+1494,Social Work,4002,Vanderbilt University,Carly,,Schall,1865568,3,good,TEACHER,PROFESSOR,4.2
+1495,Psychology,4002,Vanderbilt University,Jeffrey,,Schall,779791,12,good,TEACHER,PROFESSOR,3.7
+1496,Mathematics,4002,Vanderbilt University,Eric,,Schechter,125014,43,poor,TEACHER,PROFESSOR,2.4
+1497,Chemistry,4002,Vanderbilt University,Nathan,D.,Schley,2278543,6,good,TEACHER,PROFESSOR,5.0
+1498,Psychology,4002,Vanderbilt University,David,,Schlundt,780962,39,good,TEACHER,PROFESSOR,3.7
+1499,Management,4002,Vanderbilt University,Hunter,,Schmidt,2439939,5,good,TEACHER,PROFESSOR,4.2
+1500,Computer Science,4002,Vanderbilt University,Douglas,C,Schmidt,2555030,2,good,TEACHER,PROFESSOR,4.5
+1501,Computer Science,4002,Vanderbilt University,Doug,,Schmidt,326027,25,good,TEACHER,PROFESSOR,3.8
+1502,Engineering,4002,Vanderbilt University,"Karl ""marbles""",,Schnelle,914156,2,poor,TEACHER,PROFESSOR,1.8
+1503,Medicine,4002,Vanderbilt University,Jack,,Schnelle,1808970,0,zero,TEACHER,PROFESSOR,N/A
+1504,Music,4002,Vanderbilt University,Pam,,Schneller,283301,8,good,TEACHER,PROFESSOR,4.6
+1505,Law,4002,Vanderbilt University,Jeffrey,A,Schoenblum,2496055,1,average,TEACHER,PROFESSOR,3.0
+1506,Philosophy,4002,Vanderbilt University,Susan,,Schoenbohm,912995,3,good,TEACHER,PROFESSOR,3.8
+1507,English,4002,Vanderbilt University,Mark,,Schoenfield,1193883,14,good,TEACHER,PROFESSOR,4.6
+1508,Political Science,4002,Vanderbilt University,Peter,,Schram,2309330,11,poor,TEACHER,PROFESSOR,2.4
+1509,Physics,4002,Vanderbilt University,Ken,,Schriver,264179,12,good,TEACHER,PROFESSOR,4.0
+1510,Mathematics,4002,Vanderbilt University,Larry,,Schumaker,484545,8,good,TEACHER,PROFESSOR,4.0
+1511,Languages,4002,Vanderbilt University,Ingrid A.,,Schwab,1054945,2,good,TEACHER,PROFESSOR,4.0
+1512,History,4002,Vanderbilt University,Thomas,,Schwartz,285419,48,good,TEACHER,PROFESSOR,4.7
+1513,English,4002,Vanderbilt University,Kathryn,,Schwarz,365788,14,good,TEACHER,PROFESSOR,4.7
+1514,Languages,4002,Vanderbilt University,Virginia,,Scott,197680,18,good,TEACHER,PROFESSOR,4.8
+1515,Select department,4002,Vanderbilt University,Virginia,,Scott,2115458,0,zero,TEACHER,PROFESSOR,N/A
+1516,Philosophy,4002,Vanderbilt University,Charles,,Scott,2126327,0,zero,TEACHER,PROFESSOR,N/A
+1517,Business,4002,Vanderbilt University,Gary,,Scudder,1826048,0,zero,TEACHER,PROFESSOR,N/A
+1518,Languages,4002,Vanderbilt University,Rosie,,Seagraves,1399945,9,good,TEACHER,PROFESSOR,4.2
+1519,Law,4002,Vanderbilt University,Teresa,M,Sebastian,2499768,1,poor,TEACHER,PROFESSOR,1.0
+1520,Languages,4002,Vanderbilt University,Elena,,Segovia,773990,18,good,TEACHER,PROFESSOR,4.7
+1521,Finance,4002,Vanderbilt University,Paul,,Seguin,1734444,0,zero,TEACHER,PROFESSOR,N/A
+1522,Psychology,4002,Vanderbilt University,Adriane,,Seiffert,597883,36,good,TEACHER,PROFESSOR,3.6
+1523,Writing,4002,Vanderbilt University,Gretchen,,Selcke,2444866,4,good,TEACHER,PROFESSOR,4.3
+1524,Education,4002,Vanderbilt University,Elizabeth,A,Self,2206808,7,good,TEACHER,PROFESSOR,4.9
+1525,Philosophy,4002,Vanderbilt University,Luke,,Semrau,1892995,16,good,TEACHER,PROFESSOR,3.8
+1526,Philosophy,4002,Vanderbilt University,Charles,,Sentell,1465555,1,good,TEACHER,PROFESSOR,5.0
+1527,Languages,4002,Vanderbilt University,Waldir,,Sepúlveda,353417,35,good,TEACHER,PROFESSOR,4.5
+1528,Classics,4002,Vanderbilt University,Valeria,,Sergueenkova,1517771,4,average,TEACHER,PROFESSOR,2.8
+1529,Languages,4002,Vanderbilt University,Peggy,,Setje-Eilers,400119,17,average,TEACHER,PROFESSOR,3.2
+1530,Law,4002,Vanderbilt University,Sean,B,Seymore,2252924,1,poor,TEACHER,PROFESSOR,1.0
+1531,English,4002,Vanderbilt University,Nicole,,Seymour,741860,5,good,TEACHER,PROFESSOR,4.6
+1532,Music,4002,Vanderbilt University,Douglas,,Shadle,2001024,8,good,TEACHER,PROFESSOR,5.0
+1533,Education,4002,Vanderbilt University,Emily,,Shahan,1670120,1,good,TEACHER,PROFESSOR,5.0
+1534,English,4002,Vanderbilt University,John,,Shakespear,2422505,1,good,TEACHER,PROFESSOR,5.0
+1535,Anthropology,4002,Vanderbilt University,Miriam,,Shakow,1243052,7,good,TEACHER,PROFESSOR,4.0
+1536,Mathematics,4002,Vanderbilt University,Songling,,Shan,2179424,9,average,TEACHER,PROFESSOR,3.1
+1537,History,4002,Vanderbilt University,Shari,,Shaneyfelt,2480030,0,zero,TEACHER,PROFESSOR,N/A
+1538,Art History,4002,Vanderbilt University,Sheri,,Shaneyfelt,140114,37,good,TEACHER,PROFESSOR,4.7
+1539,Engineering,4002,Vanderbilt University,Julie,,Sharp,484649,16,good,TEACHER,PROFESSOR,4.4
+1540,African-American Studies,4002,Vanderbilt University,Tracy,,Sharpley-Whiting,829551,9,good,TEACHER,PROFESSOR,4.7
+1541,American Studies,4002,Vanderbilt University,Samuel,,Shaw,2053085,10,average,TEACHER,PROFESSOR,3.0
+1542,Human Development,4002,Vanderbilt University,Matthew,,Shaw,2477350,2,good,TEACHER,PROFESSOR,4.0
+1543,History,4002,Vanderbilt University,Samira,,Sheikh,1521201,15,good,TEACHER,PROFESSOR,3.5
+1544,Physics,4002,Vanderbilt University,Paul,,Sheldon,703707,20,good,TEACHER,PROFESSOR,3.8
+1545,Women's Studies,4002,Vanderbilt University,Jamie,,Shenton,2076199,11,good,TEACHER,PROFESSOR,4.6
+1546,Anthropology,4002,Vanderbilt University,Jeffrey,,Shenton,2098308,6,poor,TEACHER,PROFESSOR,1.6
+1547,Languages,4002,Vanderbilt University,Michelle,,Shepherd,1665805,2,good,TEACHER,PROFESSOR,5.0
+1548,Law,4002,Vanderbilt University,Suzanna,,Sherry,135647,14,average,TEACHER,PROFESSOR,3.3
+1549,Humanities,4002,Vanderbilt University,Sharon,,Shields,598009,8,good,TEACHER,PROFESSOR,3.5
+1550,Languages,4002,Vanderbilt University,Hideko,,Shimizu,2640921,1,good,TEACHER,PROFESSOR,5.0
+1551,English,4002,Vanderbilt University,Haerin,,Shin,2053871,7,good,TEACHER,PROFESSOR,5.0
+1552,Art History,4002,Vanderbilt University,Heeryoon,,Shin,2360592,11,good,TEACHER,PROFESSOR,4.7
+1553,Human Development,4002,Vanderbilt University,Marybeth,,Shinn,1424514,4,average,TEACHER,PROFESSOR,3.0
+1554,Languages,4002,Vanderbilt University,Yasuko,,Shiomi,1491850,3,good,TEACHER,PROFESSOR,4.8
+1555,Business,4002,Vanderbilt University,Mike,,Shor,358479,8,good,TEACHER,PROFESSOR,4.8
+1556,Biomedical,4002,Vanderbilt University,Matt,,Shotwell,2504016,0,zero,TEACHER,PROFESSOR,N/A
+1557,Physics,4002,Vanderbilt University,Kenneth,,Shriver,1533673,1,average,TEACHER,PROFESSOR,2.5
+1558,Women's Studies,4002,Vanderbilt University,Sharma,,Shubra,947694,7,good,TEACHER,PROFESSOR,4.1
+1559,Music Performance,4002,Vanderbilt University,Jose,,Sibaja,2208774,1,good,TEACHER,PROFESSOR,5.0
+1560,Political Science,4002,Vanderbilt University,John,,Sides,2538526,3,good,TEACHER,PROFESSOR,5.0
+1561,Music,4002,Vanderbilt University,Frederick,,Sienkiewicz,2588044,2,good,TEACHER,PROFESSOR,5.0
+1562,Engineering,4002,Vanderbilt University,Brian,David,Sierawski,2044334,15,good,TEACHER,PROFESSOR,4.6
+1563,Engineering,4002,Vanderbilt University,Nabil,,Simaan,1845450,14,poor,TEACHER,PROFESSOR,2.0
+1564,Mathematics,4002,Vanderbilt University,Brian,,Simanek,1808099,12,good,TEACHER,PROFESSOR,3.8
+1565,Music,4002,Vanderbilt University,Helena,,Simonett,1933160,11,good,TEACHER,PROFESSOR,3.8
+1566,Mathematics,4002,Vanderbilt University,Gieri,,Simonett,352257,38,good,TEACHER,PROFESSOR,4.0
+1567,Women's Studies,4002,Vanderbilt University,Stacy,,Simplican,2058413,13,good,TEACHER,PROFESSOR,4.9
+1568,Education,4002,Vanderbilt University,Pearl,,Sims,642829,5,good,TEACHER,PROFESSOR,4.9
+1569,Education,4002,Vanderbilt University,Marcy,,Singer-Gabella,739019,3,average,TEACHER,PROFESSOR,2.9
+1570,Computer Science,4002,Vanderbilt University,Vikash,,Singh,2290434,33,average,TEACHER,PROFESSOR,2.7
+1571,Biology,4002,Vanderbilt University,Charles,,Singleton,338246,74,average,TEACHER,PROFESSOR,2.7
+1572,Biology,4002,Vanderbilt University,Charles,,Sissom,771262,8,good,TEACHER,PROFESSOR,4.9
+1573,Law,4002,Vanderbilt University,Ganesh,,Sitaraman,2018334,0,zero,TEACHER,PROFESSOR,N/A
+1574,Biomedical,4002,Vanderbilt University,Melissa,,Skala,2141582,0,zero,TEACHER,PROFESSOR,N/A
+1575,Philosophy,4002,Vanderbilt University,Sandy,,Skene,1864424,7,good,TEACHER,PROFESSOR,4.8
+1576,Economics,4002,Vanderbilt University,Paige,,Skiba,2578812,0,zero,TEACHER,PROFESSOR,N/A
+1577,Management,4002,Vanderbilt University,Garnett,,Slatton,1492027,39,good,TEACHER,PROFESSOR,3.6
+1578,Music,4002,Vanderbilt University,Michael,,Slayton,346997,13,good,TEACHER,PROFESSOR,4.3
+1579,Mathematics,4002,Vanderbilt University,Levi,,Sledd,2517866,0,zero,TEACHER,PROFESSOR,N/A
+1580,Communication,4002,Vanderbilt University,John,,Sloop,182723,23,good,TEACHER,PROFESSOR,3.5
+1581,Mathematics,4002,Vanderbilt University,Matthew,,Smedberg,1754591,2,poor,TEACHER,PROFESSOR,2.0
+1582,English,4002,Vanderbilt University,Wietske,,Smeele,1916256,3,good,TEACHER,PROFESSOR,5.0
+1583,Music,4002,Vanderbilt University,Carl,,Smith,110941,17,good,TEACHER,PROFESSOR,3.8
+1584,History,4002,Vanderbilt University,Helmut,,Smith,141517,26,good,TEACHER,PROFESSOR,4.2
+1585,Psychology,4002,Vanderbilt University,Craig,,Smith,401019,36,good,TEACHER,PROFESSOR,4.3
+1586,Physics,4002,Vanderbilt University,Seth,,Smith,1676978,1,good,TEACHER,PROFESSOR,4.5
+1587,Chemistry,4002,Vanderbilt University,Abigail,,Smith,2207062,1,good,TEACHER,PROFESSOR,5.0
+1588,Political Science,4002,Vanderbilt University,Bradley,,Smith,2586902,4,good,TEACHER,PROFESSOR,4.8
+1589,Nursing,4002,Vanderbilt University,Judd,,Smith,2599496,0,zero,TEACHER,PROFESSOR,N/A
+1590,Human Development,4002,Vanderbilt University,Heather,,Smith,1950293,2,average,TEACHER,PROFESSOR,2.5
+1591,Psychology,4002,Vanderbilt University,Leslie,,Smith,147501,177,good,TEACHER,PROFESSOR,3.9
+1592,Education,4002,Vanderbilt University,Claire,,Smrekar,508777,12,average,TEACHER,PROFESSOR,2.8
+1593,Economics,4002,Vanderbilt University,Stephanie,,So,353510,22,good,TEACHER,PROFESSOR,4.0
+1594,Languages,4002,Vanderbilt University,Ayaka,,Sogabe,908147,8,good,TEACHER,PROFESSOR,4.6
+1595,Mathematics,4002,Vanderbilt University,Ryan,,Solava,2344735,3,good,TEACHER,PROFESSOR,5.0
+1596,Human Development,4002,Vanderbilt University,Adela,,Soliz,2241048,1,poor,TEACHER,PROFESSOR,1.0
+1597,Languages,4002,Vanderbilt University,David,,Solodkow,910044,3,good,TEACHER,PROFESSOR,4.2
+1598,Classics,4002,Vanderbilt University,Daniel,,Solomon,308055,48,good,TEACHER,PROFESSOR,4.5
+1599,English,4002,Vanderbilt University,Sandy,,Solomon,1362706,5,average,TEACHER,PROFESSOR,2.9
+1600,Physics,4002,Vanderbilt University,Suseela,,Somarajan,2309590,4,good,TEACHER,PROFESSOR,3.5
+1601,Political Science,4002,Vanderbilt University,Zeynep,,Somer-Topcu,1429091,13,good,TEACHER,PROFESSOR,3.8
+1602,Sociology,4002,Vanderbilt University,Lijun,,Song,1356459,17,good,TEACHER,PROFESSOR,3.6
+1603,Mathematics,4002,Vanderbilt University,Dmitry,,Sonkin,296509,8,good,TEACHER,PROFESSOR,3.6
+1604,Mathematics,4002,Vanderbilt University,Diana,,Sordillo,2465794,6,good,TEACHER,PROFESSOR,4.2
+1605,Mathematics,4002,Vanderbilt University,Jared,,Speck,2487271,6,good,TEACHER,PROFESSOR,5.0
+1606,Human Development,4002,Vanderbilt University,Paul,,Speer,1202346,4,good,TEACHER,PROFESSOR,4.6
+1607,Chemistry,4002,Vanderbilt University,Isaiah,,Speight,2249255,2,good,TEACHER,PROFESSOR,5.0
+1608,Languages,4002,Vanderbilt University,Alex,,Spektor,1663584,4,good,TEACHER,PROFESSOR,4.9
+1609,Sociology,4002,Vanderbilt University,Terri,,Spetalnick,868434,25,good,TEACHER,PROFESSOR,3.9
+1610,English,4002,Vanderbilt University,Nicole,,Spigner,2001064,0,zero,TEACHER,PROFESSOR,N/A
+1611,English,4002,Vanderbilt University,Hortense,,Spillers,1065545,13,average,TEACHER,PROFESSOR,2.8
+1612,Computer Science,4002,Vanderbilt University,Jeremy,,Spinrad,351771,36,average,TEACHER,PROFESSOR,3.1
+1613,English,4002,Vanderbilt University,Robbie,,Spivey,1952718,13,good,TEACHER,PROFESSOR,3.9
+1614,History,4002,Vanderbilt University,Alistair,,Sponsel,2070924,8,good,TEACHER,PROFESSOR,4.1
+1615,English,4002,Vanderbilt University,Daniel,,Spoth,1100162,8,good,TEACHER,PROFESSOR,4.7
+1616,Sociology,4002,Vanderbilt University,Ken,,Spring,1110151,0,zero,TEACHER,PROFESSOR,N/A
+1617,Human Development,4002,Vanderbilt University,Matthew,,Springer,1727260,10,good,TEACHER,PROFESSOR,4.5
+1618,Nursing,4002,Vanderbilt University,Joshua,P,Squiers,1841319,0,zero,TEACHER,PROFESSOR,N/A
+1619,Finance,4002,Vanderbilt University,Dave,,Stacey,1512262,18,good,TEACHER,PROFESSOR,3.9
+1620,Law,4002,Vanderbilt University,Kevin,,Stack,1213768,4,good,TEACHER,PROFESSOR,4.2
+1621,Women's Studies,4002,Vanderbilt University,Sandy,,Stahl,972394,4,good,TEACHER,PROFESSOR,4.0
+1622,Engineering,4002,Vanderbilt University,Bob,,Stammer,177494,13,good,TEACHER,PROFESSOR,4.8
+1623,Mathematics,4002,Vanderbilt University,Joann,,Staples,140085,20,good,TEACHER,PROFESSOR,4.2
+1624,Medicine,4002,Vanderbilt University,Laura,,Stark,2129801,8,good,TEACHER,PROFESSOR,3.6
+1625,Physics,4002,Vanderbilt University,Savanna,,Starko,2625110,10,good,TEACHER,PROFESSOR,4.9
+1626,Astronomy,4002,Vanderbilt University,Keivan,,Stassun,485264,45,good,TEACHER,PROFESSOR,4.3
+1627,American Studies,4002,Vanderbilt University,Clarence,,Stauffer,2640313,1,good,TEACHER,PROFESSOR,5.0
+1628,Psychology,4002,Vanderbilt University,James,,Steiger,401829,8,good,TEACHER,PROFESSOR,3.5
+1629,History,4002,Vanderbilt University,James,,Steiger,2288539,0,zero,TEACHER,PROFESSOR,N/A
+1630,Sociology,4002,Vanderbilt University,Ronnie,,Steinberg,542789,30,good,TEACHER,PROFESSOR,3.7
+1631,Not Specified,4002,Vanderbilt University,Roberta,,Steiner,1766203,5,average,TEACHER,PROFESSOR,3.0
+1632,Psychology,4002,Vanderbilt University,Sonya,,Sterba,1706919,12,good,TEACHER,PROFESSOR,3.5
+1633,Engineering,4002,Vanderbilt University,Andrew,,Sternberg,2418423,5,good,TEACHER,PROFESSOR,3.8
+1634,Languages,4002,Vanderbilt University,April,,Stevens,1512119,5,good,TEACHER,PROFESSOR,4.8
+1635,Astronomy,4002,Vanderbilt University,Susan,Gessner,Stewart,2050718,6,good,TEACHER,PROFESSOR,4.8
+1636,Religion,4002,Vanderbilt University,Tony,,Stewart,2130439,4,good,TEACHER,PROFESSOR,3.6
+1637,Medicine,4002,Vanderbilt University,Thomas,G,Stewart,2512327,0,zero,TEACHER,PROFESSOR,N/A
+1638,Marketing,4002,Vanderbilt University,Greg,,Stielstra,1489516,0,zero,TEACHER,PROFESSOR,N/A
+1639,Languages,4002,Vanderbilt University,Simone,,Stirner,2648208,4,good,TEACHER,PROFESSOR,5.0
+1640,Communication,4002,Vanderbilt University,Paul,,Stob,1549639,12,good,TEACHER,PROFESSOR,4.8
+1641,Chemistry,4002,Vanderbilt University,Michael,,Stone,1223017,5,average,TEACHER,PROFESSOR,3.3
+1642,Theater,4002,Vanderbilt University,Matt,,Stratton,1527171,6,good,TEACHER,PROFESSOR,4.5
+1643,English,4002,Vanderbilt University,Stephanie,,Straub,2017866,2,good,TEACHER,PROFESSOR,3.8
+1644,Engineering,4002,Vanderbilt University,Alvin,,Strauss,1378774,2,average,TEACHER,PROFESSOR,3.3
+1645,Economics,4002,Vanderbilt University,Caleb,,Stroup,1198971,18,good,TEACHER,PROFESSOR,4.8
+1646,Psychology,4002,Vanderbilt University,Gabrielle,,Strouse,1712985,1,poor,TEACHER,PROFESSOR,1.0
+1647,Languages,4002,Vanderbilt University,Jason,,Strudler,1884395,11,good,TEACHER,PROFESSOR,3.7
+1648,Biology,4002,Vanderbilt University,Gerald,,Stubbs,178122,58,good,TEACHER,PROFESSOR,4.2
+1649,Philosophy,4002,Vanderbilt University,Andrew,,Sucre,2584601,3,good,TEACHER,PROFESSOR,5.0
+1650,Philosophy,4002,Vanderbilt University,Wai,,Suen,1484762,7,good,TEACHER,PROFESSOR,4.5
+1651,Chemistry,4002,Vanderbilt University,Gary,,Sulikowski,1231937,14,average,TEACHER,PROFESSOR,3.3
+1652,Chemistry,4002,Vanderbilt University,Michelle,,Sulikowski,495067,70,good,TEACHER,PROFESSOR,3.9
+1653,Classics,4002,Vanderbilt University,Chiara,,Sulprizio,2241354,5,good,TEACHER,PROFESSOR,3.6
+1654,Mathematics,4002,Vanderbilt University,Qiyu,,Sun,1395877,1,poor,TEACHER,PROFESSOR,2.0
+1655,History,4002,Vanderbilt University,LU,,Sun,1480472,4,good,TEACHER,PROFESSOR,4.5
+1656,Engineering,4002,Vanderbilt University,Hak-Joon,,Sung,1572757,16,good,TEACHER,PROFESSOR,4.6
+1657,History,4002,Vanderbilt University,Antoinette,,Sutto,1723542,2,poor,TEACHER,PROFESSOR,2.2
+1658,History,4002,Vanderbilt University,Angela,,Sutton,1319208,1,good,TEACHER,PROFESSOR,5.0
+1659,Languages,4002,Vanderbilt University,Camille,,Sutton,1381658,6,good,TEACHER,PROFESSOR,4.8
+1660,Chemistry,4002,Vanderbilt University,Suzanne,,Sutton,2640333,0,zero,TEACHER,PROFESSOR,N/A
+1661,Mathematics,4002,Vanderbilt University,Ioana,,Suvaina,1381338,22,good,TEACHER,PROFESSOR,4.0
+1662,Economics,4002,Vanderbilt University,Wisarut,,Suwanprasert,2214544,6,average,TEACHER,PROFESSOR,3.0
+1663,Political Science,4002,Vanderbilt University,Carol,,Swain,404341,8,good,TEACHER,PROFESSOR,3.6
+1664,Economics,4002,Vanderbilt University,George,,Sweeney,1294775,3,good,TEACHER,PROFESSOR,4.7
+1665,Philosophy,4002,Vanderbilt University,Kelly,,Swope,2659043,1,good,TEACHER,PROFESSOR,5.0
+1666,African-American Studies,4002,Vanderbilt University,Claudine,,Taaffe,2247249,14,average,TEACHER,PROFESSOR,3.2
+1667,Biomedical,4002,Vanderbilt University,David,,Tabb,1408532,1,good,TEACHER,PROFESSOR,5.0
+1668,Engineering,4002,Vanderbilt University,Mazita,,Tahir,1499401,21,good,TEACHER,PROFESSOR,4.8
+1669,Chemistry,4002,Vanderbilt University,Craig,,Tainter,2217090,27,good,TEACHER,PROFESSOR,4.2
+1670,Computer Science,4002,Vanderbilt University,Rob,,Tairas,1889397,46,average,TEACHER,PROFESSOR,3.1
+1671,Engineering,4002,Vanderbilt University,Robert,,Tairas,2584833,11,good,TEACHER,PROFESSOR,4.4
+1672,Philosophy,4002,Vanderbilt University,Robert,,Talisse,333312,25,good,TEACHER,PROFESSOR,4.0
+1673,Sociology,4002,Vanderbilt University,Heather,,Talley,452111,9,good,TEACHER,PROFESSOR,5.0
+1674,Religion,4002,Vanderbilt University,Caryn,,Tamber-Rosenau,2092634,11,good,TEACHER,PROFESSOR,4.1
+1675,History,4002,Vanderbilt University,Amy,,Tan,2121828,7,good,TEACHER,PROFESSOR,5.0
+1676,Religion,4002,Vanderbilt University,Anand,V,Taneja,1888658,14,good,TEACHER,PROFESSOR,4.1
+1677,Computer Science,4002,Vanderbilt University,Yucheng,,Tang,2608149,1,good,TEACHER,PROFESSOR,5.0
+1678,Engineering,4002,Vanderbilt University,Yuankai,,Tao,2219907,2,good,TEACHER,PROFESSOR,5.0
+1679,Philosophy,4002,Vanderbilt University,Erin,,Tarver,1227688,4,average,TEACHER,PROFESSOR,2.6
+1680,Geology,4002,Vanderbilt University,Garrett,,Tate,2360237,10,good,TEACHER,PROFESSOR,3.7
+1681,Biology,4002,Vanderbilt University,Ann,,Tate,2438868,1,good,TEACHER,PROFESSOR,5.0
+1682,Chemistry,4002,Vanderbilt University,Joel,,Tellinghuisen,400379,17,poor,TEACHER,PROFESSOR,1.5
+1683,Sociology,4002,Vanderbilt University,Steven J.,,Tepper,820874,8,good,TEACHER,PROFESSOR,4.4
+1684,English,4002,Vanderbilt University,Rachel,,Teukolsky,1492901,22,good,TEACHER,PROFESSOR,3.8
+1685,Political Science,4002,Vanderbilt University,Tariq,,Thachil,2312404,8,good,TEACHER,PROFESSOR,5.0
+1686,Sociology,4002,Vanderbilt University,Stanley,,Thangaraj,1663800,9,good,TEACHER,PROFESSOR,4.3
+1687,English,4002,Vanderbilt University,Nafissa,,Thompson,797442,5,good,TEACHER,PROFESSOR,3.7
+1688,Engineering,4002,Vanderbilt University,Walter,,Thorn,1090296,0,zero,TEACHER,PROFESSOR,N/A
+1689,Political Science,4002,Vanderbilt University,Sharece,,Thrower,2185885,5,good,TEACHER,PROFESSOR,3.8
+1690,English,4002,Vanderbilt University,Cecelia,,Tichi,258228,28,good,TEACHER,PROFESSOR,3.8
+1691,Anthropology,4002,Vanderbilt University,Catherine,,Timura,1223768,0,zero,TEACHER,PROFESSOR,N/A
+1692,Philosophy,4002,Vanderbilt University,Jeffrey,,Tlumak,133407,12,average,TEACHER,PROFESSOR,3.5
+1693,Human Development,4002,Vanderbilt University,Deborah,,Tobey,1508690,8,average,TEACHER,PROFESSOR,2.8
+1694,Chemistry,4002,Vanderbilt University,Tara,,Todd,512403,125,good,TEACHER,PROFESSOR,4.2
+1695,Physics,4002,Vanderbilt University,Norman,,Tolk,1054948,9,average,TEACHER,PROFESSOR,2.6
+1696,Psychology,4002,Vanderbilt University,Andy,,Tomarken,741623,3,good,TEACHER,PROFESSOR,5.0
+1697,Psychology,4002,Vanderbilt University,Andrew,,Tomarken,2187850,11,good,TEACHER,PROFESSOR,4.9
+1698,Psychology,4002,Vanderbilt University,Kristen,,Tompkins,624085,25,good,TEACHER,PROFESSOR,4.2
+1699,Psychology,4002,Vanderbilt University,Frank,,Tong,985521,18,good,TEACHER,PROFESSOR,4.1
+1700,Classics,4002,Vanderbilt University,John,,Torodash,766964,0,zero,TEACHER,PROFESSOR,N/A
+1701,American Studies,4002,Vanderbilt University,Gabriel,A.,Torres Colon,2299983,3,good,TEACHER,PROFESSOR,4.7
+1702,Chemistry,4002,Vanderbilt University,Steven,,Townsend,2108589,56,good,TEACHER,PROFESSOR,4.5
+1703,Physical Education,4002,Vanderbilt University,theodore,,towse,2479931,0,zero,TEACHER,PROFESSOR,N/A
+1704,Economics,4002,Vanderbilt University,T,,Trafton,1013406,2,good,TEACHER,PROFESSOR,4.5
+1705,Asian Studies,4002,Vanderbilt University,Ben,,Tran,1548077,19,good,TEACHER,PROFESSOR,4.6
+1706,Communication,4002,Vanderbilt University,Courtney,,Travers,2087550,16,good,TEACHER,PROFESSOR,3.6
+1707,Engineering,4002,Vanderbilt University,Brooke,,Traynham,1322025,7,good,TEACHER,PROFESSOR,5.0
+1708,Finance,4002,Vanderbilt University,Brent,,Trentham,1542192,30,good,TEACHER,PROFESSOR,4.7
+1709,Languages,4002,Vanderbilt University,Benigno,,Trigo,823632,6,good,TEACHER,PROFESSOR,4.4
+1710,Psychology,4002,Vanderbilt University,Georgene,,Troseth,481017,39,good,TEACHER,PROFESSOR,4.2
+1711,Sociology,4002,Vanderbilt University,Latonya,,Trotter,1893805,16,good,TEACHER,PROFESSOR,4.0
+1712,Engineering,4002,Vanderbilt University,Lori,,Troxel,177490,35,good,TEACHER,PROFESSOR,4.2
+1713,Psychology,4002,Vanderbilt University,Jennifer,S,Trueblood,2312054,3,good,TEACHER,PROFESSOR,5.0
+1714,Philosophy,4002,Vanderbilt University,Boomer,,Trujillo,2123014,4,good,TEACHER,PROFESSOR,4.8
+1715,Classics,4002,Vanderbilt University,Barbara,,Tsakirgis,140098,28,good,TEACHER,PROFESSOR,4.0
+1716,Mathematics,4002,Vanderbilt University,Steven,,Tschantz,780635,13,good,TEACHER,PROFESSOR,4.1
+1717,Mathematics,4002,Vanderbilt University,Constantine,,Tsinakis,933167,7,good,TEACHER,PROFESSOR,3.5
+1718,History,4002,Vanderbilt University,Arleen,,Tuchman,141547,18,good,TEACHER,PROFESSOR,3.7
+1719,Medicine,4002,Vanderbilt University,Holly,,Tucker,980820,21,good,TEACHER,PROFESSOR,4.5
+1720,Anthropology,4002,Vanderbilt University,Tiffiny,,Tung,526362,33,good,TEACHER,PROFESSOR,4.4
+1721,Philosophy,4002,Vanderbilt University,Adam,,Turk,1234429,3,good,TEACHER,PROFESSOR,4.7
+1722,Human Development,4002,Vanderbilt University,William,,Turner,1700308,0,zero,TEACHER,PROFESSOR,N/A
+1723,Engineering,4002,Vanderbilt University,Clark,,Turner,2565274,2,average,TEACHER,PROFESSOR,2.5
+1724,Economics,4002,Vanderbilt University,Lesley,,Turner,2651510,4,average,TEACHER,PROFESSOR,3.0
+1725,Religion,4002,Vanderbilt University,Katarina,,Turpeinen,2189926,3,good,TEACHER,PROFESSOR,5.0
+1726,Philosophy,4002,Vanderbilt University,Rebecca,,Tuvel,1435199,6,good,TEACHER,PROFESSOR,4.6
+1727,Education,4002,Vanderbilt University,Naomi,C.,Tyler,2102402,3,good,TEACHER,PROFESSOR,3.7
+1728,Sociology,4002,Vanderbilt University,Benjamin,,Tyndall,2217625,2,good,TEACHER,PROFESSOR,4.5
+1729,Human Development,4002,Vanderbilt University,Atlee,,Tyree,2265853,7,poor,TEACHER,PROFESSOR,2.1
+1730,Biomedical,4002,Vanderbilt University,Matthew,,Tyska,1463941,0,zero,TEACHER,PROFESSOR,N/A
+1731,Philosophy,4002,Vanderbilt University,Sarah,,Tyson,973943,11,good,TEACHER,PROFESSOR,4.9
+1732,Sociology,4002,Vanderbilt University,Zdravka,,Tzankova,2073918,18,good,TEACHER,PROFESSOR,4.8
+1733,Languages,4002,Vanderbilt University,Chiedozie,Michael,Uhuegbu,2659950,1,good,TEACHER,PROFESSOR,5.0
+1734,Physics,4002,Vanderbilt University,Sait,,Umar,743484,8,good,TEACHER,PROFESSOR,4.5
+1735,Religion,4002,Vanderbilt University,Martina,,Urban,1143653,14,good,TEACHER,PROFESSOR,3.7
+1736,History,4002,Vanderbilt University,Daniel,,"Usner, Jr.",377918,17,good,TEACHER,PROFESSOR,4.0
+1737,Mathematics,4002,Vanderbilt University,Caglar,,Uyanik,2283319,7,good,TEACHER,PROFESSOR,5.0
+1738,Engineering,4002,Vanderbilt University,Pietro,,Valdastri,1843246,1,good,TEACHER,PROFESSOR,4.5
+1739,Women's Studies,4002,Vanderbilt University,Danyelle,,Valentine,2594049,6,good,TEACHER,PROFESSOR,4.0
+1740,Mathematics,4002,Vanderbilt University,Maria,,Van der Walt,2123989,10,good,TEACHER,PROFESSOR,4.8
+1741,Human Development,4002,Vanderbilt University,Andrew,,Van Schaack,518989,96,good,TEACHER,PROFESSOR,4.5
+1742,Art History,4002,Vanderbilt University,Rebecca,E K,Vandiver,1866748,14,good,TEACHER,PROFESSOR,3.7
+1743,Physics,4002,Vanderbilt University,Kalman,,Varga,1549366,3,good,TEACHER,PROFESSOR,3.5
+1744,Languages,4002,Vanderbilt University,Alonso,,Varo Varo,1560750,5,good,TEACHER,PROFESSOR,4.9
+1745,Engineering,4002,Vanderbilt University,John,,Veillette,298670,17,good,TEACHER,PROFESSOR,4.6
+1746,Physics,4002,Vanderbilt University,Julia,,Velkovska,595238,12,poor,TEACHER,PROFESSOR,2.5
+1747,Physics,4002,Vanderbilt University,Momchil,,Velkovsky,1351428,65,average,TEACHER,PROFESSOR,2.7
+1748,Biomedical,4002,Vanderbilt University,Bryan,,Venters,2190748,0,zero,TEACHER,PROFESSOR,N/A
+1749,Chemistry,4002,Vanderbilt University,Susan,,Verberne-Sutton,1974189,23,good,TEACHER,PROFESSOR,3.9
+1750,Music,4002,Vanderbilt University,Thomas,E,Verrier,2355835,0,zero,TEACHER,PROFESSOR,N/A
+1751,Business,4002,Vanderbilt University,Bart,,Victor,1826052,0,zero,TEACHER,PROFESSOR,N/A
+1752,History,4002,Vanderbilt University,Nicholas,,Villanueva,1276409,9,good,TEACHER,PROFESSOR,4.1
+1753,Economics,4002,Vanderbilt University,Jason,,Vincze,2357566,0,zero,TEACHER,PROFESSOR,N/A
+1754,Political Science,4002,Vanderbilt University,Sheahan,G,Virgin,2446426,3,good,TEACHER,PROFESSOR,5.0
+1755,Business,4002,Vanderbilt University,Tim,,Vogus,1826050,0,zero,TEACHER,PROFESSOR,N/A
+1756,Computer Science,4002,Vanderbilt University,Peter,,Volgyesi,2314130,12,good,TEACHER,PROFESSOR,4.6
+1757,Computer Science,4002,Vanderbilt University,Yevgeniy,,Vorobeychik,2146199,1,good,TEACHER,PROFESSOR,5.0
+1758,Neuroscience,4002,Vanderbilt University,Oliver,,Vranjkovic,2343690,1,average,TEACHER,PROFESSOR,3.0
+1759,Economics,4002,Vanderbilt University,John,,Vrooman,126731,102,average,TEACHER,PROFESSOR,3.3
+1760,Education,4002,Vanderbilt University,Leigh,,Wadsworth,881195,41,good,TEACHER,PROFESSOR,4.3
+1761,Education,4002,Vanderbilt University,Anita,,Wager,2593036,1,good,TEACHER,PROFESSOR,5.0
+1762,Mathematics,4002,Vanderbilt University,Ian,,Wagner,2625661,2,good,TEACHER,PROFESSOR,5.0
+1763,Mathematics,4002,Vanderbilt University,Frank,,Wagner,2578440,9,good,TEACHER,PROFESSOR,4.6
+1764,Psychology,4002,Vanderbilt University,Tedra,,Walden,283302,12,poor,TEACHER,PROFESSOR,2.0
+1765,Music,4002,Vanderbilt University,Deanna,,Walker,115908,28,good,TEACHER,PROFESSOR,4.3
+1766,Engineering,4002,Vanderbilt University,Greg,,Walker,1005859,5,poor,TEACHER,PROFESSOR,2.4
+1767,Engineering,4002,Vanderbilt University,Matthew,,Walker,2077786,3,average,TEACHER,PROFESSOR,3.0
+1768,Human Development,4002,Vanderbilt University,Janet,,Walls,2573666,2,good,TEACHER,PROFESSOR,4.5
+1769,Management,4002,Vanderbilt University,Fang,,Wan,310378,0,zero,TEACHER,PROFESSOR,N/A
+1770,Mathematics,4002,Vanderbilt University,Zhian,,Wang,1379181,0,zero,TEACHER,PROFESSOR,N/A
+1771,Mathematics,4002,Vanderbilt University,Kun,,Wang,2086859,20,good,TEACHER,PROFESSOR,3.8
+1772,Philosophy,4002,Vanderbilt University,Connie,,Wang,2361183,2,good,TEACHER,PROFESSOR,4.0
+1773,Music,4002,Vanderbilt University,Felix,,Wang,2633060,1,good,TEACHER,PROFESSOR,5.0
+1774,Mathematics,4002,Vanderbilt University,Yi,,Wang,2646225,1,good,TEACHER,PROFESSOR,5.0
+1775,Asian Studies,4002,Vanderbilt University,Guojun,,Wang,2090807,6,good,TEACHER,PROFESSOR,5.0
+1776,English,4002,Vanderbilt University,Jane,,Wanninger,1184381,3,good,TEACHER,PROFESSOR,3.8
+1777,Languages,4002,Vanderbilt University,Evan,,Ward,1672227,1,good,TEACHER,PROFESSOR,4.5
+1778,Fine Arts,4002,Vanderbilt University,John,R,Warren,1855301,13,good,TEACHER,PROFESSOR,4.5
+1779,Languages,4002,Vanderbilt University,Cynthia,,Wasick,397786,33,good,TEACHER,PROFESSOR,3.5
+1780,History,4002,Vanderbilt University,David,,Wasserstein,600555,19,average,TEACHER,PROFESSOR,3.0
+1781,Film,4002,Vanderbilt University,Jonathan,,Waters,1886137,7,good,TEACHER,PROFESSOR,3.7
+1782,Psychology,4002,Vanderbilt University,Duane,,Watson,2186908,1,poor,TEACHER,PROFESSOR,1.0
+1783,History,4002,Vanderbilt University,Frank,,Wcislo,126735,29,good,TEACHER,PROFESSOR,3.8
+1784,Mathematics,4002,Vanderbilt University,Adam,,Weaver,1275795,4,poor,TEACHER,PROFESSOR,2.2
+1785,Biology,4002,Vanderbilt University,Donna,,Webb,1720787,1,good,TEACHER,PROFESSOR,5.0
+1786,Mathematics,4002,Vanderbilt University,Glenn,,Webb,751120,23,good,TEACHER,PROFESSOR,3.9
+1787,Languages,4002,Vanderbilt University,Elizabeth,,Weber,1171543,2,good,TEACHER,PROFESSOR,4.8
+1788,Physics,4002,Vanderbilt University,Med,,Webster,568807,13,poor,TEACHER,PROFESSOR,1.9
+1789,Engineering,4002,Vanderbilt University,Robert,,Webster,1197657,4,good,TEACHER,PROFESSOR,4.0
+1790,Neuroscience,4002,Vanderbilt University,Meredyth,,Wegener,2548388,10,good,TEACHER,PROFESSOR,4.2
+1791,Political Science,4002,Vanderbilt University,Keith,,Weghorst,2160898,19,good,TEACHER,PROFESSOR,3.8
+1792,Education,4002,Vanderbilt University,Joseph,,Wehby,283303,34,good,TEACHER,PROFESSOR,4.0
+1793,Biology,4002,Vanderbilt University,Chunyao,,Wei,1381181,1,good,TEACHER,PROFESSOR,5.0
+1794,Languages,4002,Vanderbilt University,Qing,,Wei,468519,20,good,TEACHER,PROFESSOR,4.8
+1795,Physics,4002,Vanderbilt University,Thomas,,Weiler,1351445,5,poor,TEACHER,PROFESSOR,1.8
+1796,Astronomy,4002,Vanderbilt University,David,,Weintraub,141535,110,good,TEACHER,PROFESSOR,4.0
+1797,Art History,4002,Vanderbilt University,Jochen,,Weirich,2460554,0,zero,TEACHER,PROFESSOR,N/A
+1798,Languages,4002,Vanderbilt University,Lisa,,Weiss,785058,2,good,TEACHER,PROFESSOR,4.2
+1799,Engineering,4002,Vanderbilt University,Sharon,,Weiss,1243198,2,good,TEACHER,PROFESSOR,4.8
+1800,Women's Studies,4002,Vanderbilt University,Gay,,Welch,2027816,1,average,TEACHER,PROFESSOR,2.5
+1801,History,4002,Vanderbilt University,Kimberly,,Welch,2201243,7,good,TEACHER,PROFESSOR,4.3
+1802,Engineering,4002,Vanderbilt University,Robert,,Weller,142267,11,average,TEACHER,PROFESSOR,3.4
+1803,Philosophy,4002,Vanderbilt University,Christopher,,Wells,1484767,13,good,TEACHER,PROFESSOR,4.4
+1804,African-American Studies,4002,Vanderbilt University,Alexis,S,Wells,2061321,3,good,TEACHER,PROFESSOR,5.0
+1805,Economics,4002,Vanderbilt University,Quan,,Wen,602055,16,average,TEACHER,PROFESSOR,3.2
+1806,Languages,4002,Vanderbilt University,Steven,,Wenz,1643342,9,good,TEACHER,PROFESSOR,4.8
+1807,Languages,4002,Vanderbilt University,Meike,,Werner,794711,9,good,TEACHER,PROFESSOR,4.7
+1808,Anthropology,4002,Vanderbilt University,Steve,,Wernke,1068660,12,good,TEACHER,PROFESSOR,4.1
+1809,Languages,4002,Vanderbilt University,Katherine,,Wesolek,2189023,9,good,TEACHER,PROFESSOR,4.8
+1810,Education,4002,Vanderbilt University,Tonya,,West,629153,0,zero,TEACHER,PROFESSOR,N/A
+1811,Communication,4002,Vanderbilt University,Isaac,Neil,West,2475420,3,good,TEACHER,PROFESSOR,5.0
+1812,Economics,4002,Vanderbilt University,Diana,,Weymark,594971,52,average,TEACHER,PROFESSOR,3.0
+1813,Economics,4002,Vanderbilt University,John,,Weymark,383307,15,good,TEACHER,PROFESSOR,4.0
+1814,Classics,4002,Vanderbilt University,Georgina,,White,2293170,3,good,TEACHER,PROFESSOR,4.7
+1815,Computer Science,4002,Vanderbilt University,Christopher,,White,2415495,1,good,TEACHER,PROFESSOR,5.0
+1816,Languages,4002,Vanderbilt University,Bryant,,White,2517990,0,zero,TEACHER,PROFESSOR,N/A
+1817,Computer Science,4002,Vanderbilt University,Jules,,White,1276377,4,good,TEACHER,PROFESSOR,4.3
+1818,Mathematics,4002,Vanderbilt University,Jonathon,,Whitehouse,1319659,33,average,TEACHER,PROFESSOR,2.7
+1819,Languages,4002,Vanderbilt University,Karin,,Whitehouse,1676788,1,good,TEACHER,PROFESSOR,3.5
+1820,African-American Studies,4002,Vanderbilt University,Gilman,,Whiting,742312,51,good,TEACHER,PROFESSOR,3.9
+1821,Philosophy,4002,Vanderbilt University,Norman,,Whitman,1484764,11,good,TEACHER,PROFESSOR,4.6
+1822,Philosophy,4002,Vanderbilt University,Matt,,Whitt,832743,7,good,TEACHER,PROFESSOR,4.3
+1823,Classics,4002,Vanderbilt University,Bronwen,,Wickkiser,1078594,4,good,TEACHER,PROFESSOR,4.6
+1824,Engineering,4002,Vanderbilt University,John,,Wikswo,600153,6,average,TEACHER,PROFESSOR,2.5
+1825,Neuroscience,4002,Vanderbilt University,Gaynor,,Wild,1552222,14,good,TEACHER,PROFESSOR,4.1
+1826,Music,4002,Vanderbilt University,Matthew,,Wilder,1053035,4,average,TEACHER,PROFESSOR,2.8
+1827,Engineering,4002,Vanderbilt University,Mitch,,Wilkes,126071,15,good,TEACHER,PROFESSOR,4.2
+1828,Mathematics,4002,Vanderbilt University,Rufus,,Willett,1385988,6,good,TEACHER,PROFESSOR,3.8
+1829,Music,4002,Vanderbilt University,David,,Williams,975562,8,good,TEACHER,PROFESSOR,3.8
+1830,History,4002,Vanderbilt University,Rhonda,,Williams,2362256,2,average,TEACHER,PROFESSOR,3.0
+1831,Health Science,4002,Vanderbilt University,Caroline,,Williams,2604538,0,zero,TEACHER,PROFESSOR,N/A
+1832,Management,4002,Vanderbilt University,Leonora,,Williamson,2645405,2,good,TEACHER,PROFESSOR,4.0
+1833,Business,4002,Vanderbilt University,Richard,,Willis,1826054,1,good,TEACHER,PROFESSOR,5.0
+1834,History,4002,Vanderbilt University,Adam,,Wilsman,1359411,0,zero,TEACHER,PROFESSOR,N/A
+1835,Music,4002,Vanderbilt University,Jeremy,,Wilson,1845074,1,good,TEACHER,PROFESSOR,5.0
+1836,Languages,4002,Vanderbilt University,Cara,,Wilson,2082562,9,good,TEACHER,PROFESSOR,4.8
+1837,Engineering,4002,Vanderbilt University,John,,Wilson,2091729,5,good,TEACHER,PROFESSOR,4.1
+1838,Political Science,4002,Vanderbilt University,Alan,,Wiseman,1603660,27,good,TEACHER,PROFESSOR,4.2
+1839,Nursing,4002,Vanderbilt University,Terry,,Witherington,399016,6,good,TEACHER,PROFESSOR,3.7
+1840,Engineering,4002,Vanderbilt University,Thomas,,Withrow,1470763,7,good,TEACHER,PROFESSOR,4.3
+1841,Engineering,4002,Vanderbilt University,James,,Wittig,195556,30,good,TEACHER,PROFESSOR,4.2
+1842,Engineering,4002,Vanderbilt University,Arthur,,Witulski,1728738,7,good,TEACHER,PROFESSOR,4.2
+1843,Biology,4002,Vanderbilt University,Mark,,Woelfle,285414,60,good,TEACHER,PROFESSOR,3.8
+1844,Education,4002,Vanderbilt University,Mark,,Wolery,289793,5,good,TEACHER,PROFESSOR,3.9
+1845,English,4002,Vanderbilt University,Mark,,Wollaeger,949775,34,good,TEACHER,PROFESSOR,4.4
+1846,Neuroscience,4002,Vanderbilt University,Thilo,,Womelsdorf,2455996,1,good,TEACHER,PROFESSOR,5.0
+1847,Political Science,4002,Vanderbilt University,Jungmoo,,Woo,2057094,1,poor,TEACHER,PROFESSOR,2.0
+1848,Philosophy,4002,Vanderbilt University,David,,Wood,136395,9,good,TEACHER,PROFESSOR,3.5
+1849,Communication,4002,Vanderbilt University,Dustin,,Wood,1997421,21,average,TEACHER,PROFESSOR,3.3
+1850,Economics,4002,Vanderbilt University,Myrna,,Wooders,914323,15,poor,TEACHER,PROFESSOR,2.3
+1851,Business,4002,Vanderbilt University,Philip,K,Woodlief,2419483,3,good,TEACHER,PROFESSOR,4.3
+1852,Neuroscience,4002,Vanderbilt University,Geoffrey,,Woodman,1267206,12,good,TEACHER,PROFESSOR,3.7
+1853,Sociology,4002,Vanderbilt University,Laurie,,Woods,1052727,32,good,TEACHER,PROFESSOR,4.7
+1854,English,4002,Vanderbilt University,Chance,,Woods,1743384,21,good,TEACHER,PROFESSOR,3.7
+1855,Languages,4002,Vanderbilt University,Boston,,Woolfolk,1805012,2,good,TEACHER,PROFESSOR,5.0
+1856,Mathematics,4002,Vanderbilt University,Grace,,Work,2250206,17,good,TEACHER,PROFESSOR,4.2
+1857,Engineering,4002,Vanderbilt University,Dan,,Work,2585108,1,good,TEACHER,PROFESSOR,5.0
+1858,Art History,4002,Vanderbilt University,Matthew,,Worsnick,2418313,5,good,TEACHER,PROFESSOR,5.0
+1859,Chemistry,4002,Vanderbilt University,David,,Wright,308476,30,average,TEACHER,PROFESSOR,2.8
+1860,History,4002,Vanderbilt University,Edward,,Wright-Rios,593720,9,good,TEACHER,PROFESSOR,4.0
+1861,Mathematics,4002,Vanderbilt University,Yixiang,,Wu,2249098,12,good,TEACHER,PROFESSOR,3.8
+1862,Business,4002,Vanderbilt University,Freeman,,Wu,2435609,6,good,TEACHER,PROFESSOR,4.2
+1863,Psychology,4002,Vanderbilt University,Hao,,Wu,2460835,15,average,TEACHER,PROFESSOR,2.5
+1864,Philosophy,4002,Vanderbilt University,Julian,,Wuerth,1322819,15,good,TEACHER,PROFESSOR,3.7
+1865,Engineering,4002,Vanderbilt University,Ryszard,,Wycisk,2230467,3,poor,TEACHER,PROFESSOR,1.0
+1866,Mathematics,4002,Vanderbilt University,Daoxing,,Xia,133777,25,poor,TEACHER,PROFESSOR,2.4
+1867,Mathematics,4002,Vanderbilt University,Zhizhang,,Xie,1639176,7,good,TEACHER,PROFESSOR,3.8
+1868,Engineering,4002,Vanderbilt University,Roy,,Xu,351590,13,poor,TEACHER,PROFESSOR,2.2
+1869,Economics,4002,Vanderbilt University,Qi,,Xu,2609903,0,zero,TEACHER,PROFESSOR,N/A
+1870,Computer Science,4002,Vanderbilt University,Yuan,,Xue,956604,2,good,TEACHER,PROFESSOR,4.5
+1871,Law,4002,Vanderbilt University,Yesha,,Yadav,2500101,0,zero,TEACHER,PROFESSOR,N/A
+1872,Medicine,4002,Vanderbilt University,Marian,,Yagel,1337084,10,good,TEACHER,PROFESSOR,4.0
+1873,Anthropology,4002,Vanderbilt University,Anna,,Yant,1934392,4,good,TEACHER,PROFESSOR,4.6
+1874,Education,4002,Vanderbilt University,Sharon,,Yates,1209017,0,zero,TEACHER,PROFESSOR,N/A
+1875,Mathematics,4002,Vanderbilt University,Ju-Yi,,Yen,1239809,7,poor,TEACHER,PROFESSOR,1.7
+1876,Languages,4002,Vanderbilt University,Orit,,Yeret,2126866,2,good,TEACHER,PROFESSOR,4.5
+1877,Asian Studies,4002,Vanderbilt University,We Jung,,Yi,2471290,9,good,TEACHER,PROFESSOR,3.8
+1878,Neuroscience,4002,Vanderbilt University,Samantha,,Yohn,2343691,24,good,TEACHER,PROFESSOR,4.0
+1879,Philosophy,4002,Vanderbilt University,Rachael,,Yonek,2584782,0,zero,TEACHER,PROFESSOR,N/A
+1880,Political Science,4002,Vanderbilt University,Hye,Young,You,2253824,2,good,TEACHER,PROFESSOR,5.0
+1881,English,4002,Vanderbilt University,Paul,,Young,393014,12,good,TEACHER,PROFESSOR,4.7
+1882,Engineering,4002,Vanderbilt University,Jamey,,Young,1628805,3,good,TEACHER,PROFESSOR,4.0
+1883,Engineering,4002,Vanderbilt University,Azizeh (Amy),,Yousefi,2092170,2,good,TEACHER,PROFESSOR,4.2
+1884,Women's Studies,4002,Vanderbilt University,Mary,,Zaborskis,2297546,3,good,TEACHER,PROFESSOR,5.0
+1885,Psychology,4002,Vanderbilt University,David,,Zald,202540,21,good,TEACHER,PROFESSOR,4.1
+1886,Languages,4002,Vanderbilt University,Andres,,Zamora,535823,12,good,TEACHER,PROFESSOR,4.8
+1887,Economics,4002,Vanderbilt University,Matthew,,Zaragoza-Watkins,2313915,13,average,TEACHER,PROFESSOR,3.4
+1888,Mathematics,4002,Vanderbilt University,Kourosh,,Zarringhalam,1032679,7,good,TEACHER,PROFESSOR,3.9
+1889,Political Science,4002,Vanderbilt University,Elizabeth,,Zechmeister,1193334,6,good,TEACHER,PROFESSOR,4.9
+1890,Engineering,4002,Vanderbilt University,Karl,,Zelik,1996488,5,good,TEACHER,PROFESSOR,4.3
+1891,Languages,4002,Vanderbilt University,Christoph,,Zeller,912467,13,good,TEACHER,PROFESSOR,4.3
+1892,Philosophy,4002,Vanderbilt University,Scott,,Zeman,1414568,5,poor,TEACHER,PROFESSOR,2.4
+1893,Law,4002,Vanderbilt University,Nicholas,,Zeppos,1255781,1,good,TEACHER,PROFESSOR,5.0
+1894,Biomedical,4002,Vanderbilt University,Linda,,Zhang,1715777,3,good,TEACHER,PROFESSOR,5.0
+1895,Computer Science,4002,Vanderbilt University,Zhenkai,,Zhang,2272974,3,good,TEACHER,PROFESSOR,5.0
+1896,Mathematics,4002,Vanderbilt University,Dechao,,Zheng,1145740,28,average,TEACHER,PROFESSOR,3.0
+1897,Languages,4002,Vanderbilt University,Denis,A,Zhernokleyev,2176130,15,good,TEACHER,PROFESSOR,4.5
+1898,Mathematics,4002,Vanderbilt University,Changyong,,Zhong,789281,3,good,TEACHER,PROFESSOR,4.2
+1899,Mathematics,4002,Vanderbilt University,QI,,Zhong,1381339,5,good,TEACHER,PROFESSOR,4.4
+1900,Mathematics,4002,Vanderbilt University,Dongping,,Zhuang,1330820,14,poor,TEACHER,PROFESSOR,1.6
+1901,Fine Arts,4002,Vanderbilt University,Mel,,Ziegler,1241913,2,average,TEACHER,PROFESSOR,3.2
+1902,Economics,4002,Vanderbilt University,Ariell,,Zimran,2248083,8,average,TEACHER,PROFESSOR,2.8
+1903,Economics,4002,Vanderbilt University,Ben,,Zissimos,384535,35,good,TEACHER,PROFESSOR,4.0
+1904,Economics,4002,Vanderbilt University,Isleide,,Zissimos,1299017,15,average,TEACHER,PROFESSOR,3.2
+1905,Chemistry,4002,Vanderbilt University,Grace,,Zoorob,840384,11,average,TEACHER,PROFESSOR,3.2
+1906,Anthropology,4002,Vanderbilt University,Jamie,,Zuehl,1199615,1,poor,TEACHER,PROFESSOR,1.0
+1907,Biology,4002,Vanderbilt University,Laurence,,Zwiebel,1122786,48,average,TEACHER,PROFESSOR,2.5
