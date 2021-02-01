@@ -17,3 +17,5 @@ num_review = school.loc[school.tid == prof_id, 'tNumRatings'].values[0]
 professor = ProfReviewScraper(prof_id, num_review)
 reviews = professor.getAllReviews()
 ```
+
+Go to the demo folder if you want to see a sample output.
