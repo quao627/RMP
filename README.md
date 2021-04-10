@@ -18,4 +18,4 @@ professor = ProfReviewScraper(prof_id, num_review)
 reviews = professor.getAllReviews()
 ```
 
-Check out the demo notebook if you want to see a sample output.
+Check out the demo notebook for a sample output.
