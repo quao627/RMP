@@ -1,9 +1,9 @@
 # RMP
-This is a scraper that scrapes information about all the professors and reviews of a given school on RateMyProfessor.
+This is a scraper that collects information about all the professors and reviews of a given school on RateMyProfessor.
 
 It can be easily implemented by following these steps:
 1. Search your school on RateMyProfessor website. 
-2. After you are directed to the school page, you will see a "sid=xxxx" part in the link and "xxxx" is the unique id assign for the school.
+2. After you are directed to the school page, you will see a "sid=xxxx" part in the link and "xxxx" is the unique id assigned for the school.
 3. Then, use the following python code:
 ```python
 school_id = 4002  # 4002 is the id for Vanderbilt University.
